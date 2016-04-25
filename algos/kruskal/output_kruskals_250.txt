@@ -1,0 +1,14941 @@
+KRUSKAL'S USING UNION FIND
+
+Edge 1-11
+Edge cost0
+
+Edge 2-22
+Edge cost0
+
+Edge 3-33
+Edge cost0
+
+Edge 4-44
+Edge cost0
+
+Edge 5-55
+Edge cost0
+
+Edge 6-66
+Edge cost0
+
+Edge 7-77
+Edge cost0
+
+Edge 8-88
+Edge cost0
+
+Edge 9-99
+Edge cost0
+
+Edge 10-1010
+Edge cost0
+
+Edge 11-1111
+Edge cost0
+
+Edge 12-22
+Edge cost0
+
+Edge 13-33
+Edge cost0
+
+Edge 14-44
+Edge cost0
+
+Edge 15-55
+Edge cost0
+
+Edge 16-66
+Edge cost0
+
+Edge 17-77
+Edge cost0
+
+Edge 18-88
+Edge cost0
+
+Edge 19-99
+Edge cost0
+
+Edge 110-1010
+Edge cost0
+
+Edge 111-1111
+Edge cost0
+
+Edge 23-33
+Edge cost0
+
+Edge 24-44
+Edge cost0
+
+Edge 25-55
+Edge cost0
+
+Edge 26-66
+Edge cost0
+
+Edge 27-77
+Edge cost0
+
+Edge 28-88
+Edge cost0
+
+Edge 29-99
+Edge cost0
+
+Edge 210-1010
+Edge cost0
+
+Edge 211-1111
+Edge cost0
+
+Edge 34-44
+Edge cost0
+
+Edge 35-55
+Edge cost0
+
+Edge 36-66
+Edge cost0
+
+Edge 37-77
+Edge cost0
+
+Edge 38-88
+Edge cost0
+
+Edge 39-99
+Edge cost0
+
+Edge 310-1010
+Edge cost0
+
+Edge 311-1111
+Edge cost0
+
+Edge 45-55
+Edge cost0
+
+Edge 46-66
+Edge cost0
+
+Edge 47-77
+Edge cost0
+
+Edge 48-88
+Edge cost0
+
+Edge 49-99
+Edge cost0
+
+Edge 410-1010
+Edge cost0
+
+Edge 411-1111
+Edge cost0
+
+Edge 56-66
+Edge cost0
+
+Edge 57-77
+Edge cost0
+
+Edge 58-88
+Edge cost0
+
+Edge 59-99
+Edge cost0
+
+Edge 510-1010
+Edge cost0
+
+Edge 511-1111
+Edge cost0
+
+Edge 67-77
+Edge cost0
+
+Edge 68-88
+Edge cost0
+
+Edge 69-99
+Edge cost0
+
+Edge 610-1010
+Edge cost0
+
+Edge 611-1111
+Edge cost0
+
+Edge 78-88
+Edge cost0
+
+Edge 79-99
+Edge cost0
+
+Edge 710-1010
+Edge cost0
+
+Edge 711-1111
+Edge cost0
+
+Edge 89-99
+Edge cost0
+
+Edge 810-1010
+Edge cost0
+
+Edge 811-1111
+Edge cost0
+
+Edge 910-1010
+Edge cost0
+
+Edge 911-1111
+Edge cost0
+
+Edge 1011-1111
+Edge cost0
+
+Edge 0-1
+Edge cost1
+
+Edge 0-10
+Edge cost2
+
+Edge 1-2
+Edge cost3
+
+Edge 1-20
+Edge cost4
+
+Edge 1-21
+Edge cost5
+
+Edge 2-13
+Edge cost6
+
+Edge 2-31
+Edge cost7
+
+Edge 2-32
+Edge cost8
+
+Edge 3-24
+Edge cost9
+
+Edge 3-42
+Edge cost10
+
+Edge 3-43
+Edge cost11
+
+Edge 4-35
+Edge cost12
+
+Edge 4-53
+Edge cost13
+
+Edge 4-54
+Edge cost14
+
+Edge 5-46
+Edge cost15
+
+Edge 5-64
+Edge cost16
+
+Edge 5-65
+Edge cost17
+
+Edge 6-57
+Edge cost18
+
+Edge 6-75
+Edge cost19
+
+Edge 6-76
+Edge cost20
+
+Edge 7-68
+Edge cost21
+
+Edge 7-86
+Edge cost22
+
+Edge 7-87
+Edge cost23
+
+Edge 8-79
+Edge cost24
+
+Edge 8-97
+Edge cost25
+
+Edge 8-98
+Edge cost26
+
+Edge 9-108
+Edge cost27
+
+Edge 9-109
+Edge cost28
+
+Edge 10-99
+Edge cost29
+
+Edge 10-910
+Edge cost30
+
+Edge 10-911
+Edge cost31
+
+Edge 10-109
+Edge cost32
+
+Edge 10-1011
+Edge cost33
+
+Edge 10-119
+Edge cost34
+
+Edge 10-1110
+Edge cost35
+
+Edge 10-1111
+Edge cost36
+
+Edge 11-1010
+Edge cost37
+
+Edge 11-1011
+Edge cost38
+
+Edge 11-1012
+Edge cost39
+
+Edge 11-1110
+Edge cost40
+
+Edge 11-1112
+Edge cost41
+
+Edge 12-1111
+Edge cost42
+
+Edge 12-1112
+Edge cost43
+
+Edge 12-1113
+Edge cost44
+
+Edge 110-99
+Edge cost45
+
+Edge 110-910
+Edge cost46
+
+Edge 110-911
+Edge cost47
+
+Edge 110-109
+Edge cost48
+
+Edge 110-1011
+Edge cost49
+
+Edge 110-119
+Edge cost50
+
+Edge 110-1110
+Edge cost51
+
+Edge 110-1111
+Edge cost52
+
+Edge 111-1010
+Edge cost53
+
+Edge 111-1011
+Edge cost54
+
+Edge 111-1012
+Edge cost55
+
+Edge 111-1110
+Edge cost56
+
+Edge 111-1112
+Edge cost57
+
+Edge 112-1111
+Edge cost58
+
+Edge 112-1112
+Edge cost59
+
+Edge 112-1113
+Edge cost60
+
+Edge 212-1111
+Edge cost61
+
+Edge 312-1111
+Edge cost62
+
+Edge 412-1111
+Edge cost63
+
+Edge 512-1111
+Edge cost64
+
+Edge 612-1111
+Edge cost65
+
+Edge 712-1111
+Edge cost66
+
+Edge 812-1111
+Edge cost67
+
+Edge 912-1111
+Edge cost68
+
+Edge 1-30
+Edge cost70
+
+Edge 2-40
+Edge cost72
+
+Edge 2-41
+Edge cost74
+
+Edge 3-51
+Edge cost76
+
+Edge 3-52
+Edge cost78
+
+Edge 4-62
+Edge cost80
+
+Edge 4-63
+Edge cost82
+
+Edge 5-73
+Edge cost84
+
+Edge 5-74
+Edge cost86
+
+Edge 6-84
+Edge cost88
+
+Edge 6-85
+Edge cost90
+
+Edge 7-95
+Edge cost92
+
+Edge 7-96
+Edge cost94
+
+Edge 8-106
+Edge cost96
+
+Edge 8-107
+Edge cost98
+
+Edge 9-117
+Edge cost100
+
+Edge 9-118
+Edge cost102
+
+Edge 10-88
+Edge cost104
+
+Edge 10-89
+Edge cost106
+
+Edge 10-810
+Edge cost108
+
+Edge 10-811
+Edge cost110
+
+Edge 10-812
+Edge cost112
+
+Edge 10-98
+Edge cost114
+
+Edge 10-912
+Edge cost116
+
+Edge 10-108
+Edge cost118
+
+Edge 10-1012
+Edge cost120
+
+Edge 10-118
+Edge cost122
+
+Edge 10-1112
+Edge cost124
+
+Edge 10-128
+Edge cost126
+
+Edge 10-129
+Edge cost128
+
+Edge 11-99
+Edge cost130
+
+Edge 11-910
+Edge cost132
+
+Edge 11-911
+Edge cost134
+
+Edge 11-912
+Edge cost136
+
+Edge 11-913
+Edge cost138
+
+Edge 11-109
+Edge cost140
+
+Edge 11-1013
+Edge cost142
+
+Edge 11-119
+Edge cost144
+
+Edge 11-1113
+Edge cost146
+
+Edge 11-129
+Edge cost148
+
+Edge 12-1010
+Edge cost150
+
+Edge 12-1011
+Edge cost152
+
+Edge 12-1012
+Edge cost154
+
+Edge 12-1013
+Edge cost156
+
+Edge 12-1014
+Edge cost158
+
+Edge 12-1110
+Edge cost160
+
+Edge 12-1114
+Edge cost162
+
+Edge 13-1111
+Edge cost164
+
+Edge 13-1112
+Edge cost166
+
+Edge 13-1113
+Edge cost168
+
+Edge 13-1114
+Edge cost170
+
+Edge 13-1115
+Edge cost172
+
+Edge 110-88
+Edge cost174
+
+Edge 110-89
+Edge cost176
+
+Edge 110-810
+Edge cost178
+
+Edge 110-811
+Edge cost180
+
+Edge 110-812
+Edge cost182
+
+Edge 110-98
+Edge cost184
+
+Edge 110-912
+Edge cost186
+
+Edge 110-108
+Edge cost188
+
+Edge 110-1012
+Edge cost190
+
+Edge 110-118
+Edge cost192
+
+Edge 110-1112
+Edge cost194
+
+Edge 110-128
+Edge cost196
+
+Edge 110-129
+Edge cost198
+
+Edge 111-99
+Edge cost200
+
+Edge 111-910
+Edge cost202
+
+Edge 111-911
+Edge cost204
+
+Edge 111-912
+Edge cost206
+
+Edge 111-913
+Edge cost208
+
+Edge 111-109
+Edge cost210
+
+Edge 111-1013
+Edge cost212
+
+Edge 111-119
+Edge cost214
+
+Edge 111-1113
+Edge cost216
+
+Edge 111-129
+Edge cost218
+
+Edge 112-1010
+Edge cost220
+
+Edge 112-1011
+Edge cost222
+
+Edge 112-1012
+Edge cost224
+
+Edge 112-1013
+Edge cost226
+
+Edge 112-1014
+Edge cost228
+
+Edge 112-1110
+Edge cost230
+
+Edge 112-1114
+Edge cost232
+
+Edge 113-1111
+Edge cost234
+
+Edge 113-1112
+Edge cost236
+
+Edge 113-1113
+Edge cost238
+
+Edge 113-1114
+Edge cost240
+
+Edge 113-1115
+Edge cost242
+
+Edge 213-1111
+Edge cost244
+
+Edge 313-1111
+Edge cost246
+
+Edge 413-1111
+Edge cost248
+
+Edge 513-1111
+Edge cost250
+
+Edge 613-1111
+Edge cost252
+
+Edge 713-1111
+Edge cost254
+
+Edge 813-1111
+Edge cost256
+
+Edge 2-50
+Edge cost259
+
+Edge 3-61
+Edge cost262
+
+Edge 4-72
+Edge cost265
+
+Edge 5-83
+Edge cost268
+
+Edge 6-94
+Edge cost271
+
+Edge 7-105
+Edge cost274
+
+Edge 8-116
+Edge cost277
+
+Edge 9-127
+Edge cost280
+
+Edge 10-78
+Edge cost283
+
+Edge 10-79
+Edge cost286
+
+Edge 10-710
+Edge cost289
+
+Edge 10-711
+Edge cost292
+
+Edge 10-712
+Edge cost295
+
+Edge 10-87
+Edge cost298
+
+Edge 10-813
+Edge cost301
+
+Edge 10-97
+Edge cost304
+
+Edge 10-913
+Edge cost307
+
+Edge 10-107
+Edge cost310
+
+Edge 10-1013
+Edge cost313
+
+Edge 10-117
+Edge cost316
+
+Edge 10-1113
+Edge cost319
+
+Edge 10-127
+Edge cost322
+
+Edge 11-89
+Edge cost325
+
+Edge 11-810
+Edge cost328
+
+Edge 11-811
+Edge cost331
+
+Edge 11-812
+Edge cost334
+
+Edge 11-813
+Edge cost337
+
+Edge 11-98
+Edge cost340
+
+Edge 11-914
+Edge cost343
+
+Edge 11-108
+Edge cost346
+
+Edge 11-1014
+Edge cost349
+
+Edge 11-118
+Edge cost352
+
+Edge 11-1114
+Edge cost355
+
+Edge 11-128
+Edge cost358
+
+Edge 12-910
+Edge cost361
+
+Edge 12-911
+Edge cost364
+
+Edge 12-912
+Edge cost367
+
+Edge 12-913
+Edge cost370
+
+Edge 12-914
+Edge cost373
+
+Edge 12-109
+Edge cost376
+
+Edge 12-1015
+Edge cost379
+
+Edge 12-119
+Edge cost382
+
+Edge 12-1115
+Edge cost385
+
+Edge 12-129
+Edge cost388
+
+Edge 13-1011
+Edge cost391
+
+Edge 13-1012
+Edge cost394
+
+Edge 13-1013
+Edge cost397
+
+Edge 13-1014
+Edge cost400
+
+Edge 13-1015
+Edge cost403
+
+Edge 13-1110
+Edge cost406
+
+Edge 13-1116
+Edge cost409
+
+Edge 14-1112
+Edge cost412
+
+Edge 14-1113
+Edge cost415
+
+Edge 14-1114
+Edge cost418
+
+Edge 14-1115
+Edge cost421
+
+Edge 14-1116
+Edge cost424
+
+Edge 110-78
+Edge cost427
+
+Edge 110-79
+Edge cost430
+
+Edge 110-710
+Edge cost433
+
+Edge 110-711
+Edge cost436
+
+Edge 110-712
+Edge cost439
+
+Edge 110-87
+Edge cost442
+
+Edge 110-813
+Edge cost445
+
+Edge 110-97
+Edge cost448
+
+Edge 110-913
+Edge cost451
+
+Edge 110-107
+Edge cost454
+
+Edge 110-1013
+Edge cost457
+
+Edge 110-117
+Edge cost460
+
+Edge 110-1113
+Edge cost463
+
+Edge 110-127
+Edge cost466
+
+Edge 111-89
+Edge cost469
+
+Edge 111-810
+Edge cost472
+
+Edge 111-811
+Edge cost475
+
+Edge 111-812
+Edge cost478
+
+Edge 111-813
+Edge cost481
+
+Edge 111-98
+Edge cost484
+
+Edge 111-914
+Edge cost487
+
+Edge 111-108
+Edge cost490
+
+Edge 111-1014
+Edge cost493
+
+Edge 111-118
+Edge cost496
+
+Edge 111-1114
+Edge cost499
+
+Edge 111-128
+Edge cost502
+
+Edge 112-910
+Edge cost505
+
+Edge 112-911
+Edge cost508
+
+Edge 112-912
+Edge cost511
+
+Edge 112-913
+Edge cost514
+
+Edge 112-914
+Edge cost517
+
+Edge 112-109
+Edge cost520
+
+Edge 112-1015
+Edge cost523
+
+Edge 112-119
+Edge cost526
+
+Edge 112-1115
+Edge cost529
+
+Edge 112-129
+Edge cost532
+
+Edge 113-1011
+Edge cost535
+
+Edge 113-1012
+Edge cost538
+
+Edge 113-1013
+Edge cost541
+
+Edge 113-1014
+Edge cost544
+
+Edge 113-1015
+Edge cost547
+
+Edge 113-1110
+Edge cost550
+
+Edge 113-1116
+Edge cost553
+
+Edge 114-1112
+Edge cost556
+
+Edge 114-1113
+Edge cost559
+
+Edge 114-1114
+Edge cost562
+
+Edge 114-1115
+Edge cost565
+
+Edge 114-1116
+Edge cost568
+
+Edge 214-1112
+Edge cost571
+
+Edge 314-1112
+Edge cost574
+
+Edge 414-1112
+Edge cost577
+
+Edge 514-1112
+Edge cost580
+
+Edge 614-1112
+Edge cost583
+
+Edge 714-1112
+Edge cost586
+
+Edge 814-1112
+Edge cost589
+
+Edge 2-60
+Edge cost593
+
+Edge 3-71
+Edge cost597
+
+Edge 4-82
+Edge cost601
+
+Edge 5-93
+Edge cost605
+
+Edge 6-104
+Edge cost609
+
+Edge 7-115
+Edge cost613
+
+Edge 8-126
+Edge cost617
+
+Edge 10-68
+Edge cost621
+
+Edge 10-69
+Edge cost625
+
+Edge 10-610
+Edge cost629
+
+Edge 10-611
+Edge cost633
+
+Edge 10-612
+Edge cost637
+
+Edge 10-77
+Edge cost641
+
+Edge 10-713
+Edge cost645
+
+Edge 10-86
+Edge cost649
+
+Edge 10-814
+Edge cost653
+
+Edge 10-96
+Edge cost657
+
+Edge 10-914
+Edge cost661
+
+Edge 10-106
+Edge cost665
+
+Edge 10-1014
+Edge cost669
+
+Edge 10-116
+Edge cost673
+
+Edge 10-1114
+Edge cost677
+
+Edge 10-126
+Edge cost681
+
+Edge 11-79
+Edge cost685
+
+Edge 11-710
+Edge cost689
+
+Edge 11-711
+Edge cost693
+
+Edge 11-712
+Edge cost697
+
+Edge 11-713
+Edge cost701
+
+Edge 11-88
+Edge cost705
+
+Edge 11-814
+Edge cost709
+
+Edge 11-97
+Edge cost713
+
+Edge 11-915
+Edge cost717
+
+Edge 11-107
+Edge cost721
+
+Edge 11-1015
+Edge cost725
+
+Edge 11-117
+Edge cost729
+
+Edge 11-1115
+Edge cost733
+
+Edge 11-127
+Edge cost737
+
+Edge 12-810
+Edge cost741
+
+Edge 12-811
+Edge cost745
+
+Edge 12-812
+Edge cost749
+
+Edge 12-813
+Edge cost753
+
+Edge 12-814
+Edge cost757
+
+Edge 12-99
+Edge cost761
+
+Edge 12-915
+Edge cost765
+
+Edge 12-108
+Edge cost769
+
+Edge 12-1016
+Edge cost773
+
+Edge 12-118
+Edge cost777
+
+Edge 12-1116
+Edge cost781
+
+Edge 12-128
+Edge cost785
+
+Edge 13-911
+Edge cost789
+
+Edge 13-912
+Edge cost793
+
+Edge 13-913
+Edge cost797
+
+Edge 13-914
+Edge cost801
+
+Edge 13-915
+Edge cost805
+
+Edge 13-1010
+Edge cost809
+
+Edge 13-1016
+Edge cost813
+
+Edge 13-119
+Edge cost817
+
+Edge 13-1117
+Edge cost821
+
+Edge 13-129
+Edge cost825
+
+Edge 14-1012
+Edge cost829
+
+Edge 14-1013
+Edge cost833
+
+Edge 14-1014
+Edge cost837
+
+Edge 14-1015
+Edge cost841
+
+Edge 14-1016
+Edge cost845
+
+Edge 14-1111
+Edge cost849
+
+Edge 14-1117
+Edge cost853
+
+Edge 15-1113
+Edge cost857
+
+Edge 15-1114
+Edge cost861
+
+Edge 15-1115
+Edge cost865
+
+Edge 15-1116
+Edge cost869
+
+Edge 15-1117
+Edge cost873
+
+Edge 110-68
+Edge cost877
+
+Edge 110-69
+Edge cost881
+
+Edge 110-610
+Edge cost885
+
+Edge 110-611
+Edge cost889
+
+Edge 110-612
+Edge cost893
+
+Edge 110-77
+Edge cost897
+
+Edge 110-713
+Edge cost901
+
+Edge 110-86
+Edge cost905
+
+Edge 110-814
+Edge cost909
+
+Edge 110-96
+Edge cost913
+
+Edge 110-914
+Edge cost917
+
+Edge 110-106
+Edge cost921
+
+Edge 110-1014
+Edge cost925
+
+Edge 110-116
+Edge cost929
+
+Edge 110-1114
+Edge cost933
+
+Edge 110-126
+Edge cost937
+
+Edge 111-79
+Edge cost941
+
+Edge 111-710
+Edge cost945
+
+Edge 111-711
+Edge cost949
+
+Edge 111-712
+Edge cost953
+
+Edge 111-713
+Edge cost957
+
+Edge 111-88
+Edge cost961
+
+Edge 111-814
+Edge cost965
+
+Edge 111-97
+Edge cost969
+
+Edge 111-915
+Edge cost973
+
+Edge 111-107
+Edge cost977
+
+Edge 111-1015
+Edge cost981
+
+Edge 111-117
+Edge cost985
+
+Edge 111-1115
+Edge cost989
+
+Edge 111-127
+Edge cost993
+
+Edge 112-810
+Edge cost997
+
+Edge 112-811
+Edge cost1001
+
+Edge 112-812
+Edge cost1005
+
+Edge 112-813
+Edge cost1009
+
+Edge 112-814
+Edge cost1013
+
+Edge 112-99
+Edge cost1017
+
+Edge 112-915
+Edge cost1021
+
+Edge 112-108
+Edge cost1025
+
+Edge 112-1016
+Edge cost1029
+
+Edge 112-118
+Edge cost1033
+
+Edge 112-1116
+Edge cost1037
+
+Edge 112-128
+Edge cost1041
+
+Edge 113-911
+Edge cost1045
+
+Edge 113-912
+Edge cost1049
+
+Edge 113-913
+Edge cost1053
+
+Edge 113-914
+Edge cost1057
+
+Edge 113-915
+Edge cost1061
+
+Edge 113-1010
+Edge cost1065
+
+Edge 113-1016
+Edge cost1069
+
+Edge 113-119
+Edge cost1073
+
+Edge 113-1117
+Edge cost1077
+
+Edge 113-129
+Edge cost1081
+
+Edge 114-1012
+Edge cost1085
+
+Edge 114-1013
+Edge cost1089
+
+Edge 114-1014
+Edge cost1093
+
+Edge 114-1015
+Edge cost1097
+
+Edge 114-1016
+Edge cost1101
+
+Edge 114-1111
+Edge cost1105
+
+Edge 114-1117
+Edge cost1109
+
+Edge 115-1113
+Edge cost1113
+
+Edge 115-1114
+Edge cost1117
+
+Edge 115-1115
+Edge cost1121
+
+Edge 115-1116
+Edge cost1125
+
+Edge 115-1117
+Edge cost1129
+
+Edge 215-1113
+Edge cost1133
+
+Edge 315-1113
+Edge cost1137
+
+Edge 415-1113
+Edge cost1141
+
+Edge 515-1113
+Edge cost1145
+
+Edge 615-1113
+Edge cost1149
+
+Edge 715-1113
+Edge cost1153
+
+Edge 815-1113
+Edge cost1157
+
+Edge 2-70
+Edge cost1162
+
+Edge 3-80
+Edge cost1167
+
+Edge 3-81
+Edge cost1172
+
+Edge 4-91
+Edge cost1177
+
+Edge 4-92
+Edge cost1182
+
+Edge 5-102
+Edge cost1187
+
+Edge 5-103
+Edge cost1192
+
+Edge 7-124
+Edge cost1197
+
+Edge 7-125
+Edge cost1202
+
+Edge 10-57
+Edge cost1207
+
+Edge 10-58
+Edge cost1212
+
+Edge 10-59
+Edge cost1217
+
+Edge 10-510
+Edge cost1222
+
+Edge 10-511
+Edge cost1227
+
+Edge 10-512
+Edge cost1232
+
+Edge 10-513
+Edge cost1237
+
+Edge 10-66
+Edge cost1242
+
+Edge 10-67
+Edge cost1247
+
+Edge 10-613
+Edge cost1252
+
+Edge 10-614
+Edge cost1257
+
+Edge 10-75
+Edge cost1262
+
+Edge 10-76
+Edge cost1267
+
+Edge 10-714
+Edge cost1272
+
+Edge 10-715
+Edge cost1277
+
+Edge 10-85
+Edge cost1282
+
+Edge 10-815
+Edge cost1287
+
+Edge 10-95
+Edge cost1292
+
+Edge 10-915
+Edge cost1297
+
+Edge 10-105
+Edge cost1302
+
+Edge 10-1015
+Edge cost1307
+
+Edge 10-115
+Edge cost1312
+
+Edge 10-1115
+Edge cost1317
+
+Edge 10-125
+Edge cost1322
+
+Edge 11-68
+Edge cost1327
+
+Edge 11-69
+Edge cost1332
+
+Edge 11-610
+Edge cost1337
+
+Edge 11-611
+Edge cost1342
+
+Edge 11-612
+Edge cost1347
+
+Edge 11-613
+Edge cost1352
+
+Edge 11-614
+Edge cost1357
+
+Edge 11-77
+Edge cost1362
+
+Edge 11-78
+Edge cost1367
+
+Edge 11-714
+Edge cost1372
+
+Edge 11-715
+Edge cost1377
+
+Edge 11-86
+Edge cost1382
+
+Edge 11-87
+Edge cost1387
+
+Edge 11-815
+Edge cost1392
+
+Edge 11-816
+Edge cost1397
+
+Edge 11-96
+Edge cost1402
+
+Edge 11-916
+Edge cost1407
+
+Edge 11-106
+Edge cost1412
+
+Edge 11-1016
+Edge cost1417
+
+Edge 11-116
+Edge cost1422
+
+Edge 11-1116
+Edge cost1427
+
+Edge 11-126
+Edge cost1432
+
+Edge 12-79
+Edge cost1437
+
+Edge 12-710
+Edge cost1442
+
+Edge 12-711
+Edge cost1447
+
+Edge 12-712
+Edge cost1452
+
+Edge 12-713
+Edge cost1457
+
+Edge 12-714
+Edge cost1462
+
+Edge 12-715
+Edge cost1467
+
+Edge 12-88
+Edge cost1472
+
+Edge 12-89
+Edge cost1477
+
+Edge 12-815
+Edge cost1482
+
+Edge 12-816
+Edge cost1487
+
+Edge 12-97
+Edge cost1492
+
+Edge 12-98
+Edge cost1497
+
+Edge 12-916
+Edge cost1502
+
+Edge 12-917
+Edge cost1507
+
+Edge 12-107
+Edge cost1512
+
+Edge 12-1017
+Edge cost1517
+
+Edge 12-117
+Edge cost1522
+
+Edge 12-1117
+Edge cost1527
+
+Edge 12-127
+Edge cost1532
+
+Edge 13-810
+Edge cost1537
+
+Edge 13-811
+Edge cost1542
+
+Edge 13-812
+Edge cost1547
+
+Edge 13-813
+Edge cost1552
+
+Edge 13-814
+Edge cost1557
+
+Edge 13-815
+Edge cost1562
+
+Edge 13-816
+Edge cost1567
+
+Edge 13-99
+Edge cost1572
+
+Edge 13-910
+Edge cost1577
+
+Edge 13-916
+Edge cost1582
+
+Edge 13-917
+Edge cost1587
+
+Edge 13-108
+Edge cost1592
+
+Edge 13-109
+Edge cost1597
+
+Edge 13-1017
+Edge cost1602
+
+Edge 13-1018
+Edge cost1607
+
+Edge 13-118
+Edge cost1612
+
+Edge 13-1118
+Edge cost1617
+
+Edge 13-128
+Edge cost1622
+
+Edge 14-911
+Edge cost1627
+
+Edge 14-912
+Edge cost1632
+
+Edge 14-913
+Edge cost1637
+
+Edge 14-914
+Edge cost1642
+
+Edge 14-915
+Edge cost1647
+
+Edge 14-916
+Edge cost1652
+
+Edge 14-917
+Edge cost1657
+
+Edge 14-1010
+Edge cost1662
+
+Edge 14-1011
+Edge cost1667
+
+Edge 14-1017
+Edge cost1672
+
+Edge 14-1018
+Edge cost1677
+
+Edge 14-119
+Edge cost1682
+
+Edge 14-1110
+Edge cost1687
+
+Edge 14-1118
+Edge cost1692
+
+Edge 14-1119
+Edge cost1697
+
+Edge 14-129
+Edge cost1702
+
+Edge 15-1012
+Edge cost1707
+
+Edge 15-1013
+Edge cost1712
+
+Edge 15-1014
+Edge cost1717
+
+Edge 15-1015
+Edge cost1722
+
+Edge 15-1016
+Edge cost1727
+
+Edge 15-1017
+Edge cost1732
+
+Edge 15-1018
+Edge cost1737
+
+Edge 15-1111
+Edge cost1742
+
+Edge 15-1112
+Edge cost1747
+
+Edge 15-1118
+Edge cost1752
+
+Edge 15-1119
+Edge cost1757
+
+Edge 16-1113
+Edge cost1762
+
+Edge 16-1114
+Edge cost1767
+
+Edge 16-1115
+Edge cost1772
+
+Edge 16-1116
+Edge cost1777
+
+Edge 16-1117
+Edge cost1782
+
+Edge 16-1118
+Edge cost1787
+
+Edge 16-1119
+Edge cost1792
+
+Edge 110-57
+Edge cost1797
+
+Edge 110-58
+Edge cost1802
+
+Edge 110-59
+Edge cost1807
+
+Edge 110-510
+Edge cost1812
+
+Edge 110-511
+Edge cost1817
+
+Edge 110-512
+Edge cost1822
+
+Edge 110-513
+Edge cost1827
+
+Edge 110-66
+Edge cost1832
+
+Edge 110-67
+Edge cost1837
+
+Edge 110-613
+Edge cost1842
+
+Edge 110-614
+Edge cost1847
+
+Edge 110-75
+Edge cost1852
+
+Edge 110-76
+Edge cost1857
+
+Edge 110-714
+Edge cost1862
+
+Edge 110-715
+Edge cost1867
+
+Edge 110-85
+Edge cost1872
+
+Edge 110-815
+Edge cost1877
+
+Edge 110-95
+Edge cost1882
+
+Edge 110-915
+Edge cost1887
+
+Edge 110-105
+Edge cost1892
+
+Edge 110-1015
+Edge cost1897
+
+Edge 110-115
+Edge cost1902
+
+Edge 110-1115
+Edge cost1907
+
+Edge 110-125
+Edge cost1912
+
+Edge 111-68
+Edge cost1917
+
+Edge 111-69
+Edge cost1922
+
+Edge 111-610
+Edge cost1927
+
+Edge 111-611
+Edge cost1932
+
+Edge 111-612
+Edge cost1937
+
+Edge 111-613
+Edge cost1942
+
+Edge 111-614
+Edge cost1947
+
+Edge 111-77
+Edge cost1952
+
+Edge 111-78
+Edge cost1957
+
+Edge 111-714
+Edge cost1962
+
+Edge 111-715
+Edge cost1967
+
+Edge 111-86
+Edge cost1972
+
+Edge 111-87
+Edge cost1977
+
+Edge 111-815
+Edge cost1982
+
+Edge 111-816
+Edge cost1987
+
+Edge 111-96
+Edge cost1992
+
+Edge 111-916
+Edge cost1997
+
+Edge 111-106
+Edge cost2002
+
+Edge 111-1016
+Edge cost2007
+
+Edge 111-116
+Edge cost2012
+
+Edge 111-1116
+Edge cost2017
+
+Edge 111-126
+Edge cost2022
+
+Edge 112-79
+Edge cost2027
+
+Edge 112-710
+Edge cost2032
+
+Edge 112-711
+Edge cost2037
+
+Edge 112-712
+Edge cost2042
+
+Edge 112-713
+Edge cost2047
+
+Edge 112-714
+Edge cost2052
+
+Edge 112-715
+Edge cost2057
+
+Edge 112-88
+Edge cost2062
+
+Edge 112-89
+Edge cost2067
+
+Edge 112-815
+Edge cost2072
+
+Edge 112-816
+Edge cost2077
+
+Edge 112-97
+Edge cost2082
+
+Edge 112-98
+Edge cost2087
+
+Edge 112-916
+Edge cost2092
+
+Edge 112-917
+Edge cost2097
+
+Edge 112-107
+Edge cost2102
+
+Edge 112-1017
+Edge cost2107
+
+Edge 112-117
+Edge cost2112
+
+Edge 112-1117
+Edge cost2117
+
+Edge 112-127
+Edge cost2122
+
+Edge 113-810
+Edge cost2127
+
+Edge 113-811
+Edge cost2132
+
+Edge 113-812
+Edge cost2137
+
+Edge 113-813
+Edge cost2142
+
+Edge 113-814
+Edge cost2147
+
+Edge 113-815
+Edge cost2152
+
+Edge 113-816
+Edge cost2157
+
+Edge 113-99
+Edge cost2162
+
+Edge 113-910
+Edge cost2167
+
+Edge 113-916
+Edge cost2172
+
+Edge 113-917
+Edge cost2177
+
+Edge 113-108
+Edge cost2182
+
+Edge 113-109
+Edge cost2187
+
+Edge 113-1017
+Edge cost2192
+
+Edge 113-1018
+Edge cost2197
+
+Edge 113-118
+Edge cost2202
+
+Edge 113-1118
+Edge cost2207
+
+Edge 113-128
+Edge cost2212
+
+Edge 114-911
+Edge cost2217
+
+Edge 114-912
+Edge cost2222
+
+Edge 114-913
+Edge cost2227
+
+Edge 114-914
+Edge cost2232
+
+Edge 114-915
+Edge cost2237
+
+Edge 114-916
+Edge cost2242
+
+Edge 114-917
+Edge cost2247
+
+Edge 114-1010
+Edge cost2252
+
+Edge 114-1011
+Edge cost2257
+
+Edge 114-1017
+Edge cost2262
+
+Edge 114-1018
+Edge cost2267
+
+Edge 114-119
+Edge cost2272
+
+Edge 114-1110
+Edge cost2277
+
+Edge 114-1118
+Edge cost2282
+
+Edge 114-1119
+Edge cost2287
+
+Edge 114-129
+Edge cost2292
+
+Edge 115-1012
+Edge cost2297
+
+Edge 115-1013
+Edge cost2302
+
+Edge 115-1014
+Edge cost2307
+
+Edge 115-1015
+Edge cost2312
+
+Edge 115-1016
+Edge cost2317
+
+Edge 115-1017
+Edge cost2322
+
+Edge 115-1018
+Edge cost2327
+
+Edge 115-1111
+Edge cost2332
+
+Edge 115-1112
+Edge cost2337
+
+Edge 115-1118
+Edge cost2342
+
+Edge 115-1119
+Edge cost2347
+
+Edge 116-1113
+Edge cost2352
+
+Edge 116-1114
+Edge cost2357
+
+Edge 116-1115
+Edge cost2362
+
+Edge 116-1116
+Edge cost2367
+
+Edge 116-1117
+Edge cost2372
+
+Edge 116-1118
+Edge cost2377
+
+Edge 116-1119
+Edge cost2382
+
+Edge 216-1113
+Edge cost2387
+
+Edge 316-1113
+Edge cost2392
+
+Edge 416-1113
+Edge cost2397
+
+Edge 516-1113
+Edge cost2402
+
+Edge 616-1113
+Edge cost2407
+
+Edge 716-1113
+Edge cost2412
+
+Edge 3-90
+Edge cost2418
+
+Edge 4-110
+Edge cost2424
+
+Edge 4-101
+Edge cost2430
+
+Edge 5-110
+Edge cost2436
+
+Edge 6-110
+Edge cost2442
+
+Edge 6-123
+Edge cost2448
+
+Edge 7-110
+Edge cost2454
+
+Edge 10-47
+Edge cost2460
+
+Edge 10-48
+Edge cost2466
+
+Edge 10-49
+Edge cost2472
+
+Edge 10-410
+Edge cost2478
+
+Edge 10-411
+Edge cost2484
+
+Edge 10-412
+Edge cost2490
+
+Edge 10-413
+Edge cost2496
+
+Edge 10-56
+Edge cost2502
+
+Edge 10-514
+Edge cost2508
+
+Edge 10-65
+Edge cost2514
+
+Edge 10-615
+Edge cost2520
+
+Edge 10-74
+Edge cost2526
+
+Edge 10-716
+Edge cost2532
+
+Edge 10-84
+Edge cost2538
+
+Edge 10-816
+Edge cost2544
+
+Edge 10-94
+Edge cost2550
+
+Edge 10-916
+Edge cost2556
+
+Edge 10-104
+Edge cost2562
+
+Edge 10-1016
+Edge cost2568
+
+Edge 10-114
+Edge cost2574
+
+Edge 10-1116
+Edge cost2580
+
+Edge 10-124
+Edge cost2586
+
+Edge 11-58
+Edge cost2592
+
+Edge 11-59
+Edge cost2598
+
+Edge 11-510
+Edge cost2604
+
+Edge 11-511
+Edge cost2610
+
+Edge 11-512
+Edge cost2616
+
+Edge 11-513
+Edge cost2622
+
+Edge 11-514
+Edge cost2628
+
+Edge 11-67
+Edge cost2634
+
+Edge 11-615
+Edge cost2640
+
+Edge 11-76
+Edge cost2646
+
+Edge 11-716
+Edge cost2652
+
+Edge 11-85
+Edge cost2658
+
+Edge 11-817
+Edge cost2664
+
+Edge 11-95
+Edge cost2670
+
+Edge 11-917
+Edge cost2676
+
+Edge 11-105
+Edge cost2682
+
+Edge 11-1017
+Edge cost2688
+
+Edge 11-115
+Edge cost2694
+
+Edge 11-1117
+Edge cost2700
+
+Edge 11-125
+Edge cost2706
+
+Edge 12-69
+Edge cost2712
+
+Edge 12-610
+Edge cost2718
+
+Edge 12-611
+Edge cost2724
+
+Edge 12-612
+Edge cost2730
+
+Edge 12-613
+Edge cost2736
+
+Edge 12-614
+Edge cost2742
+
+Edge 12-615
+Edge cost2748
+
+Edge 12-78
+Edge cost2754
+
+Edge 12-716
+Edge cost2760
+
+Edge 12-87
+Edge cost2766
+
+Edge 12-817
+Edge cost2772
+
+Edge 12-96
+Edge cost2778
+
+Edge 12-918
+Edge cost2784
+
+Edge 12-106
+Edge cost2790
+
+Edge 12-1018
+Edge cost2796
+
+Edge 12-116
+Edge cost2802
+
+Edge 12-1118
+Edge cost2808
+
+Edge 12-126
+Edge cost2814
+
+Edge 13-710
+Edge cost2820
+
+Edge 13-711
+Edge cost2826
+
+Edge 13-712
+Edge cost2832
+
+Edge 13-713
+Edge cost2838
+
+Edge 13-714
+Edge cost2844
+
+Edge 13-715
+Edge cost2850
+
+Edge 13-716
+Edge cost2856
+
+Edge 13-89
+Edge cost2862
+
+Edge 13-817
+Edge cost2868
+
+Edge 13-98
+Edge cost2874
+
+Edge 13-918
+Edge cost2880
+
+Edge 13-107
+Edge cost2886
+
+Edge 13-1019
+Edge cost2892
+
+Edge 13-117
+Edge cost2898
+
+Edge 13-1119
+Edge cost2904
+
+Edge 13-127
+Edge cost2910
+
+Edge 14-811
+Edge cost2916
+
+Edge 14-812
+Edge cost2922
+
+Edge 14-813
+Edge cost2928
+
+Edge 14-814
+Edge cost2934
+
+Edge 14-815
+Edge cost2940
+
+Edge 14-816
+Edge cost2946
+
+Edge 14-817
+Edge cost2952
+
+Edge 14-910
+Edge cost2958
+
+Edge 14-918
+Edge cost2964
+
+Edge 14-109
+Edge cost2970
+
+Edge 14-1019
+Edge cost2976
+
+Edge 14-118
+Edge cost2982
+
+Edge 14-128
+Edge cost2988
+
+Edge 15-912
+Edge cost2994
+
+Edge 15-913
+Edge cost3000
+
+Edge 15-914
+Edge cost3006
+
+Edge 15-915
+Edge cost3012
+
+Edge 15-916
+Edge cost3018
+
+Edge 15-917
+Edge cost3024
+
+Edge 15-918
+Edge cost3030
+
+Edge 15-1011
+Edge cost3036
+
+Edge 15-1019
+Edge cost3042
+
+Edge 15-1110
+Edge cost3048
+
+Edge 15-129
+Edge cost3054
+
+Edge 16-1013
+Edge cost3060
+
+Edge 16-1014
+Edge cost3066
+
+Edge 16-1015
+Edge cost3072
+
+Edge 16-1016
+Edge cost3078
+
+Edge 16-1017
+Edge cost3084
+
+Edge 16-1018
+Edge cost3090
+
+Edge 16-1019
+Edge cost3096
+
+Edge 16-1112
+Edge cost3102
+
+Edge 17-1114
+Edge cost3108
+
+Edge 17-1115
+Edge cost3114
+
+Edge 17-1116
+Edge cost3120
+
+Edge 17-1117
+Edge cost3126
+
+Edge 17-1118
+Edge cost3132
+
+Edge 17-1119
+Edge cost3138
+
+Edge 14-110
+Edge cost3144
+
+Edge 15-110
+Edge cost3150
+
+Edge 16-110
+Edge cost3156
+
+Edge 17-110
+Edge cost3162
+
+Edge 110-47
+Edge cost3168
+
+Edge 110-48
+Edge cost3174
+
+Edge 110-49
+Edge cost3180
+
+Edge 110-410
+Edge cost3186
+
+Edge 110-411
+Edge cost3192
+
+Edge 110-412
+Edge cost3198
+
+Edge 110-413
+Edge cost3204
+
+Edge 110-56
+Edge cost3210
+
+Edge 110-514
+Edge cost3216
+
+Edge 110-65
+Edge cost3222
+
+Edge 110-615
+Edge cost3228
+
+Edge 110-74
+Edge cost3234
+
+Edge 110-716
+Edge cost3240
+
+Edge 110-84
+Edge cost3246
+
+Edge 110-816
+Edge cost3252
+
+Edge 110-94
+Edge cost3258
+
+Edge 110-916
+Edge cost3264
+
+Edge 110-104
+Edge cost3270
+
+Edge 110-1016
+Edge cost3276
+
+Edge 110-114
+Edge cost3282
+
+Edge 110-1116
+Edge cost3288
+
+Edge 110-124
+Edge cost3294
+
+Edge 111-58
+Edge cost3300
+
+Edge 111-59
+Edge cost3306
+
+Edge 111-510
+Edge cost3312
+
+Edge 111-511
+Edge cost3318
+
+Edge 111-512
+Edge cost3324
+
+Edge 111-513
+Edge cost3330
+
+Edge 111-514
+Edge cost3336
+
+Edge 111-67
+Edge cost3342
+
+Edge 111-615
+Edge cost3348
+
+Edge 111-76
+Edge cost3354
+
+Edge 111-716
+Edge cost3360
+
+Edge 111-85
+Edge cost3366
+
+Edge 111-817
+Edge cost3372
+
+Edge 111-95
+Edge cost3378
+
+Edge 111-917
+Edge cost3384
+
+Edge 111-105
+Edge cost3390
+
+Edge 111-1017
+Edge cost3396
+
+Edge 111-115
+Edge cost3402
+
+Edge 111-1117
+Edge cost3408
+
+Edge 111-125
+Edge cost3414
+
+Edge 112-69
+Edge cost3420
+
+Edge 112-610
+Edge cost3426
+
+Edge 112-611
+Edge cost3432
+
+Edge 112-612
+Edge cost3438
+
+Edge 112-613
+Edge cost3444
+
+Edge 112-614
+Edge cost3450
+
+Edge 112-615
+Edge cost3456
+
+Edge 112-78
+Edge cost3462
+
+Edge 112-716
+Edge cost3468
+
+Edge 112-87
+Edge cost3474
+
+Edge 112-817
+Edge cost3480
+
+Edge 112-96
+Edge cost3486
+
+Edge 112-918
+Edge cost3492
+
+Edge 112-106
+Edge cost3498
+
+Edge 112-1018
+Edge cost3504
+
+Edge 112-116
+Edge cost3510
+
+Edge 112-1118
+Edge cost3516
+
+Edge 112-126
+Edge cost3522
+
+Edge 113-710
+Edge cost3528
+
+Edge 113-711
+Edge cost3534
+
+Edge 113-712
+Edge cost3540
+
+Edge 113-713
+Edge cost3546
+
+Edge 113-714
+Edge cost3552
+
+Edge 113-715
+Edge cost3558
+
+Edge 113-716
+Edge cost3564
+
+Edge 113-89
+Edge cost3570
+
+Edge 113-817
+Edge cost3576
+
+Edge 113-98
+Edge cost3582
+
+Edge 113-918
+Edge cost3588
+
+Edge 113-107
+Edge cost3594
+
+Edge 113-1019
+Edge cost3600
+
+Edge 113-117
+Edge cost3606
+
+Edge 113-1119
+Edge cost3612
+
+Edge 113-127
+Edge cost3618
+
+Edge 114-811
+Edge cost3624
+
+Edge 114-812
+Edge cost3630
+
+Edge 114-813
+Edge cost3636
+
+Edge 114-814
+Edge cost3642
+
+Edge 114-815
+Edge cost3648
+
+Edge 114-816
+Edge cost3654
+
+Edge 114-817
+Edge cost3660
+
+Edge 114-910
+Edge cost3666
+
+Edge 114-918
+Edge cost3672
+
+Edge 114-109
+Edge cost3678
+
+Edge 114-1019
+Edge cost3684
+
+Edge 114-118
+Edge cost3690
+
+Edge 114-128
+Edge cost3696
+
+Edge 115-912
+Edge cost3702
+
+Edge 115-913
+Edge cost3708
+
+Edge 115-914
+Edge cost3714
+
+Edge 115-915
+Edge cost3720
+
+Edge 115-916
+Edge cost3726
+
+Edge 115-917
+Edge cost3732
+
+Edge 115-918
+Edge cost3738
+
+Edge 115-1011
+Edge cost3744
+
+Edge 115-1019
+Edge cost3750
+
+Edge 115-1110
+Edge cost3756
+
+Edge 115-129
+Edge cost3762
+
+Edge 116-1013
+Edge cost3768
+
+Edge 116-1014
+Edge cost3774
+
+Edge 116-1015
+Edge cost3780
+
+Edge 116-1016
+Edge cost3786
+
+Edge 116-1017
+Edge cost3792
+
+Edge 116-1018
+Edge cost3798
+
+Edge 116-1019
+Edge cost3804
+
+Edge 116-1112
+Edge cost3810
+
+Edge 117-1114
+Edge cost3816
+
+Edge 117-1115
+Edge cost3822
+
+Edge 117-1116
+Edge cost3828
+
+Edge 117-1117
+Edge cost3834
+
+Edge 117-1118
+Edge cost3840
+
+Edge 117-1119
+Edge cost3846
+
+Edge 217-1114
+Edge cost3852
+
+Edge 317-1114
+Edge cost3858
+
+Edge 417-1114
+Edge cost3864
+
+Edge 517-1114
+Edge cost3870
+
+Edge 617-1114
+Edge cost3876
+
+Edge 717-1114
+Edge cost3882
+
+Edge 3-10
+Edge cost3889
+
+Edge 3-110
+Edge cost3896
+
+Edge 3-100
+Edge cost3903
+
+Edge 4-10
+Edge cost3910
+
+Edge 4-111
+Edge cost3917
+
+Edge 5-10
+Edge cost3924
+
+Edge 5-11
+Edge cost3931
+
+Edge 5-111
+Edge cost3938
+
+Edge 5-122
+Edge cost3945
+
+Edge 6-10
+Edge cost3952
+
+Edge 6-11
+Edge cost3959
+
+Edge 6-111
+Edge cost3966
+
+Edge 6-112
+Edge cost3973
+
+Edge 6-121
+Edge cost3980
+
+Edge 7-10
+Edge cost3987
+
+Edge 7-111
+Edge cost3994
+
+Edge 7-112
+Edge cost4001
+
+Edge 8-110
+Edge cost4008
+
+Edge 8-111
+Edge cost4015
+
+Edge 10-37
+Edge cost4022
+
+Edge 10-38
+Edge cost4029
+
+Edge 10-39
+Edge cost4036
+
+Edge 10-310
+Edge cost4043
+
+Edge 10-311
+Edge cost4050
+
+Edge 10-312
+Edge cost4057
+
+Edge 10-313
+Edge cost4064
+
+Edge 10-45
+Edge cost4071
+
+Edge 10-46
+Edge cost4078
+
+Edge 10-414
+Edge cost4085
+
+Edge 10-415
+Edge cost4092
+
+Edge 10-54
+Edge cost4099
+
+Edge 10-55
+Edge cost4106
+
+Edge 10-515
+Edge cost4113
+
+Edge 10-516
+Edge cost4120
+
+Edge 10-64
+Edge cost4127
+
+Edge 10-616
+Edge cost4134
+
+Edge 10-73
+Edge cost4141
+
+Edge 10-717
+Edge cost4148
+
+Edge 10-83
+Edge cost4155
+
+Edge 10-817
+Edge cost4162
+
+Edge 10-93
+Edge cost4169
+
+Edge 10-917
+Edge cost4176
+
+Edge 10-103
+Edge cost4183
+
+Edge 10-1017
+Edge cost4190
+
+Edge 10-113
+Edge cost4197
+
+Edge 10-1117
+Edge cost4204
+
+Edge 10-123
+Edge cost4211
+
+Edge 11-48
+Edge cost4218
+
+Edge 11-49
+Edge cost4225
+
+Edge 11-410
+Edge cost4232
+
+Edge 11-411
+Edge cost4239
+
+Edge 11-412
+Edge cost4246
+
+Edge 11-413
+Edge cost4253
+
+Edge 11-414
+Edge cost4260
+
+Edge 11-56
+Edge cost4267
+
+Edge 11-57
+Edge cost4274
+
+Edge 11-515
+Edge cost4281
+
+Edge 11-516
+Edge cost4288
+
+Edge 11-65
+Edge cost4295
+
+Edge 11-66
+Edge cost4302
+
+Edge 11-616
+Edge cost4309
+
+Edge 11-617
+Edge cost4316
+
+Edge 11-75
+Edge cost4323
+
+Edge 11-717
+Edge cost4330
+
+Edge 11-84
+Edge cost4337
+
+Edge 11-818
+Edge cost4344
+
+Edge 11-94
+Edge cost4351
+
+Edge 11-918
+Edge cost4358
+
+Edge 11-104
+Edge cost4365
+
+Edge 11-1018
+Edge cost4372
+
+Edge 11-114
+Edge cost4379
+
+Edge 11-1118
+Edge cost4386
+
+Edge 11-124
+Edge cost4393
+
+Edge 12-59
+Edge cost4400
+
+Edge 12-510
+Edge cost4407
+
+Edge 12-511
+Edge cost4414
+
+Edge 12-512
+Edge cost4421
+
+Edge 12-513
+Edge cost4428
+
+Edge 12-514
+Edge cost4435
+
+Edge 12-515
+Edge cost4442
+
+Edge 12-67
+Edge cost4449
+
+Edge 12-68
+Edge cost4456
+
+Edge 12-616
+Edge cost4463
+
+Edge 12-617
+Edge cost4470
+
+Edge 12-76
+Edge cost4477
+
+Edge 12-77
+Edge cost4484
+
+Edge 12-717
+Edge cost4491
+
+Edge 12-718
+Edge cost4498
+
+Edge 12-86
+Edge cost4505
+
+Edge 12-818
+Edge cost4512
+
+Edge 12-95
+Edge cost4519
+
+Edge 12-919
+Edge cost4526
+
+Edge 12-105
+Edge cost4533
+
+Edge 12-1019
+Edge cost4540
+
+Edge 12-115
+Edge cost4547
+
+Edge 12-1119
+Edge cost4554
+
+Edge 12-125
+Edge cost4561
+
+Edge 13-610
+Edge cost4568
+
+Edge 13-611
+Edge cost4575
+
+Edge 13-612
+Edge cost4582
+
+Edge 13-613
+Edge cost4589
+
+Edge 13-614
+Edge cost4596
+
+Edge 13-615
+Edge cost4603
+
+Edge 13-616
+Edge cost4610
+
+Edge 13-78
+Edge cost4617
+
+Edge 13-79
+Edge cost4624
+
+Edge 13-717
+Edge cost4631
+
+Edge 13-718
+Edge cost4638
+
+Edge 13-87
+Edge cost4645
+
+Edge 13-88
+Edge cost4652
+
+Edge 13-818
+Edge cost4659
+
+Edge 13-819
+Edge cost4666
+
+Edge 13-97
+Edge cost4673
+
+Edge 13-919
+Edge cost4680
+
+Edge 13-106
+Edge cost4687
+
+Edge 13-116
+Edge cost4694
+
+Edge 13-126
+Edge cost4701
+
+Edge 14-711
+Edge cost4708
+
+Edge 14-712
+Edge cost4715
+
+Edge 14-713
+Edge cost4722
+
+Edge 14-714
+Edge cost4729
+
+Edge 14-715
+Edge cost4736
+
+Edge 14-716
+Edge cost4743
+
+Edge 14-717
+Edge cost4750
+
+Edge 14-89
+Edge cost4757
+
+Edge 14-810
+Edge cost4764
+
+Edge 14-818
+Edge cost4771
+
+Edge 14-819
+Edge cost4778
+
+Edge 14-98
+Edge cost4785
+
+Edge 14-99
+Edge cost4792
+
+Edge 14-919
+Edge cost4799
+
+Edge 14-108
+Edge cost4806
+
+Edge 14-117
+Edge cost4813
+
+Edge 14-127
+Edge cost4820
+
+Edge 15-812
+Edge cost4827
+
+Edge 15-813
+Edge cost4834
+
+Edge 15-814
+Edge cost4841
+
+Edge 15-815
+Edge cost4848
+
+Edge 15-816
+Edge cost4855
+
+Edge 15-817
+Edge cost4862
+
+Edge 15-818
+Edge cost4869
+
+Edge 15-910
+Edge cost4876
+
+Edge 15-911
+Edge cost4883
+
+Edge 15-919
+Edge cost4890
+
+Edge 15-109
+Edge cost4897
+
+Edge 15-1010
+Edge cost4904
+
+Edge 15-119
+Edge cost4911
+
+Edge 15-128
+Edge cost4918
+
+Edge 16-913
+Edge cost4925
+
+Edge 16-914
+Edge cost4932
+
+Edge 16-915
+Edge cost4939
+
+Edge 16-916
+Edge cost4946
+
+Edge 16-917
+Edge cost4953
+
+Edge 16-918
+Edge cost4960
+
+Edge 16-919
+Edge cost4967
+
+Edge 16-1011
+Edge cost4974
+
+Edge 16-1012
+Edge cost4981
+
+Edge 16-1110
+Edge cost4988
+
+Edge 16-1111
+Edge cost4995
+
+Edge 17-1014
+Edge cost5002
+
+Edge 17-1015
+Edge cost5009
+
+Edge 17-1016
+Edge cost5016
+
+Edge 17-1017
+Edge cost5023
+
+Edge 17-1018
+Edge cost5030
+
+Edge 17-1019
+Edge cost5037
+
+Edge 17-1112
+Edge cost5044
+
+Edge 17-1113
+Edge cost5051
+
+Edge 18-1115
+Edge cost5058
+
+Edge 18-1116
+Edge cost5065
+
+Edge 18-1117
+Edge cost5072
+
+Edge 18-1118
+Edge cost5079
+
+Edge 18-1119
+Edge cost5086
+
+Edge 13-110
+Edge cost5093
+
+Edge 14-111
+Edge cost5100
+
+Edge 15-111
+Edge cost5107
+
+Edge 16-111
+Edge cost5114
+
+Edge 16-112
+Edge cost5121
+
+Edge 17-111
+Edge cost5128
+
+Edge 17-112
+Edge cost5135
+
+Edge 18-110
+Edge cost5142
+
+Edge 18-111
+Edge cost5149
+
+Edge 110-37
+Edge cost5156
+
+Edge 110-38
+Edge cost5163
+
+Edge 110-39
+Edge cost5170
+
+Edge 110-310
+Edge cost5177
+
+Edge 110-311
+Edge cost5184
+
+Edge 110-312
+Edge cost5191
+
+Edge 110-313
+Edge cost5198
+
+Edge 110-45
+Edge cost5205
+
+Edge 110-46
+Edge cost5212
+
+Edge 110-414
+Edge cost5219
+
+Edge 110-415
+Edge cost5226
+
+Edge 110-54
+Edge cost5233
+
+Edge 110-55
+Edge cost5240
+
+Edge 110-515
+Edge cost5247
+
+Edge 110-516
+Edge cost5254
+
+Edge 110-64
+Edge cost5261
+
+Edge 110-616
+Edge cost5268
+
+Edge 110-73
+Edge cost5275
+
+Edge 110-717
+Edge cost5282
+
+Edge 110-83
+Edge cost5289
+
+Edge 110-817
+Edge cost5296
+
+Edge 110-93
+Edge cost5303
+
+Edge 110-917
+Edge cost5310
+
+Edge 110-103
+Edge cost5317
+
+Edge 110-1017
+Edge cost5324
+
+Edge 110-113
+Edge cost5331
+
+Edge 110-1117
+Edge cost5338
+
+Edge 110-123
+Edge cost5345
+
+Edge 111-48
+Edge cost5352
+
+Edge 111-49
+Edge cost5359
+
+Edge 111-410
+Edge cost5366
+
+Edge 111-411
+Edge cost5373
+
+Edge 111-412
+Edge cost5380
+
+Edge 111-413
+Edge cost5387
+
+Edge 111-414
+Edge cost5394
+
+Edge 111-56
+Edge cost5401
+
+Edge 111-57
+Edge cost5408
+
+Edge 111-515
+Edge cost5415
+
+Edge 111-516
+Edge cost5422
+
+Edge 111-65
+Edge cost5429
+
+Edge 111-66
+Edge cost5436
+
+Edge 111-616
+Edge cost5443
+
+Edge 111-617
+Edge cost5450
+
+Edge 111-75
+Edge cost5457
+
+Edge 111-717
+Edge cost5464
+
+Edge 111-84
+Edge cost5471
+
+Edge 111-818
+Edge cost5478
+
+Edge 111-94
+Edge cost5485
+
+Edge 111-918
+Edge cost5492
+
+Edge 111-104
+Edge cost5499
+
+Edge 111-1018
+Edge cost5506
+
+Edge 111-114
+Edge cost5513
+
+Edge 111-1118
+Edge cost5520
+
+Edge 111-124
+Edge cost5527
+
+Edge 112-59
+Edge cost5534
+
+Edge 112-510
+Edge cost5541
+
+Edge 112-511
+Edge cost5548
+
+Edge 112-512
+Edge cost5555
+
+Edge 112-513
+Edge cost5562
+
+Edge 112-514
+Edge cost5569
+
+Edge 112-515
+Edge cost5576
+
+Edge 112-67
+Edge cost5583
+
+Edge 112-68
+Edge cost5590
+
+Edge 112-616
+Edge cost5597
+
+Edge 112-617
+Edge cost5604
+
+Edge 112-76
+Edge cost5611
+
+Edge 112-77
+Edge cost5618
+
+Edge 112-717
+Edge cost5625
+
+Edge 112-718
+Edge cost5632
+
+Edge 112-86
+Edge cost5639
+
+Edge 112-818
+Edge cost5646
+
+Edge 112-95
+Edge cost5653
+
+Edge 112-919
+Edge cost5660
+
+Edge 112-105
+Edge cost5667
+
+Edge 112-1019
+Edge cost5674
+
+Edge 112-115
+Edge cost5681
+
+Edge 112-1119
+Edge cost5688
+
+Edge 112-125
+Edge cost5695
+
+Edge 113-610
+Edge cost5702
+
+Edge 113-611
+Edge cost5709
+
+Edge 113-612
+Edge cost5716
+
+Edge 113-613
+Edge cost5723
+
+Edge 113-614
+Edge cost5730
+
+Edge 113-615
+Edge cost5737
+
+Edge 113-616
+Edge cost5744
+
+Edge 113-78
+Edge cost5751
+
+Edge 113-79
+Edge cost5758
+
+Edge 113-717
+Edge cost5765
+
+Edge 113-718
+Edge cost5772
+
+Edge 113-87
+Edge cost5779
+
+Edge 113-88
+Edge cost5786
+
+Edge 113-818
+Edge cost5793
+
+Edge 113-819
+Edge cost5800
+
+Edge 113-97
+Edge cost5807
+
+Edge 113-919
+Edge cost5814
+
+Edge 113-106
+Edge cost5821
+
+Edge 113-116
+Edge cost5828
+
+Edge 113-126
+Edge cost5835
+
+Edge 114-711
+Edge cost5842
+
+Edge 114-712
+Edge cost5849
+
+Edge 114-713
+Edge cost5856
+
+Edge 114-714
+Edge cost5863
+
+Edge 114-715
+Edge cost5870
+
+Edge 114-716
+Edge cost5877
+
+Edge 114-717
+Edge cost5884
+
+Edge 114-89
+Edge cost5891
+
+Edge 114-810
+Edge cost5898
+
+Edge 114-818
+Edge cost5905
+
+Edge 114-819
+Edge cost5912
+
+Edge 114-98
+Edge cost5919
+
+Edge 114-99
+Edge cost5926
+
+Edge 114-919
+Edge cost5933
+
+Edge 114-108
+Edge cost5940
+
+Edge 114-117
+Edge cost5947
+
+Edge 114-127
+Edge cost5954
+
+Edge 115-812
+Edge cost5961
+
+Edge 115-813
+Edge cost5968
+
+Edge 115-814
+Edge cost5975
+
+Edge 115-815
+Edge cost5982
+
+Edge 115-816
+Edge cost5989
+
+Edge 115-817
+Edge cost5996
+
+Edge 115-818
+Edge cost6003
+
+Edge 115-910
+Edge cost6010
+
+Edge 115-911
+Edge cost6017
+
+Edge 115-919
+Edge cost6024
+
+Edge 115-109
+Edge cost6031
+
+Edge 115-1010
+Edge cost6038
+
+Edge 115-119
+Edge cost6045
+
+Edge 115-128
+Edge cost6052
+
+Edge 116-913
+Edge cost6059
+
+Edge 116-914
+Edge cost6066
+
+Edge 116-915
+Edge cost6073
+
+Edge 116-916
+Edge cost6080
+
+Edge 116-917
+Edge cost6087
+
+Edge 116-918
+Edge cost6094
+
+Edge 116-919
+Edge cost6101
+
+Edge 116-1011
+Edge cost6108
+
+Edge 116-1012
+Edge cost6115
+
+Edge 116-1110
+Edge cost6122
+
+Edge 116-1111
+Edge cost6129
+
+Edge 117-1014
+Edge cost6136
+
+Edge 117-1015
+Edge cost6143
+
+Edge 117-1016
+Edge cost6150
+
+Edge 117-1017
+Edge cost6157
+
+Edge 117-1018
+Edge cost6164
+
+Edge 117-1019
+Edge cost6171
+
+Edge 117-1112
+Edge cost6178
+
+Edge 117-1113
+Edge cost6185
+
+Edge 118-1115
+Edge cost6192
+
+Edge 118-1116
+Edge cost6199
+
+Edge 118-1117
+Edge cost6206
+
+Edge 118-1118
+Edge cost6213
+
+Edge 118-1119
+Edge cost6220
+
+Edge 218-1115
+Edge cost6227
+
+Edge 318-1115
+Edge cost6234
+
+Edge 418-1115
+Edge cost6241
+
+Edge 518-1115
+Edge cost6248
+
+Edge 618-1115
+Edge cost6255
+
+Edge 2-10
+Edge cost6263
+
+Edge 2-110
+Edge cost6271
+
+Edge 3-11
+Edge cost6279
+
+Edge 3-111
+Edge cost6287
+
+Edge 4-11
+Edge cost6295
+
+Edge 4-12
+Edge cost6303
+
+Edge 4-112
+Edge cost6311
+
+Edge 4-120
+Edge cost6319
+
+Edge 5-12
+Edge cost6327
+
+Edge 5-112
+Edge cost6335
+
+Edge 5-113
+Edge cost6343
+
+Edge 6-12
+Edge cost6351
+
+Edge 6-113
+Edge cost6359
+
+Edge 7-11
+Edge cost6367
+
+Edge 7-12
+Edge cost6375
+
+Edge 7-113
+Edge cost6383
+
+Edge 8-10
+Edge cost6391
+
+Edge 8-11
+Edge cost6399
+
+Edge 8-12
+Edge cost6407
+
+Edge 8-112
+Edge cost6415
+
+Edge 8-113
+Edge cost6423
+
+Edge 9-110
+Edge cost6431
+
+Edge 9-111
+Edge cost6439
+
+Edge 9-112
+Edge cost6447
+
+Edge 9-113
+Edge cost6455
+
+Edge 10-26
+Edge cost6463
+
+Edge 10-27
+Edge cost6471
+
+Edge 10-28
+Edge cost6479
+
+Edge 10-29
+Edge cost6487
+
+Edge 10-210
+Edge cost6495
+
+Edge 10-211
+Edge cost6503
+
+Edge 10-212
+Edge cost6511
+
+Edge 10-213
+Edge cost6519
+
+Edge 10-214
+Edge cost6527
+
+Edge 10-35
+Edge cost6535
+
+Edge 10-36
+Edge cost6543
+
+Edge 10-314
+Edge cost6551
+
+Edge 10-315
+Edge cost6559
+
+Edge 10-44
+Edge cost6567
+
+Edge 10-416
+Edge cost6575
+
+Edge 10-53
+Edge cost6583
+
+Edge 10-517
+Edge cost6591
+
+Edge 10-62
+Edge cost6599
+
+Edge 10-63
+Edge cost6607
+
+Edge 10-617
+Edge cost6615
+
+Edge 10-618
+Edge cost6623
+
+Edge 10-72
+Edge cost6631
+
+Edge 10-718
+Edge cost6639
+
+Edge 10-82
+Edge cost6647
+
+Edge 10-818
+Edge cost6655
+
+Edge 10-92
+Edge cost6663
+
+Edge 10-918
+Edge cost6671
+
+Edge 10-102
+Edge cost6679
+
+Edge 10-1018
+Edge cost6687
+
+Edge 10-112
+Edge cost6695
+
+Edge 10-1118
+Edge cost6703
+
+Edge 10-122
+Edge cost6711
+
+Edge 11-37
+Edge cost6719
+
+Edge 11-38
+Edge cost6727
+
+Edge 11-39
+Edge cost6735
+
+Edge 11-310
+Edge cost6743
+
+Edge 11-311
+Edge cost6751
+
+Edge 11-312
+Edge cost6759
+
+Edge 11-313
+Edge cost6767
+
+Edge 11-314
+Edge cost6775
+
+Edge 11-315
+Edge cost6783
+
+Edge 11-46
+Edge cost6791
+
+Edge 11-47
+Edge cost6799
+
+Edge 11-415
+Edge cost6807
+
+Edge 11-416
+Edge cost6815
+
+Edge 11-55
+Edge cost6823
+
+Edge 11-517
+Edge cost6831
+
+Edge 11-64
+Edge cost6839
+
+Edge 11-618
+Edge cost6847
+
+Edge 11-73
+Edge cost6855
+
+Edge 11-74
+Edge cost6863
+
+Edge 11-718
+Edge cost6871
+
+Edge 11-719
+Edge cost6879
+
+Edge 11-83
+Edge cost6887
+
+Edge 11-819
+Edge cost6895
+
+Edge 11-93
+Edge cost6903
+
+Edge 11-919
+Edge cost6911
+
+Edge 11-103
+Edge cost6919
+
+Edge 11-1019
+Edge cost6927
+
+Edge 11-113
+Edge cost6935
+
+Edge 11-1119
+Edge cost6943
+
+Edge 11-123
+Edge cost6951
+
+Edge 12-48
+Edge cost6959
+
+Edge 12-49
+Edge cost6967
+
+Edge 12-410
+Edge cost6975
+
+Edge 12-411
+Edge cost6983
+
+Edge 12-412
+Edge cost6991
+
+Edge 12-413
+Edge cost6999
+
+Edge 12-414
+Edge cost7007
+
+Edge 12-415
+Edge cost7015
+
+Edge 12-416
+Edge cost7023
+
+Edge 12-57
+Edge cost7031
+
+Edge 12-58
+Edge cost7039
+
+Edge 12-516
+Edge cost7047
+
+Edge 12-517
+Edge cost7055
+
+Edge 12-66
+Edge cost7063
+
+Edge 12-618
+Edge cost7071
+
+Edge 12-75
+Edge cost7079
+
+Edge 12-719
+Edge cost7087
+
+Edge 12-84
+Edge cost7095
+
+Edge 12-85
+Edge cost7103
+
+Edge 12-819
+Edge cost7111
+
+Edge 12-94
+Edge cost7119
+
+Edge 12-104
+Edge cost7127
+
+Edge 12-114
+Edge cost7135
+
+Edge 12-124
+Edge cost7143
+
+Edge 13-59
+Edge cost7151
+
+Edge 13-510
+Edge cost7159
+
+Edge 13-511
+Edge cost7167
+
+Edge 13-512
+Edge cost7175
+
+Edge 13-513
+Edge cost7183
+
+Edge 13-514
+Edge cost7191
+
+Edge 13-515
+Edge cost7199
+
+Edge 13-516
+Edge cost7207
+
+Edge 13-517
+Edge cost7215
+
+Edge 13-68
+Edge cost7223
+
+Edge 13-69
+Edge cost7231
+
+Edge 13-617
+Edge cost7239
+
+Edge 13-618
+Edge cost7247
+
+Edge 13-77
+Edge cost7255
+
+Edge 13-719
+Edge cost7263
+
+Edge 13-86
+Edge cost7271
+
+Edge 13-95
+Edge cost7279
+
+Edge 13-96
+Edge cost7287
+
+Edge 13-105
+Edge cost7295
+
+Edge 13-115
+Edge cost7303
+
+Edge 13-125
+Edge cost7311
+
+Edge 14-610
+Edge cost7319
+
+Edge 14-611
+Edge cost7327
+
+Edge 14-612
+Edge cost7335
+
+Edge 14-613
+Edge cost7343
+
+Edge 14-614
+Edge cost7351
+
+Edge 14-615
+Edge cost7359
+
+Edge 14-616
+Edge cost7367
+
+Edge 14-617
+Edge cost7375
+
+Edge 14-618
+Edge cost7383
+
+Edge 14-79
+Edge cost7391
+
+Edge 14-710
+Edge cost7399
+
+Edge 14-718
+Edge cost7407
+
+Edge 14-719
+Edge cost7415
+
+Edge 14-88
+Edge cost7423
+
+Edge 14-97
+Edge cost7431
+
+Edge 14-106
+Edge cost7439
+
+Edge 14-107
+Edge cost7447
+
+Edge 14-116
+Edge cost7455
+
+Edge 14-126
+Edge cost7463
+
+Edge 15-711
+Edge cost7471
+
+Edge 15-712
+Edge cost7479
+
+Edge 15-713
+Edge cost7487
+
+Edge 15-714
+Edge cost7495
+
+Edge 15-715
+Edge cost7503
+
+Edge 15-716
+Edge cost7511
+
+Edge 15-717
+Edge cost7519
+
+Edge 15-718
+Edge cost7527
+
+Edge 15-719
+Edge cost7535
+
+Edge 15-810
+Edge cost7543
+
+Edge 15-811
+Edge cost7551
+
+Edge 15-819
+Edge cost7559
+
+Edge 15-99
+Edge cost7567
+
+Edge 15-108
+Edge cost7575
+
+Edge 15-117
+Edge cost7583
+
+Edge 15-118
+Edge cost7591
+
+Edge 15-127
+Edge cost7599
+
+Edge 16-812
+Edge cost7607
+
+Edge 16-813
+Edge cost7615
+
+Edge 16-814
+Edge cost7623
+
+Edge 16-815
+Edge cost7631
+
+Edge 16-816
+Edge cost7639
+
+Edge 16-817
+Edge cost7647
+
+Edge 16-818
+Edge cost7655
+
+Edge 16-819
+Edge cost7663
+
+Edge 16-911
+Edge cost7671
+
+Edge 16-912
+Edge cost7679
+
+Edge 16-1010
+Edge cost7687
+
+Edge 16-119
+Edge cost7695
+
+Edge 16-128
+Edge cost7703
+
+Edge 16-129
+Edge cost7711
+
+Edge 17-913
+Edge cost7719
+
+Edge 17-914
+Edge cost7727
+
+Edge 17-915
+Edge cost7735
+
+Edge 17-916
+Edge cost7743
+
+Edge 17-917
+Edge cost7751
+
+Edge 17-918
+Edge cost7759
+
+Edge 17-919
+Edge cost7767
+
+Edge 17-1012
+Edge cost7775
+
+Edge 17-1013
+Edge cost7783
+
+Edge 17-1111
+Edge cost7791
+
+Edge 18-1014
+Edge cost7799
+
+Edge 18-1015
+Edge cost7807
+
+Edge 18-1016
+Edge cost7815
+
+Edge 18-1017
+Edge cost7823
+
+Edge 18-1018
+Edge cost7831
+
+Edge 18-1019
+Edge cost7839
+
+Edge 18-1113
+Edge cost7847
+
+Edge 18-1114
+Edge cost7855
+
+Edge 19-1115
+Edge cost7863
+
+Edge 19-1116
+Edge cost7871
+
+Edge 19-1117
+Edge cost7879
+
+Edge 19-1118
+Edge cost7887
+
+Edge 19-1119
+Edge cost7895
+
+Edge 12-110
+Edge cost7903
+
+Edge 13-111
+Edge cost7911
+
+Edge 14-112
+Edge cost7919
+
+Edge 15-112
+Edge cost7927
+
+Edge 15-113
+Edge cost7935
+
+Edge 16-113
+Edge cost7943
+
+Edge 17-113
+Edge cost7951
+
+Edge 18-112
+Edge cost7959
+
+Edge 18-113
+Edge cost7967
+
+Edge 19-110
+Edge cost7975
+
+Edge 19-111
+Edge cost7983
+
+Edge 19-112
+Edge cost7991
+
+Edge 19-113
+Edge cost7999
+
+Edge 110-26
+Edge cost8007
+
+Edge 110-27
+Edge cost8015
+
+Edge 110-28
+Edge cost8023
+
+Edge 110-29
+Edge cost8031
+
+Edge 110-210
+Edge cost8039
+
+Edge 110-211
+Edge cost8047
+
+Edge 110-212
+Edge cost8055
+
+Edge 110-213
+Edge cost8063
+
+Edge 110-214
+Edge cost8071
+
+Edge 110-35
+Edge cost8079
+
+Edge 110-36
+Edge cost8087
+
+Edge 110-314
+Edge cost8095
+
+Edge 110-315
+Edge cost8103
+
+Edge 110-44
+Edge cost8111
+
+Edge 110-416
+Edge cost8119
+
+Edge 110-53
+Edge cost8127
+
+Edge 110-517
+Edge cost8135
+
+Edge 110-62
+Edge cost8143
+
+Edge 110-63
+Edge cost8151
+
+Edge 110-617
+Edge cost8159
+
+Edge 110-618
+Edge cost8167
+
+Edge 110-72
+Edge cost8175
+
+Edge 110-718
+Edge cost8183
+
+Edge 110-82
+Edge cost8191
+
+Edge 110-818
+Edge cost8199
+
+Edge 110-92
+Edge cost8207
+
+Edge 110-918
+Edge cost8215
+
+Edge 110-102
+Edge cost8223
+
+Edge 110-1018
+Edge cost8231
+
+Edge 110-112
+Edge cost8239
+
+Edge 110-1118
+Edge cost8247
+
+Edge 110-122
+Edge cost8255
+
+Edge 111-37
+Edge cost8263
+
+Edge 111-38
+Edge cost8271
+
+Edge 111-39
+Edge cost8279
+
+Edge 111-310
+Edge cost8287
+
+Edge 111-311
+Edge cost8295
+
+Edge 111-312
+Edge cost8303
+
+Edge 111-313
+Edge cost8311
+
+Edge 111-314
+Edge cost8319
+
+Edge 111-315
+Edge cost8327
+
+Edge 111-46
+Edge cost8335
+
+Edge 111-47
+Edge cost8343
+
+Edge 111-415
+Edge cost8351
+
+Edge 111-416
+Edge cost8359
+
+Edge 111-55
+Edge cost8367
+
+Edge 111-517
+Edge cost8375
+
+Edge 111-64
+Edge cost8383
+
+Edge 111-618
+Edge cost8391
+
+Edge 111-73
+Edge cost8399
+
+Edge 111-74
+Edge cost8407
+
+Edge 111-718
+Edge cost8415
+
+Edge 111-719
+Edge cost8423
+
+Edge 111-83
+Edge cost8431
+
+Edge 111-819
+Edge cost8439
+
+Edge 111-93
+Edge cost8447
+
+Edge 111-919
+Edge cost8455
+
+Edge 111-103
+Edge cost8463
+
+Edge 111-1019
+Edge cost8471
+
+Edge 111-113
+Edge cost8479
+
+Edge 111-1119
+Edge cost8487
+
+Edge 111-123
+Edge cost8495
+
+Edge 112-48
+Edge cost8503
+
+Edge 112-49
+Edge cost8511
+
+Edge 112-410
+Edge cost8519
+
+Edge 112-411
+Edge cost8527
+
+Edge 112-412
+Edge cost8535
+
+Edge 112-413
+Edge cost8543
+
+Edge 112-414
+Edge cost8551
+
+Edge 112-415
+Edge cost8559
+
+Edge 112-416
+Edge cost8567
+
+Edge 112-57
+Edge cost8575
+
+Edge 112-58
+Edge cost8583
+
+Edge 112-516
+Edge cost8591
+
+Edge 112-517
+Edge cost8599
+
+Edge 112-66
+Edge cost8607
+
+Edge 112-618
+Edge cost8615
+
+Edge 112-75
+Edge cost8623
+
+Edge 112-719
+Edge cost8631
+
+Edge 112-84
+Edge cost8639
+
+Edge 112-85
+Edge cost8647
+
+Edge 112-819
+Edge cost8655
+
+Edge 112-94
+Edge cost8663
+
+Edge 112-104
+Edge cost8671
+
+Edge 112-114
+Edge cost8679
+
+Edge 112-124
+Edge cost8687
+
+Edge 113-59
+Edge cost8695
+
+Edge 113-510
+Edge cost8703
+
+Edge 113-511
+Edge cost8711
+
+Edge 113-512
+Edge cost8719
+
+Edge 113-513
+Edge cost8727
+
+Edge 113-514
+Edge cost8735
+
+Edge 113-515
+Edge cost8743
+
+Edge 113-516
+Edge cost8751
+
+Edge 113-517
+Edge cost8759
+
+Edge 113-68
+Edge cost8767
+
+Edge 113-69
+Edge cost8775
+
+Edge 113-617
+Edge cost8783
+
+Edge 113-618
+Edge cost8791
+
+Edge 113-77
+Edge cost8799
+
+Edge 113-719
+Edge cost8807
+
+Edge 113-86
+Edge cost8815
+
+Edge 113-95
+Edge cost8823
+
+Edge 113-96
+Edge cost8831
+
+Edge 113-105
+Edge cost8839
+
+Edge 113-115
+Edge cost8847
+
+Edge 113-125
+Edge cost8855
+
+Edge 114-610
+Edge cost8863
+
+Edge 114-611
+Edge cost8871
+
+Edge 114-612
+Edge cost8879
+
+Edge 114-613
+Edge cost8887
+
+Edge 114-614
+Edge cost8895
+
+Edge 114-615
+Edge cost8903
+
+Edge 114-616
+Edge cost8911
+
+Edge 114-617
+Edge cost8919
+
+Edge 114-618
+Edge cost8927
+
+Edge 114-79
+Edge cost8935
+
+Edge 114-710
+Edge cost8943
+
+Edge 114-718
+Edge cost8951
+
+Edge 114-719
+Edge cost8959
+
+Edge 114-88
+Edge cost8967
+
+Edge 114-97
+Edge cost8975
+
+Edge 114-106
+Edge cost8983
+
+Edge 114-107
+Edge cost8991
+
+Edge 114-116
+Edge cost8999
+
+Edge 114-126
+Edge cost9007
+
+Edge 115-711
+Edge cost9015
+
+Edge 115-712
+Edge cost9023
+
+Edge 115-713
+Edge cost9031
+
+Edge 115-714
+Edge cost9039
+
+Edge 115-715
+Edge cost9047
+
+Edge 115-716
+Edge cost9055
+
+Edge 115-717
+Edge cost9063
+
+Edge 115-718
+Edge cost9071
+
+Edge 115-719
+Edge cost9079
+
+Edge 115-810
+Edge cost9087
+
+Edge 115-811
+Edge cost9095
+
+Edge 115-819
+Edge cost9103
+
+Edge 115-99
+Edge cost9111
+
+Edge 115-108
+Edge cost9119
+
+Edge 115-117
+Edge cost9127
+
+Edge 115-118
+Edge cost9135
+
+Edge 115-127
+Edge cost9143
+
+Edge 116-812
+Edge cost9151
+
+Edge 116-813
+Edge cost9159
+
+Edge 116-814
+Edge cost9167
+
+Edge 116-815
+Edge cost9175
+
+Edge 116-816
+Edge cost9183
+
+Edge 116-817
+Edge cost9191
+
+Edge 116-818
+Edge cost9199
+
+Edge 116-819
+Edge cost9207
+
+Edge 116-911
+Edge cost9215
+
+Edge 116-912
+Edge cost9223
+
+Edge 116-1010
+Edge cost9231
+
+Edge 116-119
+Edge cost9239
+
+Edge 116-128
+Edge cost9247
+
+Edge 116-129
+Edge cost9255
+
+Edge 117-913
+Edge cost9263
+
+Edge 117-914
+Edge cost9271
+
+Edge 117-915
+Edge cost9279
+
+Edge 117-916
+Edge cost9287
+
+Edge 117-917
+Edge cost9295
+
+Edge 117-918
+Edge cost9303
+
+Edge 117-919
+Edge cost9311
+
+Edge 117-1012
+Edge cost9319
+
+Edge 117-1013
+Edge cost9327
+
+Edge 117-1111
+Edge cost9335
+
+Edge 118-1014
+Edge cost9343
+
+Edge 118-1015
+Edge cost9351
+
+Edge 118-1016
+Edge cost9359
+
+Edge 118-1017
+Edge cost9367
+
+Edge 118-1018
+Edge cost9375
+
+Edge 118-1019
+Edge cost9383
+
+Edge 118-1113
+Edge cost9391
+
+Edge 118-1114
+Edge cost9399
+
+Edge 119-1115
+Edge cost9407
+
+Edge 119-1116
+Edge cost9415
+
+Edge 119-1117
+Edge cost9423
+
+Edge 119-1118
+Edge cost9431
+
+Edge 119-1119
+Edge cost9439
+
+Edge 219-1115
+Edge cost9447
+
+Edge 319-1115
+Edge cost9455
+
+Edge 419-1115
+Edge cost9463
+
+Edge 519-1115
+Edge cost9471
+
+Edge 619-1115
+Edge cost9479
+
+Edge 1-10
+Edge cost9488
+
+Edge 1-110
+Edge cost9497
+
+Edge 2-11
+Edge cost9506
+
+Edge 2-111
+Edge cost9515
+
+Edge 3-12
+Edge cost9524
+
+Edge 3-112
+Edge cost9533
+
+Edge 4-13
+Edge cost9542
+
+Edge 4-113
+Edge cost9551
+
+Edge 5-13
+Edge cost9560
+
+Edge 5-114
+Edge cost9569
+
+Edge 6-13
+Edge cost9578
+
+Edge 6-114
+Edge cost9587
+
+Edge 7-13
+Edge cost9596
+
+Edge 7-14
+Edge cost9605
+
+Edge 7-114
+Edge cost9614
+
+Edge 8-13
+Edge cost9623
+
+Edge 8-114
+Edge cost9632
+
+Edge 8-115
+Edge cost9641
+
+Edge 9-10
+Edge cost9650
+
+Edge 9-11
+Edge cost9659
+
+Edge 9-12
+Edge cost9668
+
+Edge 9-13
+Edge cost9677
+
+Edge 9-114
+Edge cost9686
+
+Edge 10-16
+Edge cost9695
+
+Edge 10-17
+Edge cost9704
+
+Edge 10-18
+Edge cost9713
+
+Edge 10-19
+Edge cost9722
+
+Edge 10-110
+Edge cost9731
+
+Edge 10-111
+Edge cost9740
+
+Edge 10-112
+Edge cost9749
+
+Edge 10-113
+Edge cost9758
+
+Edge 10-114
+Edge cost9767
+
+Edge 10-25
+Edge cost9776
+
+Edge 10-215
+Edge cost9785
+
+Edge 10-33
+Edge cost9794
+
+Edge 10-34
+Edge cost9803
+
+Edge 10-316
+Edge cost9812
+
+Edge 10-317
+Edge cost9821
+
+Edge 10-43
+Edge cost9830
+
+Edge 10-417
+Edge cost9839
+
+Edge 10-52
+Edge cost9848
+
+Edge 10-518
+Edge cost9857
+
+Edge 10-61
+Edge cost9866
+
+Edge 10-619
+Edge cost9875
+
+Edge 10-71
+Edge cost9884
+
+Edge 10-719
+Edge cost9893
+
+Edge 10-81
+Edge cost9902
+
+Edge 10-819
+Edge cost9911
+
+Edge 10-91
+Edge cost9920
+
+Edge 10-919
+Edge cost9929
+
+Edge 10-101
+Edge cost9938
+
+Edge 10-1019
+Edge cost9947
+
+Edge 10-111
+Edge cost9956
+
+Edge 10-1119
+Edge cost9965
+
+Edge 10-121
+Edge cost9974
+
+Edge 11-27
+Edge cost9983
+
+Edge 11-28
+Edge cost9992
+
+Edge 11-29
+Edge cost10001
+
+Edge 11-210
+Edge cost10010
+
+Edge 11-211
+Edge cost10019
+
+Edge 11-212
+Edge cost10028
+
+Edge 11-213
+Edge cost10037
+
+Edge 11-214
+Edge cost10046
+
+Edge 11-215
+Edge cost10055
+
+Edge 11-36
+Edge cost10064
+
+Edge 11-316
+Edge cost10073
+
+Edge 11-44
+Edge cost10082
+
+Edge 11-45
+Edge cost10091
+
+Edge 11-417
+Edge cost10100
+
+Edge 11-418
+Edge cost10109
+
+Edge 11-54
+Edge cost10118
+
+Edge 11-518
+Edge cost10127
+
+Edge 11-63
+Edge cost10136
+
+Edge 11-619
+Edge cost10145
+
+Edge 11-72
+Edge cost10154
+
+Edge 11-82
+Edge cost10163
+
+Edge 11-92
+Edge cost10172
+
+Edge 11-102
+Edge cost10181
+
+Edge 11-112
+Edge cost10190
+
+Edge 11-122
+Edge cost10199
+
+Edge 12-38
+Edge cost10208
+
+Edge 12-39
+Edge cost10217
+
+Edge 12-310
+Edge cost10226
+
+Edge 12-311
+Edge cost10235
+
+Edge 12-312
+Edge cost10244
+
+Edge 12-313
+Edge cost10253
+
+Edge 12-314
+Edge cost10262
+
+Edge 12-315
+Edge cost10271
+
+Edge 12-316
+Edge cost10280
+
+Edge 12-47
+Edge cost10289
+
+Edge 12-417
+Edge cost10298
+
+Edge 12-55
+Edge cost10307
+
+Edge 12-56
+Edge cost10316
+
+Edge 12-518
+Edge cost10325
+
+Edge 12-519
+Edge cost10334
+
+Edge 12-65
+Edge cost10343
+
+Edge 12-619
+Edge cost10352
+
+Edge 12-74
+Edge cost10361
+
+Edge 12-83
+Edge cost10370
+
+Edge 12-93
+Edge cost10379
+
+Edge 12-103
+Edge cost10388
+
+Edge 12-113
+Edge cost10397
+
+Edge 12-123
+Edge cost10406
+
+Edge 13-49
+Edge cost10415
+
+Edge 13-410
+Edge cost10424
+
+Edge 13-411
+Edge cost10433
+
+Edge 13-412
+Edge cost10442
+
+Edge 13-413
+Edge cost10451
+
+Edge 13-414
+Edge cost10460
+
+Edge 13-415
+Edge cost10469
+
+Edge 13-416
+Edge cost10478
+
+Edge 13-417
+Edge cost10487
+
+Edge 13-58
+Edge cost10496
+
+Edge 13-518
+Edge cost10505
+
+Edge 13-66
+Edge cost10514
+
+Edge 13-67
+Edge cost10523
+
+Edge 13-619
+Edge cost10532
+
+Edge 13-76
+Edge cost10541
+
+Edge 13-85
+Edge cost10550
+
+Edge 13-94
+Edge cost10559
+
+Edge 13-104
+Edge cost10568
+
+Edge 13-114
+Edge cost10577
+
+Edge 13-124
+Edge cost10586
+
+Edge 14-510
+Edge cost10595
+
+Edge 14-511
+Edge cost10604
+
+Edge 14-512
+Edge cost10613
+
+Edge 14-513
+Edge cost10622
+
+Edge 14-514
+Edge cost10631
+
+Edge 14-515
+Edge cost10640
+
+Edge 14-516
+Edge cost10649
+
+Edge 14-517
+Edge cost10658
+
+Edge 14-518
+Edge cost10667
+
+Edge 14-69
+Edge cost10676
+
+Edge 14-619
+Edge cost10685
+
+Edge 14-77
+Edge cost10694
+
+Edge 14-78
+Edge cost10703
+
+Edge 14-87
+Edge cost10712
+
+Edge 14-96
+Edge cost10721
+
+Edge 14-105
+Edge cost10730
+
+Edge 14-115
+Edge cost10739
+
+Edge 14-125
+Edge cost10748
+
+Edge 15-611
+Edge cost10757
+
+Edge 15-612
+Edge cost10766
+
+Edge 15-613
+Edge cost10775
+
+Edge 15-614
+Edge cost10784
+
+Edge 15-615
+Edge cost10793
+
+Edge 15-616
+Edge cost10802
+
+Edge 15-617
+Edge cost10811
+
+Edge 15-618
+Edge cost10820
+
+Edge 15-619
+Edge cost10829
+
+Edge 15-710
+Edge cost10838
+
+Edge 15-88
+Edge cost10847
+
+Edge 15-89
+Edge cost10856
+
+Edge 15-98
+Edge cost10865
+
+Edge 15-107
+Edge cost10874
+
+Edge 15-116
+Edge cost10883
+
+Edge 15-126
+Edge cost10892
+
+Edge 16-712
+Edge cost10901
+
+Edge 16-713
+Edge cost10910
+
+Edge 16-714
+Edge cost10919
+
+Edge 16-715
+Edge cost10928
+
+Edge 16-716
+Edge cost10937
+
+Edge 16-717
+Edge cost10946
+
+Edge 16-718
+Edge cost10955
+
+Edge 16-719
+Edge cost10964
+
+Edge 16-811
+Edge cost10973
+
+Edge 16-99
+Edge cost10982
+
+Edge 16-910
+Edge cost10991
+
+Edge 16-109
+Edge cost11000
+
+Edge 16-118
+Edge cost11009
+
+Edge 16-127
+Edge cost11018
+
+Edge 17-813
+Edge cost11027
+
+Edge 17-814
+Edge cost11036
+
+Edge 17-815
+Edge cost11045
+
+Edge 17-816
+Edge cost11054
+
+Edge 17-817
+Edge cost11063
+
+Edge 17-818
+Edge cost11072
+
+Edge 17-819
+Edge cost11081
+
+Edge 17-912
+Edge cost11090
+
+Edge 17-1010
+Edge cost11099
+
+Edge 17-1011
+Edge cost11108
+
+Edge 17-1110
+Edge cost11117
+
+Edge 17-129
+Edge cost11126
+
+Edge 18-914
+Edge cost11135
+
+Edge 18-915
+Edge cost11144
+
+Edge 18-916
+Edge cost11153
+
+Edge 18-917
+Edge cost11162
+
+Edge 18-918
+Edge cost11171
+
+Edge 18-919
+Edge cost11180
+
+Edge 18-1013
+Edge cost11189
+
+Edge 18-1111
+Edge cost11198
+
+Edge 18-1112
+Edge cost11207
+
+Edge 19-1015
+Edge cost11216
+
+Edge 19-1016
+Edge cost11225
+
+Edge 19-1017
+Edge cost11234
+
+Edge 19-1018
+Edge cost11243
+
+Edge 19-1019
+Edge cost11252
+
+Edge 19-1114
+Edge cost11261
+
+Edge 11-110
+Edge cost11270
+
+Edge 12-111
+Edge cost11279
+
+Edge 13-112
+Edge cost11288
+
+Edge 14-113
+Edge cost11297
+
+Edge 15-114
+Edge cost11306
+
+Edge 16-114
+Edge cost11315
+
+Edge 17-114
+Edge cost11324
+
+Edge 18-114
+Edge cost11333
+
+Edge 18-115
+Edge cost11342
+
+Edge 19-114
+Edge cost11351
+
+Edge 110-111
+Edge cost11360
+
+Edge 110-112
+Edge cost11369
+
+Edge 110-113
+Edge cost11378
+
+Edge 110-114
+Edge cost11387
+
+Edge 110-25
+Edge cost11396
+
+Edge 110-215
+Edge cost11405
+
+Edge 110-33
+Edge cost11414
+
+Edge 110-34
+Edge cost11423
+
+Edge 110-316
+Edge cost11432
+
+Edge 110-317
+Edge cost11441
+
+Edge 110-43
+Edge cost11450
+
+Edge 110-417
+Edge cost11459
+
+Edge 110-52
+Edge cost11468
+
+Edge 110-518
+Edge cost11477
+
+Edge 110-61
+Edge cost11486
+
+Edge 110-619
+Edge cost11495
+
+Edge 110-71
+Edge cost11504
+
+Edge 110-719
+Edge cost11513
+
+Edge 110-81
+Edge cost11522
+
+Edge 110-819
+Edge cost11531
+
+Edge 110-91
+Edge cost11540
+
+Edge 110-919
+Edge cost11549
+
+Edge 110-101
+Edge cost11558
+
+Edge 110-1019
+Edge cost11567
+
+Edge 110-111
+Edge cost11576
+
+Edge 110-1119
+Edge cost11585
+
+Edge 110-121
+Edge cost11594
+
+Edge 111-27
+Edge cost11603
+
+Edge 111-28
+Edge cost11612
+
+Edge 111-29
+Edge cost11621
+
+Edge 111-210
+Edge cost11630
+
+Edge 111-211
+Edge cost11639
+
+Edge 111-212
+Edge cost11648
+
+Edge 111-213
+Edge cost11657
+
+Edge 111-214
+Edge cost11666
+
+Edge 111-215
+Edge cost11675
+
+Edge 111-36
+Edge cost11684
+
+Edge 111-316
+Edge cost11693
+
+Edge 111-44
+Edge cost11702
+
+Edge 111-45
+Edge cost11711
+
+Edge 111-417
+Edge cost11720
+
+Edge 111-418
+Edge cost11729
+
+Edge 111-54
+Edge cost11738
+
+Edge 111-518
+Edge cost11747
+
+Edge 111-63
+Edge cost11756
+
+Edge 111-619
+Edge cost11765
+
+Edge 111-72
+Edge cost11774
+
+Edge 111-82
+Edge cost11783
+
+Edge 111-92
+Edge cost11792
+
+Edge 111-102
+Edge cost11801
+
+Edge 111-112
+Edge cost11810
+
+Edge 111-122
+Edge cost11819
+
+Edge 112-38
+Edge cost11828
+
+Edge 112-39
+Edge cost11837
+
+Edge 112-310
+Edge cost11846
+
+Edge 112-311
+Edge cost11855
+
+Edge 112-312
+Edge cost11864
+
+Edge 112-313
+Edge cost11873
+
+Edge 112-314
+Edge cost11882
+
+Edge 112-315
+Edge cost11891
+
+Edge 112-316
+Edge cost11900
+
+Edge 112-47
+Edge cost11909
+
+Edge 112-417
+Edge cost11918
+
+Edge 112-55
+Edge cost11927
+
+Edge 112-56
+Edge cost11936
+
+Edge 112-518
+Edge cost11945
+
+Edge 112-519
+Edge cost11954
+
+Edge 112-65
+Edge cost11963
+
+Edge 112-619
+Edge cost11972
+
+Edge 112-74
+Edge cost11981
+
+Edge 112-83
+Edge cost11990
+
+Edge 112-93
+Edge cost11999
+
+Edge 112-103
+Edge cost12008
+
+Edge 112-113
+Edge cost12017
+
+Edge 112-123
+Edge cost12026
+
+Edge 113-49
+Edge cost12035
+
+Edge 113-410
+Edge cost12044
+
+Edge 113-411
+Edge cost12053
+
+Edge 113-412
+Edge cost12062
+
+Edge 113-413
+Edge cost12071
+
+Edge 113-414
+Edge cost12080
+
+Edge 113-415
+Edge cost12089
+
+Edge 113-416
+Edge cost12098
+
+Edge 113-417
+Edge cost12107
+
+Edge 113-58
+Edge cost12116
+
+Edge 113-518
+Edge cost12125
+
+Edge 113-66
+Edge cost12134
+
+Edge 113-67
+Edge cost12143
+
+Edge 113-619
+Edge cost12152
+
+Edge 113-76
+Edge cost12161
+
+Edge 113-85
+Edge cost12170
+
+Edge 113-94
+Edge cost12179
+
+Edge 113-104
+Edge cost12188
+
+Edge 113-114
+Edge cost12197
+
+Edge 113-124
+Edge cost12206
+
+Edge 114-510
+Edge cost12215
+
+Edge 114-511
+Edge cost12224
+
+Edge 114-512
+Edge cost12233
+
+Edge 114-513
+Edge cost12242
+
+Edge 114-514
+Edge cost12251
+
+Edge 114-515
+Edge cost12260
+
+Edge 114-516
+Edge cost12269
+
+Edge 114-517
+Edge cost12278
+
+Edge 114-518
+Edge cost12287
+
+Edge 114-69
+Edge cost12296
+
+Edge 114-619
+Edge cost12305
+
+Edge 114-77
+Edge cost12314
+
+Edge 114-78
+Edge cost12323
+
+Edge 114-87
+Edge cost12332
+
+Edge 114-96
+Edge cost12341
+
+Edge 114-105
+Edge cost12350
+
+Edge 114-115
+Edge cost12359
+
+Edge 114-125
+Edge cost12368
+
+Edge 115-611
+Edge cost12377
+
+Edge 115-612
+Edge cost12386
+
+Edge 115-613
+Edge cost12395
+
+Edge 115-614
+Edge cost12404
+
+Edge 115-615
+Edge cost12413
+
+Edge 115-616
+Edge cost12422
+
+Edge 115-617
+Edge cost12431
+
+Edge 115-618
+Edge cost12440
+
+Edge 115-619
+Edge cost12449
+
+Edge 115-710
+Edge cost12458
+
+Edge 115-88
+Edge cost12467
+
+Edge 115-89
+Edge cost12476
+
+Edge 115-98
+Edge cost12485
+
+Edge 115-107
+Edge cost12494
+
+Edge 115-116
+Edge cost12503
+
+Edge 115-126
+Edge cost12512
+
+Edge 116-712
+Edge cost12521
+
+Edge 116-713
+Edge cost12530
+
+Edge 116-714
+Edge cost12539
+
+Edge 116-715
+Edge cost12548
+
+Edge 116-716
+Edge cost12557
+
+Edge 116-717
+Edge cost12566
+
+Edge 116-718
+Edge cost12575
+
+Edge 116-719
+Edge cost12584
+
+Edge 116-811
+Edge cost12593
+
+Edge 116-99
+Edge cost12602
+
+Edge 116-910
+Edge cost12611
+
+Edge 116-109
+Edge cost12620
+
+Edge 116-118
+Edge cost12629
+
+Edge 116-127
+Edge cost12638
+
+Edge 117-813
+Edge cost12647
+
+Edge 117-814
+Edge cost12656
+
+Edge 117-815
+Edge cost12665
+
+Edge 117-816
+Edge cost12674
+
+Edge 117-817
+Edge cost12683
+
+Edge 117-818
+Edge cost12692
+
+Edge 117-819
+Edge cost12701
+
+Edge 117-912
+Edge cost12710
+
+Edge 117-1010
+Edge cost12719
+
+Edge 117-1011
+Edge cost12728
+
+Edge 117-1110
+Edge cost12737
+
+Edge 117-129
+Edge cost12746
+
+Edge 118-914
+Edge cost12755
+
+Edge 118-915
+Edge cost12764
+
+Edge 118-916
+Edge cost12773
+
+Edge 118-917
+Edge cost12782
+
+Edge 118-918
+Edge cost12791
+
+Edge 118-919
+Edge cost12800
+
+Edge 118-1013
+Edge cost12809
+
+Edge 118-1111
+Edge cost12818
+
+Edge 118-1112
+Edge cost12827
+
+Edge 119-1015
+Edge cost12836
+
+Edge 119-1016
+Edge cost12845
+
+Edge 119-1017
+Edge cost12854
+
+Edge 119-1018
+Edge cost12863
+
+Edge 119-1019
+Edge cost12872
+
+Edge 119-1114
+Edge cost12881
+
+Edge 0-10
+Edge cost12891
+
+Edge 0-110
+Edge cost12901
+
+Edge 1-11
+Edge cost12911
+
+Edge 1-111
+Edge cost12921
+
+Edge 2-12
+Edge cost12931
+
+Edge 2-112
+Edge cost12941
+
+Edge 3-13
+Edge cost12951
+
+Edge 3-113
+Edge cost12961
+
+Edge 4-14
+Edge cost12971
+
+Edge 4-114
+Edge cost12981
+
+Edge 5-14
+Edge cost12991
+
+Edge 5-115
+Edge cost13001
+
+Edge 6-14
+Edge cost13011
+
+Edge 6-15
+Edge cost13021
+
+Edge 6-115
+Edge cost13031
+
+Edge 7-15
+Edge cost13041
+
+Edge 7-115
+Edge cost13051
+
+Edge 7-116
+Edge cost13061
+
+Edge 8-14
+Edge cost13071
+
+Edge 8-15
+Edge cost13081
+
+Edge 8-116
+Edge cost13091
+
+Edge 9-14
+Edge cost13101
+
+Edge 9-15
+Edge cost13111
+
+Edge 9-115
+Edge cost13121
+
+Edge 9-116
+Edge cost13131
+
+Edge 10-11
+Edge cost13141
+
+Edge 10-12
+Edge cost13151
+
+Edge 10-13
+Edge cost13161
+
+Edge 10-14
+Edge cost13171
+
+Edge 10-14
+Edge cost13181
+
+Edge 10-15
+Edge cost13191
+
+Edge 10-115
+Edge cost13201
+
+Edge 10-116
+Edge cost13211
+
+Edge 10-23
+Edge cost13221
+
+Edge 10-24
+Edge cost13231
+
+Edge 10-216
+Edge cost13241
+
+Edge 10-217
+Edge cost13251
+
+Edge 10-32
+Edge cost13261
+
+Edge 10-318
+Edge cost13271
+
+Edge 10-41
+Edge cost13281
+
+Edge 10-42
+Edge cost13291
+
+Edge 10-418
+Edge cost13301
+
+Edge 10-419
+Edge cost13311
+
+Edge 10-51
+Edge cost13321
+
+Edge 10-519
+Edge cost13331
+
+Edge 10-60
+Edge cost13341
+
+Edge 10-70
+Edge cost13351
+
+Edge 10-80
+Edge cost13361
+
+Edge 10-90
+Edge cost13371
+
+Edge 10-100
+Edge cost13381
+
+Edge 10-110
+Edge cost13391
+
+Edge 10-120
+Edge cost13401
+
+Edge 11-17
+Edge cost13411
+
+Edge 11-18
+Edge cost13421
+
+Edge 11-19
+Edge cost13431
+
+Edge 11-110
+Edge cost13441
+
+Edge 11-111
+Edge cost13451
+
+Edge 11-112
+Edge cost13461
+
+Edge 11-113
+Edge cost13471
+
+Edge 11-114
+Edge cost13481
+
+Edge 11-115
+Edge cost13491
+
+Edge 11-25
+Edge cost13501
+
+Edge 11-26
+Edge cost13511
+
+Edge 11-216
+Edge cost13521
+
+Edge 11-217
+Edge cost13531
+
+Edge 11-34
+Edge cost13541
+
+Edge 11-35
+Edge cost13551
+
+Edge 11-317
+Edge cost13561
+
+Edge 11-318
+Edge cost13571
+
+Edge 11-43
+Edge cost13581
+
+Edge 11-419
+Edge cost13591
+
+Edge 11-52
+Edge cost13601
+
+Edge 11-53
+Edge cost13611
+
+Edge 11-519
+Edge cost13621
+
+Edge 11-62
+Edge cost13631
+
+Edge 11-71
+Edge cost13641
+
+Edge 11-81
+Edge cost13651
+
+Edge 11-91
+Edge cost13661
+
+Edge 11-101
+Edge cost13671
+
+Edge 11-111
+Edge cost13681
+
+Edge 11-121
+Edge cost13691
+
+Edge 12-28
+Edge cost13701
+
+Edge 12-29
+Edge cost13711
+
+Edge 12-210
+Edge cost13721
+
+Edge 12-211
+Edge cost13731
+
+Edge 12-212
+Edge cost13741
+
+Edge 12-213
+Edge cost13751
+
+Edge 12-214
+Edge cost13761
+
+Edge 12-215
+Edge cost13771
+
+Edge 12-216
+Edge cost13781
+
+Edge 12-36
+Edge cost13791
+
+Edge 12-37
+Edge cost13801
+
+Edge 12-317
+Edge cost13811
+
+Edge 12-318
+Edge cost13821
+
+Edge 12-45
+Edge cost13831
+
+Edge 12-46
+Edge cost13841
+
+Edge 12-418
+Edge cost13851
+
+Edge 12-419
+Edge cost13861
+
+Edge 12-54
+Edge cost13871
+
+Edge 12-63
+Edge cost13881
+
+Edge 12-64
+Edge cost13891
+
+Edge 12-73
+Edge cost13901
+
+Edge 12-82
+Edge cost13911
+
+Edge 12-92
+Edge cost13921
+
+Edge 12-102
+Edge cost13931
+
+Edge 12-112
+Edge cost13941
+
+Edge 12-122
+Edge cost13951
+
+Edge 13-39
+Edge cost13961
+
+Edge 13-310
+Edge cost13971
+
+Edge 13-311
+Edge cost13981
+
+Edge 13-312
+Edge cost13991
+
+Edge 13-313
+Edge cost14001
+
+Edge 13-314
+Edge cost14011
+
+Edge 13-315
+Edge cost14021
+
+Edge 13-316
+Edge cost14031
+
+Edge 13-317
+Edge cost14041
+
+Edge 13-47
+Edge cost14051
+
+Edge 13-48
+Edge cost14061
+
+Edge 13-418
+Edge cost14071
+
+Edge 13-419
+Edge cost14081
+
+Edge 13-56
+Edge cost14091
+
+Edge 13-57
+Edge cost14101
+
+Edge 13-519
+Edge cost14111
+
+Edge 13-65
+Edge cost14121
+
+Edge 13-74
+Edge cost14131
+
+Edge 13-75
+Edge cost14141
+
+Edge 13-84
+Edge cost14151
+
+Edge 13-93
+Edge cost14161
+
+Edge 13-103
+Edge cost14171
+
+Edge 13-113
+Edge cost14181
+
+Edge 13-123
+Edge cost14191
+
+Edge 14-410
+Edge cost14201
+
+Edge 14-411
+Edge cost14211
+
+Edge 14-412
+Edge cost14221
+
+Edge 14-413
+Edge cost14231
+
+Edge 14-414
+Edge cost14241
+
+Edge 14-415
+Edge cost14251
+
+Edge 14-416
+Edge cost14261
+
+Edge 14-417
+Edge cost14271
+
+Edge 14-418
+Edge cost14281
+
+Edge 14-58
+Edge cost14291
+
+Edge 14-59
+Edge cost14301
+
+Edge 14-519
+Edge cost14311
+
+Edge 14-67
+Edge cost14321
+
+Edge 14-68
+Edge cost14331
+
+Edge 14-76
+Edge cost14341
+
+Edge 14-85
+Edge cost14351
+
+Edge 14-86
+Edge cost14361
+
+Edge 14-95
+Edge cost14371
+
+Edge 14-104
+Edge cost14381
+
+Edge 14-114
+Edge cost14391
+
+Edge 14-124
+Edge cost14401
+
+Edge 15-511
+Edge cost14411
+
+Edge 15-512
+Edge cost14421
+
+Edge 15-513
+Edge cost14431
+
+Edge 15-514
+Edge cost14441
+
+Edge 15-515
+Edge cost14451
+
+Edge 15-516
+Edge cost14461
+
+Edge 15-517
+Edge cost14471
+
+Edge 15-518
+Edge cost14481
+
+Edge 15-519
+Edge cost14491
+
+Edge 15-69
+Edge cost14501
+
+Edge 15-610
+Edge cost14511
+
+Edge 15-78
+Edge cost14521
+
+Edge 15-79
+Edge cost14531
+
+Edge 15-87
+Edge cost14541
+
+Edge 15-96
+Edge cost14551
+
+Edge 15-97
+Edge cost14561
+
+Edge 15-106
+Edge cost14571
+
+Edge 15-115
+Edge cost14581
+
+Edge 15-125
+Edge cost14591
+
+Edge 16-612
+Edge cost14601
+
+Edge 16-613
+Edge cost14611
+
+Edge 16-614
+Edge cost14621
+
+Edge 16-615
+Edge cost14631
+
+Edge 16-616
+Edge cost14641
+
+Edge 16-617
+Edge cost14651
+
+Edge 16-618
+Edge cost14661
+
+Edge 16-619
+Edge cost14671
+
+Edge 16-710
+Edge cost14681
+
+Edge 16-711
+Edge cost14691
+
+Edge 16-89
+Edge cost14701
+
+Edge 16-810
+Edge cost14711
+
+Edge 16-98
+Edge cost14721
+
+Edge 16-107
+Edge cost14731
+
+Edge 16-108
+Edge cost14741
+
+Edge 16-117
+Edge cost14751
+
+Edge 16-126
+Edge cost14761
+
+Edge 17-713
+Edge cost14771
+
+Edge 17-714
+Edge cost14781
+
+Edge 17-715
+Edge cost14791
+
+Edge 17-716
+Edge cost14801
+
+Edge 17-717
+Edge cost14811
+
+Edge 17-718
+Edge cost14821
+
+Edge 17-719
+Edge cost14831
+
+Edge 17-811
+Edge cost14841
+
+Edge 17-812
+Edge cost14851
+
+Edge 17-910
+Edge cost14861
+
+Edge 17-911
+Edge cost14871
+
+Edge 17-109
+Edge cost14881
+
+Edge 17-118
+Edge cost14891
+
+Edge 17-119
+Edge cost14901
+
+Edge 17-128
+Edge cost14911
+
+Edge 18-814
+Edge cost14921
+
+Edge 18-815
+Edge cost14931
+
+Edge 18-816
+Edge cost14941
+
+Edge 18-817
+Edge cost14951
+
+Edge 18-818
+Edge cost14961
+
+Edge 18-819
+Edge cost14971
+
+Edge 18-912
+Edge cost14981
+
+Edge 18-913
+Edge cost14991
+
+Edge 18-1011
+Edge cost15001
+
+Edge 18-1012
+Edge cost15011
+
+Edge 18-1110
+Edge cost15021
+
+Edge 18-129
+Edge cost15031
+
+Edge 19-915
+Edge cost15041
+
+Edge 19-916
+Edge cost15051
+
+Edge 19-917
+Edge cost15061
+
+Edge 19-918
+Edge cost15071
+
+Edge 19-919
+Edge cost15081
+
+Edge 19-1013
+Edge cost15091
+
+Edge 19-1014
+Edge cost15101
+
+Edge 19-1112
+Edge cost15111
+
+Edge 19-1113
+Edge cost15121
+
+Edge 10-110
+Edge cost15131
+
+Edge 11-111
+Edge cost15141
+
+Edge 12-112
+Edge cost15151
+
+Edge 13-113
+Edge cost15161
+
+Edge 14-114
+Edge cost15171
+
+Edge 15-115
+Edge cost15181
+
+Edge 16-115
+Edge cost15191
+
+Edge 17-115
+Edge cost15201
+
+Edge 17-116
+Edge cost15211
+
+Edge 18-116
+Edge cost15221
+
+Edge 19-115
+Edge cost15231
+
+Edge 19-116
+Edge cost15241
+
+Edge 110-115
+Edge cost15251
+
+Edge 110-116
+Edge cost15261
+
+Edge 110-23
+Edge cost15271
+
+Edge 110-24
+Edge cost15281
+
+Edge 110-216
+Edge cost15291
+
+Edge 110-217
+Edge cost15301
+
+Edge 110-32
+Edge cost15311
+
+Edge 110-318
+Edge cost15321
+
+Edge 110-41
+Edge cost15331
+
+Edge 110-42
+Edge cost15341
+
+Edge 110-418
+Edge cost15351
+
+Edge 110-419
+Edge cost15361
+
+Edge 110-51
+Edge cost15371
+
+Edge 110-519
+Edge cost15381
+
+Edge 110-60
+Edge cost15391
+
+Edge 110-70
+Edge cost15401
+
+Edge 110-80
+Edge cost15411
+
+Edge 110-90
+Edge cost15421
+
+Edge 110-100
+Edge cost15431
+
+Edge 110-110
+Edge cost15441
+
+Edge 110-120
+Edge cost15451
+
+Edge 111-112
+Edge cost15461
+
+Edge 111-113
+Edge cost15471
+
+Edge 111-114
+Edge cost15481
+
+Edge 111-115
+Edge cost15491
+
+Edge 111-25
+Edge cost15501
+
+Edge 111-26
+Edge cost15511
+
+Edge 111-216
+Edge cost15521
+
+Edge 111-217
+Edge cost15531
+
+Edge 111-34
+Edge cost15541
+
+Edge 111-35
+Edge cost15551
+
+Edge 111-317
+Edge cost15561
+
+Edge 111-318
+Edge cost15571
+
+Edge 111-43
+Edge cost15581
+
+Edge 111-419
+Edge cost15591
+
+Edge 111-52
+Edge cost15601
+
+Edge 111-53
+Edge cost15611
+
+Edge 111-519
+Edge cost15621
+
+Edge 111-62
+Edge cost15631
+
+Edge 111-71
+Edge cost15641
+
+Edge 111-81
+Edge cost15651
+
+Edge 111-91
+Edge cost15661
+
+Edge 111-101
+Edge cost15671
+
+Edge 111-111
+Edge cost15681
+
+Edge 111-121
+Edge cost15691
+
+Edge 112-28
+Edge cost15701
+
+Edge 112-29
+Edge cost15711
+
+Edge 112-210
+Edge cost15721
+
+Edge 112-211
+Edge cost15731
+
+Edge 112-212
+Edge cost15741
+
+Edge 112-213
+Edge cost15751
+
+Edge 112-214
+Edge cost15761
+
+Edge 112-215
+Edge cost15771
+
+Edge 112-216
+Edge cost15781
+
+Edge 112-36
+Edge cost15791
+
+Edge 112-37
+Edge cost15801
+
+Edge 112-317
+Edge cost15811
+
+Edge 112-318
+Edge cost15821
+
+Edge 112-45
+Edge cost15831
+
+Edge 112-46
+Edge cost15841
+
+Edge 112-418
+Edge cost15851
+
+Edge 112-419
+Edge cost15861
+
+Edge 112-54
+Edge cost15871
+
+Edge 112-63
+Edge cost15881
+
+Edge 112-64
+Edge cost15891
+
+Edge 112-73
+Edge cost15901
+
+Edge 112-82
+Edge cost15911
+
+Edge 112-92
+Edge cost15921
+
+Edge 112-102
+Edge cost15931
+
+Edge 112-112
+Edge cost15941
+
+Edge 112-122
+Edge cost15951
+
+Edge 113-39
+Edge cost15961
+
+Edge 113-310
+Edge cost15971
+
+Edge 113-311
+Edge cost15981
+
+Edge 113-312
+Edge cost15991
+
+Edge 113-313
+Edge cost16001
+
+Edge 113-314
+Edge cost16011
+
+Edge 113-315
+Edge cost16021
+
+Edge 113-316
+Edge cost16031
+
+Edge 113-317
+Edge cost16041
+
+Edge 113-47
+Edge cost16051
+
+Edge 113-48
+Edge cost16061
+
+Edge 113-418
+Edge cost16071
+
+Edge 113-419
+Edge cost16081
+
+Edge 113-56
+Edge cost16091
+
+Edge 113-57
+Edge cost16101
+
+Edge 113-519
+Edge cost16111
+
+Edge 113-65
+Edge cost16121
+
+Edge 113-74
+Edge cost16131
+
+Edge 113-75
+Edge cost16141
+
+Edge 113-84
+Edge cost16151
+
+Edge 113-93
+Edge cost16161
+
+Edge 113-103
+Edge cost16171
+
+Edge 113-113
+Edge cost16181
+
+Edge 113-123
+Edge cost16191
+
+Edge 114-410
+Edge cost16201
+
+Edge 114-411
+Edge cost16211
+
+Edge 114-412
+Edge cost16221
+
+Edge 114-413
+Edge cost16231
+
+Edge 114-414
+Edge cost16241
+
+Edge 114-415
+Edge cost16251
+
+Edge 114-416
+Edge cost16261
+
+Edge 114-417
+Edge cost16271
+
+Edge 114-418
+Edge cost16281
+
+Edge 114-58
+Edge cost16291
+
+Edge 114-59
+Edge cost16301
+
+Edge 114-519
+Edge cost16311
+
+Edge 114-67
+Edge cost16321
+
+Edge 114-68
+Edge cost16331
+
+Edge 114-76
+Edge cost16341
+
+Edge 114-85
+Edge cost16351
+
+Edge 114-86
+Edge cost16361
+
+Edge 114-95
+Edge cost16371
+
+Edge 114-104
+Edge cost16381
+
+Edge 114-114
+Edge cost16391
+
+Edge 114-124
+Edge cost16401
+
+Edge 115-511
+Edge cost16411
+
+Edge 115-512
+Edge cost16421
+
+Edge 115-513
+Edge cost16431
+
+Edge 115-514
+Edge cost16441
+
+Edge 115-515
+Edge cost16451
+
+Edge 115-516
+Edge cost16461
+
+Edge 115-517
+Edge cost16471
+
+Edge 115-518
+Edge cost16481
+
+Edge 115-519
+Edge cost16491
+
+Edge 115-69
+Edge cost16501
+
+Edge 115-610
+Edge cost16511
+
+Edge 115-78
+Edge cost16521
+
+Edge 115-79
+Edge cost16531
+
+Edge 115-87
+Edge cost16541
+
+Edge 115-96
+Edge cost16551
+
+Edge 115-97
+Edge cost16561
+
+Edge 115-106
+Edge cost16571
+
+Edge 115-115
+Edge cost16581
+
+Edge 115-125
+Edge cost16591
+
+Edge 116-612
+Edge cost16601
+
+Edge 116-613
+Edge cost16611
+
+Edge 116-614
+Edge cost16621
+
+Edge 116-615
+Edge cost16631
+
+Edge 116-616
+Edge cost16641
+
+Edge 116-617
+Edge cost16651
+
+Edge 116-618
+Edge cost16661
+
+Edge 116-619
+Edge cost16671
+
+Edge 116-710
+Edge cost16681
+
+Edge 116-711
+Edge cost16691
+
+Edge 116-89
+Edge cost16701
+
+Edge 116-810
+Edge cost16711
+
+Edge 116-98
+Edge cost16721
+
+Edge 116-107
+Edge cost16731
+
+Edge 116-108
+Edge cost16741
+
+Edge 116-117
+Edge cost16751
+
+Edge 116-126
+Edge cost16761
+
+Edge 117-713
+Edge cost16771
+
+Edge 117-714
+Edge cost16781
+
+Edge 117-715
+Edge cost16791
+
+Edge 117-716
+Edge cost16801
+
+Edge 117-717
+Edge cost16811
+
+Edge 117-718
+Edge cost16821
+
+Edge 117-719
+Edge cost16831
+
+Edge 117-811
+Edge cost16841
+
+Edge 117-812
+Edge cost16851
+
+Edge 117-910
+Edge cost16861
+
+Edge 117-911
+Edge cost16871
+
+Edge 117-109
+Edge cost16881
+
+Edge 117-118
+Edge cost16891
+
+Edge 117-119
+Edge cost16901
+
+Edge 117-128
+Edge cost16911
+
+Edge 118-814
+Edge cost16921
+
+Edge 118-815
+Edge cost16931
+
+Edge 118-816
+Edge cost16941
+
+Edge 118-817
+Edge cost16951
+
+Edge 118-818
+Edge cost16961
+
+Edge 118-819
+Edge cost16971
+
+Edge 118-912
+Edge cost16981
+
+Edge 118-913
+Edge cost16991
+
+Edge 118-1011
+Edge cost17001
+
+Edge 118-1012
+Edge cost17011
+
+Edge 118-1110
+Edge cost17021
+
+Edge 118-129
+Edge cost17031
+
+Edge 119-915
+Edge cost17041
+
+Edge 119-916
+Edge cost17051
+
+Edge 119-917
+Edge cost17061
+
+Edge 119-918
+Edge cost17071
+
+Edge 119-919
+Edge cost17081
+
+Edge 119-1013
+Edge cost17091
+
+Edge 119-1014
+Edge cost17101
+
+Edge 119-1112
+Edge cost17111
+
+Edge 119-1113
+Edge cost17121
+
+Edge 0-11
+Edge cost17132
+
+Edge 0-111
+Edge cost17143
+
+Edge 1-12
+Edge cost17154
+
+Edge 1-112
+Edge cost17165
+
+Edge 2-13
+Edge cost17176
+
+Edge 2-113
+Edge cost17187
+
+Edge 3-14
+Edge cost17198
+
+Edge 3-114
+Edge cost17209
+
+Edge 4-15
+Edge cost17220
+
+Edge 4-115
+Edge cost17231
+
+Edge 5-15
+Edge cost17242
+
+Edge 5-116
+Edge cost17253
+
+Edge 6-16
+Edge cost17264
+
+Edge 6-116
+Edge cost17275
+
+Edge 7-16
+Edge cost17286
+
+Edge 7-117
+Edge cost17297
+
+Edge 8-16
+Edge cost17308
+
+Edge 8-117
+Edge cost17319
+
+Edge 9-16
+Edge cost17330
+
+Edge 9-117
+Edge cost17341
+
+Edge 10-15
+Edge cost17352
+
+Edge 10-16
+Edge cost17363
+
+Edge 10-13
+Edge cost17374
+
+Edge 10-117
+Edge cost17385
+
+Edge 10-22
+Edge cost17396
+
+Edge 10-218
+Edge cost17407
+
+Edge 10-31
+Edge cost17418
+
+Edge 10-319
+Edge cost17429
+
+Edge 10-40
+Edge cost17440
+
+Edge 10-50
+Edge cost17451
+
+Edge 11-12
+Edge cost17462
+
+Edge 11-13
+Edge cost17473
+
+Edge 11-14
+Edge cost17484
+
+Edge 11-15
+Edge cost17495
+
+Edge 11-15
+Edge cost17506
+
+Edge 11-16
+Edge cost17517
+
+Edge 11-116
+Edge cost17528
+
+Edge 11-117
+Edge cost17539
+
+Edge 11-24
+Edge cost17550
+
+Edge 11-218
+Edge cost17561
+
+Edge 11-33
+Edge cost17572
+
+Edge 11-319
+Edge cost17583
+
+Edge 11-42
+Edge cost17594
+
+Edge 11-51
+Edge cost17605
+
+Edge 11-61
+Edge cost17616
+
+Edge 11-70
+Edge cost17627
+
+Edge 11-80
+Edge cost17638
+
+Edge 11-90
+Edge cost17649
+
+Edge 11-100
+Edge cost17660
+
+Edge 11-110
+Edge cost17671
+
+Edge 11-120
+Edge cost17682
+
+Edge 12-18
+Edge cost17693
+
+Edge 12-19
+Edge cost17704
+
+Edge 12-110
+Edge cost17715
+
+Edge 12-111
+Edge cost17726
+
+Edge 12-112
+Edge cost17737
+
+Edge 12-113
+Edge cost17748
+
+Edge 12-114
+Edge cost17759
+
+Edge 12-115
+Edge cost17770
+
+Edge 12-116
+Edge cost17781
+
+Edge 12-26
+Edge cost17792
+
+Edge 12-27
+Edge cost17803
+
+Edge 12-217
+Edge cost17814
+
+Edge 12-218
+Edge cost17825
+
+Edge 12-35
+Edge cost17836
+
+Edge 12-319
+Edge cost17847
+
+Edge 12-44
+Edge cost17858
+
+Edge 12-53
+Edge cost17869
+
+Edge 12-62
+Edge cost17880
+
+Edge 12-72
+Edge cost17891
+
+Edge 12-81
+Edge cost17902
+
+Edge 12-91
+Edge cost17913
+
+Edge 12-101
+Edge cost17924
+
+Edge 12-111
+Edge cost17935
+
+Edge 12-121
+Edge cost17946
+
+Edge 13-29
+Edge cost17957
+
+Edge 13-210
+Edge cost17968
+
+Edge 13-211
+Edge cost17979
+
+Edge 13-212
+Edge cost17990
+
+Edge 13-213
+Edge cost18001
+
+Edge 13-214
+Edge cost18012
+
+Edge 13-215
+Edge cost18023
+
+Edge 13-216
+Edge cost18034
+
+Edge 13-217
+Edge cost18045
+
+Edge 13-37
+Edge cost18056
+
+Edge 13-38
+Edge cost18067
+
+Edge 13-318
+Edge cost18078
+
+Edge 13-319
+Edge cost18089
+
+Edge 13-46
+Edge cost18100
+
+Edge 13-55
+Edge cost18111
+
+Edge 13-64
+Edge cost18122
+
+Edge 13-73
+Edge cost18133
+
+Edge 13-83
+Edge cost18144
+
+Edge 13-92
+Edge cost18155
+
+Edge 13-102
+Edge cost18166
+
+Edge 13-112
+Edge cost18177
+
+Edge 13-122
+Edge cost18188
+
+Edge 14-310
+Edge cost18199
+
+Edge 14-311
+Edge cost18210
+
+Edge 14-312
+Edge cost18221
+
+Edge 14-313
+Edge cost18232
+
+Edge 14-314
+Edge cost18243
+
+Edge 14-315
+Edge cost18254
+
+Edge 14-316
+Edge cost18265
+
+Edge 14-317
+Edge cost18276
+
+Edge 14-318
+Edge cost18287
+
+Edge 14-48
+Edge cost18298
+
+Edge 14-49
+Edge cost18309
+
+Edge 14-419
+Edge cost18320
+
+Edge 14-57
+Edge cost18331
+
+Edge 14-66
+Edge cost18342
+
+Edge 14-75
+Edge cost18353
+
+Edge 14-84
+Edge cost18364
+
+Edge 14-94
+Edge cost18375
+
+Edge 14-103
+Edge cost18386
+
+Edge 14-113
+Edge cost18397
+
+Edge 14-123
+Edge cost18408
+
+Edge 15-411
+Edge cost18419
+
+Edge 15-412
+Edge cost18430
+
+Edge 15-413
+Edge cost18441
+
+Edge 15-414
+Edge cost18452
+
+Edge 15-415
+Edge cost18463
+
+Edge 15-416
+Edge cost18474
+
+Edge 15-417
+Edge cost18485
+
+Edge 15-418
+Edge cost18496
+
+Edge 15-419
+Edge cost18507
+
+Edge 15-59
+Edge cost18518
+
+Edge 15-510
+Edge cost18529
+
+Edge 15-68
+Edge cost18540
+
+Edge 15-77
+Edge cost18551
+
+Edge 15-86
+Edge cost18562
+
+Edge 15-95
+Edge cost18573
+
+Edge 15-105
+Edge cost18584
+
+Edge 15-114
+Edge cost18595
+
+Edge 15-124
+Edge cost18606
+
+Edge 16-512
+Edge cost18617
+
+Edge 16-513
+Edge cost18628
+
+Edge 16-514
+Edge cost18639
+
+Edge 16-515
+Edge cost18650
+
+Edge 16-516
+Edge cost18661
+
+Edge 16-517
+Edge cost18672
+
+Edge 16-518
+Edge cost18683
+
+Edge 16-519
+Edge cost18694
+
+Edge 16-610
+Edge cost18705
+
+Edge 16-611
+Edge cost18716
+
+Edge 16-79
+Edge cost18727
+
+Edge 16-88
+Edge cost18738
+
+Edge 16-97
+Edge cost18749
+
+Edge 16-106
+Edge cost18760
+
+Edge 16-116
+Edge cost18771
+
+Edge 16-125
+Edge cost18782
+
+Edge 17-613
+Edge cost18793
+
+Edge 17-614
+Edge cost18804
+
+Edge 17-615
+Edge cost18815
+
+Edge 17-616
+Edge cost18826
+
+Edge 17-617
+Edge cost18837
+
+Edge 17-618
+Edge cost18848
+
+Edge 17-619
+Edge cost18859
+
+Edge 17-711
+Edge cost18870
+
+Edge 17-712
+Edge cost18881
+
+Edge 17-810
+Edge cost18892
+
+Edge 17-99
+Edge cost18903
+
+Edge 17-108
+Edge cost18914
+
+Edge 17-117
+Edge cost18925
+
+Edge 17-127
+Edge cost18936
+
+Edge 18-714
+Edge cost18947
+
+Edge 18-715
+Edge cost18958
+
+Edge 18-716
+Edge cost18969
+
+Edge 18-717
+Edge cost18980
+
+Edge 18-718
+Edge cost18991
+
+Edge 18-719
+Edge cost19002
+
+Edge 18-812
+Edge cost19013
+
+Edge 18-813
+Edge cost19024
+
+Edge 18-911
+Edge cost19035
+
+Edge 18-1010
+Edge cost19046
+
+Edge 18-119
+Edge cost19057
+
+Edge 18-128
+Edge cost19068
+
+Edge 19-815
+Edge cost19079
+
+Edge 19-816
+Edge cost19090
+
+Edge 19-817
+Edge cost19101
+
+Edge 19-818
+Edge cost19112
+
+Edge 19-819
+Edge cost19123
+
+Edge 19-913
+Edge cost19134
+
+Edge 19-914
+Edge cost19145
+
+Edge 19-1012
+Edge cost19156
+
+Edge 19-1111
+Edge cost19167
+
+Edge 10-111
+Edge cost19178
+
+Edge 11-112
+Edge cost19189
+
+Edge 12-113
+Edge cost19200
+
+Edge 13-114
+Edge cost19211
+
+Edge 14-115
+Edge cost19222
+
+Edge 15-116
+Edge cost19233
+
+Edge 16-116
+Edge cost19244
+
+Edge 17-117
+Edge cost19255
+
+Edge 18-117
+Edge cost19266
+
+Edge 19-117
+Edge cost19277
+
+Edge 110-117
+Edge cost19288
+
+Edge 110-22
+Edge cost19299
+
+Edge 110-218
+Edge cost19310
+
+Edge 110-31
+Edge cost19321
+
+Edge 110-319
+Edge cost19332
+
+Edge 110-40
+Edge cost19343
+
+Edge 110-50
+Edge cost19354
+
+Edge 111-116
+Edge cost19365
+
+Edge 111-117
+Edge cost19376
+
+Edge 111-24
+Edge cost19387
+
+Edge 111-218
+Edge cost19398
+
+Edge 111-33
+Edge cost19409
+
+Edge 111-319
+Edge cost19420
+
+Edge 111-42
+Edge cost19431
+
+Edge 111-51
+Edge cost19442
+
+Edge 111-61
+Edge cost19453
+
+Edge 111-70
+Edge cost19464
+
+Edge 111-80
+Edge cost19475
+
+Edge 111-90
+Edge cost19486
+
+Edge 111-100
+Edge cost19497
+
+Edge 111-110
+Edge cost19508
+
+Edge 111-120
+Edge cost19519
+
+Edge 112-113
+Edge cost19530
+
+Edge 112-114
+Edge cost19541
+
+Edge 112-115
+Edge cost19552
+
+Edge 112-116
+Edge cost19563
+
+Edge 112-26
+Edge cost19574
+
+Edge 112-27
+Edge cost19585
+
+Edge 112-217
+Edge cost19596
+
+Edge 112-218
+Edge cost19607
+
+Edge 112-35
+Edge cost19618
+
+Edge 112-319
+Edge cost19629
+
+Edge 112-44
+Edge cost19640
+
+Edge 112-53
+Edge cost19651
+
+Edge 112-62
+Edge cost19662
+
+Edge 112-72
+Edge cost19673
+
+Edge 112-81
+Edge cost19684
+
+Edge 112-91
+Edge cost19695
+
+Edge 112-101
+Edge cost19706
+
+Edge 112-111
+Edge cost19717
+
+Edge 112-121
+Edge cost19728
+
+Edge 113-29
+Edge cost19739
+
+Edge 113-210
+Edge cost19750
+
+Edge 113-211
+Edge cost19761
+
+Edge 113-212
+Edge cost19772
+
+Edge 113-213
+Edge cost19783
+
+Edge 113-214
+Edge cost19794
+
+Edge 113-215
+Edge cost19805
+
+Edge 113-216
+Edge cost19816
+
+Edge 113-217
+Edge cost19827
+
+Edge 113-37
+Edge cost19838
+
+Edge 113-38
+Edge cost19849
+
+Edge 113-318
+Edge cost19860
+
+Edge 113-319
+Edge cost19871
+
+Edge 113-46
+Edge cost19882
+
+Edge 113-55
+Edge cost19893
+
+Edge 113-64
+Edge cost19904
+
+Edge 113-73
+Edge cost19915
+
+Edge 113-83
+Edge cost19926
+
+Edge 113-92
+Edge cost19937
+
+Edge 113-102
+Edge cost19948
+
+Edge 113-112
+Edge cost19959
+
+Edge 113-122
+Edge cost19970
+
+Edge 114-310
+Edge cost19981
+
+Edge 114-311
+Edge cost19992
+
+Edge 114-312
+Edge cost20003
+
+Edge 114-313
+Edge cost20014
+
+Edge 114-314
+Edge cost20025
+
+Edge 114-315
+Edge cost20036
+
+Edge 114-316
+Edge cost20047
+
+Edge 114-317
+Edge cost20058
+
+Edge 114-318
+Edge cost20069
+
+Edge 114-48
+Edge cost20080
+
+Edge 114-49
+Edge cost20091
+
+Edge 114-419
+Edge cost20102
+
+Edge 114-57
+Edge cost20113
+
+Edge 114-66
+Edge cost20124
+
+Edge 114-75
+Edge cost20135
+
+Edge 114-84
+Edge cost20146
+
+Edge 114-94
+Edge cost20157
+
+Edge 114-103
+Edge cost20168
+
+Edge 114-113
+Edge cost20179
+
+Edge 114-123
+Edge cost20190
+
+Edge 115-411
+Edge cost20201
+
+Edge 115-412
+Edge cost20212
+
+Edge 115-413
+Edge cost20223
+
+Edge 115-414
+Edge cost20234
+
+Edge 115-415
+Edge cost20245
+
+Edge 115-416
+Edge cost20256
+
+Edge 115-417
+Edge cost20267
+
+Edge 115-418
+Edge cost20278
+
+Edge 115-419
+Edge cost20289
+
+Edge 115-59
+Edge cost20300
+
+Edge 115-510
+Edge cost20311
+
+Edge 115-68
+Edge cost20322
+
+Edge 115-77
+Edge cost20333
+
+Edge 115-86
+Edge cost20344
+
+Edge 115-95
+Edge cost20355
+
+Edge 115-105
+Edge cost20366
+
+Edge 115-114
+Edge cost20377
+
+Edge 115-124
+Edge cost20388
+
+Edge 116-512
+Edge cost20399
+
+Edge 116-513
+Edge cost20410
+
+Edge 116-514
+Edge cost20421
+
+Edge 116-515
+Edge cost20432
+
+Edge 116-516
+Edge cost20443
+
+Edge 116-517
+Edge cost20454
+
+Edge 116-518
+Edge cost20465
+
+Edge 116-519
+Edge cost20476
+
+Edge 116-610
+Edge cost20487
+
+Edge 116-611
+Edge cost20498
+
+Edge 116-79
+Edge cost20509
+
+Edge 116-88
+Edge cost20520
+
+Edge 116-97
+Edge cost20531
+
+Edge 116-106
+Edge cost20542
+
+Edge 116-116
+Edge cost20553
+
+Edge 116-125
+Edge cost20564
+
+Edge 117-613
+Edge cost20575
+
+Edge 117-614
+Edge cost20586
+
+Edge 117-615
+Edge cost20597
+
+Edge 117-616
+Edge cost20608
+
+Edge 117-617
+Edge cost20619
+
+Edge 117-618
+Edge cost20630
+
+Edge 117-619
+Edge cost20641
+
+Edge 117-711
+Edge cost20652
+
+Edge 117-712
+Edge cost20663
+
+Edge 117-810
+Edge cost20674
+
+Edge 117-99
+Edge cost20685
+
+Edge 117-108
+Edge cost20696
+
+Edge 117-117
+Edge cost20707
+
+Edge 117-127
+Edge cost20718
+
+Edge 118-714
+Edge cost20729
+
+Edge 118-715
+Edge cost20740
+
+Edge 118-716
+Edge cost20751
+
+Edge 118-717
+Edge cost20762
+
+Edge 118-718
+Edge cost20773
+
+Edge 118-719
+Edge cost20784
+
+Edge 118-812
+Edge cost20795
+
+Edge 118-813
+Edge cost20806
+
+Edge 118-911
+Edge cost20817
+
+Edge 118-1010
+Edge cost20828
+
+Edge 118-119
+Edge cost20839
+
+Edge 118-128
+Edge cost20850
+
+Edge 119-815
+Edge cost20861
+
+Edge 119-816
+Edge cost20872
+
+Edge 119-817
+Edge cost20883
+
+Edge 119-818
+Edge cost20894
+
+Edge 119-819
+Edge cost20905
+
+Edge 119-913
+Edge cost20916
+
+Edge 119-914
+Edge cost20927
+
+Edge 119-1012
+Edge cost20938
+
+Edge 119-1111
+Edge cost20949
+
+Edge 0-12
+Edge cost20961
+
+Edge 0-112
+Edge cost20973
+
+Edge 1-13
+Edge cost20985
+
+Edge 1-113
+Edge cost20997
+
+Edge 2-14
+Edge cost21009
+
+Edge 2-114
+Edge cost21021
+
+Edge 3-15
+Edge cost21033
+
+Edge 3-115
+Edge cost21045
+
+Edge 4-16
+Edge cost21057
+
+Edge 4-116
+Edge cost21069
+
+Edge 5-16
+Edge cost21081
+
+Edge 5-117
+Edge cost21093
+
+Edge 6-17
+Edge cost21105
+
+Edge 6-117
+Edge cost21117
+
+Edge 7-17
+Edge cost21129
+
+Edge 7-118
+Edge cost21141
+
+Edge 8-17
+Edge cost21153
+
+Edge 8-18
+Edge cost21165
+
+Edge 8-118
+Edge cost21177
+
+Edge 9-17
+Edge cost21189
+
+Edge 9-18
+Edge cost21201
+
+Edge 9-118
+Edge cost21213
+
+Edge 9-119
+Edge cost21225
+
+Edge 10-17
+Edge cost21237
+
+Edge 10-18
+Edge cost21249
+
+Edge 10-11
+Edge cost21261
+
+Edge 10-12
+Edge cost21273
+
+Edge 10-118
+Edge cost21285
+
+Edge 10-119
+Edge cost21297
+
+Edge 10-20
+Edge cost21309
+
+Edge 10-21
+Edge cost21321
+
+Edge 10-219
+Edge cost21333
+
+Edge 10-30
+Edge cost21345
+
+Edge 11-16
+Edge cost21357
+
+Edge 11-17
+Edge cost21369
+
+Edge 11-13
+Edge cost21381
+
+Edge 11-14
+Edge cost21393
+
+Edge 11-118
+Edge cost21405
+
+Edge 11-119
+Edge cost21417
+
+Edge 11-22
+Edge cost21429
+
+Edge 11-23
+Edge cost21441
+
+Edge 11-219
+Edge cost21453
+
+Edge 11-31
+Edge cost21465
+
+Edge 11-32
+Edge cost21477
+
+Edge 11-41
+Edge cost21489
+
+Edge 11-50
+Edge cost21501
+
+Edge 11-60
+Edge cost21513
+
+Edge 12-13
+Edge cost21525
+
+Edge 12-14
+Edge cost21537
+
+Edge 12-15
+Edge cost21549
+
+Edge 12-16
+Edge cost21561
+
+Edge 12-16
+Edge cost21573
+
+Edge 12-17
+Edge cost21585
+
+Edge 12-117
+Edge cost21597
+
+Edge 12-118
+Edge cost21609
+
+Edge 12-24
+Edge cost21621
+
+Edge 12-25
+Edge cost21633
+
+Edge 12-219
+Edge cost21645
+
+Edge 12-33
+Edge cost21657
+
+Edge 12-34
+Edge cost21669
+
+Edge 12-42
+Edge cost21681
+
+Edge 12-43
+Edge cost21693
+
+Edge 12-52
+Edge cost21705
+
+Edge 12-61
+Edge cost21717
+
+Edge 12-71
+Edge cost21729
+
+Edge 12-80
+Edge cost21741
+
+Edge 12-90
+Edge cost21753
+
+Edge 12-100
+Edge cost21765
+
+Edge 12-110
+Edge cost21777
+
+Edge 12-120
+Edge cost21789
+
+Edge 13-19
+Edge cost21801
+
+Edge 13-110
+Edge cost21813
+
+Edge 13-111
+Edge cost21825
+
+Edge 13-112
+Edge cost21837
+
+Edge 13-113
+Edge cost21849
+
+Edge 13-114
+Edge cost21861
+
+Edge 13-115
+Edge cost21873
+
+Edge 13-116
+Edge cost21885
+
+Edge 13-117
+Edge cost21897
+
+Edge 13-27
+Edge cost21909
+
+Edge 13-28
+Edge cost21921
+
+Edge 13-218
+Edge cost21933
+
+Edge 13-219
+Edge cost21945
+
+Edge 13-35
+Edge cost21957
+
+Edge 13-36
+Edge cost21969
+
+Edge 13-44
+Edge cost21981
+
+Edge 13-45
+Edge cost21993
+
+Edge 13-53
+Edge cost22005
+
+Edge 13-54
+Edge cost22017
+
+Edge 13-63
+Edge cost22029
+
+Edge 13-72
+Edge cost22041
+
+Edge 13-82
+Edge cost22053
+
+Edge 13-91
+Edge cost22065
+
+Edge 13-101
+Edge cost22077
+
+Edge 13-111
+Edge cost22089
+
+Edge 13-121
+Edge cost22101
+
+Edge 14-210
+Edge cost22113
+
+Edge 14-211
+Edge cost22125
+
+Edge 14-212
+Edge cost22137
+
+Edge 14-213
+Edge cost22149
+
+Edge 14-214
+Edge cost22161
+
+Edge 14-215
+Edge cost22173
+
+Edge 14-216
+Edge cost22185
+
+Edge 14-217
+Edge cost22197
+
+Edge 14-218
+Edge cost22209
+
+Edge 14-38
+Edge cost22221
+
+Edge 14-39
+Edge cost22233
+
+Edge 14-319
+Edge cost22245
+
+Edge 14-46
+Edge cost22257
+
+Edge 14-47
+Edge cost22269
+
+Edge 14-55
+Edge cost22281
+
+Edge 14-56
+Edge cost22293
+
+Edge 14-64
+Edge cost22305
+
+Edge 14-65
+Edge cost22317
+
+Edge 14-74
+Edge cost22329
+
+Edge 14-83
+Edge cost22341
+
+Edge 14-93
+Edge cost22353
+
+Edge 14-102
+Edge cost22365
+
+Edge 14-112
+Edge cost22377
+
+Edge 14-122
+Edge cost22389
+
+Edge 15-311
+Edge cost22401
+
+Edge 15-312
+Edge cost22413
+
+Edge 15-313
+Edge cost22425
+
+Edge 15-314
+Edge cost22437
+
+Edge 15-315
+Edge cost22449
+
+Edge 15-316
+Edge cost22461
+
+Edge 15-317
+Edge cost22473
+
+Edge 15-318
+Edge cost22485
+
+Edge 15-319
+Edge cost22497
+
+Edge 15-49
+Edge cost22509
+
+Edge 15-410
+Edge cost22521
+
+Edge 15-57
+Edge cost22533
+
+Edge 15-58
+Edge cost22545
+
+Edge 15-66
+Edge cost22557
+
+Edge 15-67
+Edge cost22569
+
+Edge 15-75
+Edge cost22581
+
+Edge 15-76
+Edge cost22593
+
+Edge 15-85
+Edge cost22605
+
+Edge 15-94
+Edge cost22617
+
+Edge 15-104
+Edge cost22629
+
+Edge 15-113
+Edge cost22641
+
+Edge 15-123
+Edge cost22653
+
+Edge 16-412
+Edge cost22665
+
+Edge 16-413
+Edge cost22677
+
+Edge 16-414
+Edge cost22689
+
+Edge 16-415
+Edge cost22701
+
+Edge 16-416
+Edge cost22713
+
+Edge 16-417
+Edge cost22725
+
+Edge 16-418
+Edge cost22737
+
+Edge 16-419
+Edge cost22749
+
+Edge 16-510
+Edge cost22761
+
+Edge 16-511
+Edge cost22773
+
+Edge 16-68
+Edge cost22785
+
+Edge 16-69
+Edge cost22797
+
+Edge 16-77
+Edge cost22809
+
+Edge 16-78
+Edge cost22821
+
+Edge 16-86
+Edge cost22833
+
+Edge 16-87
+Edge cost22845
+
+Edge 16-96
+Edge cost22857
+
+Edge 16-105
+Edge cost22869
+
+Edge 16-115
+Edge cost22881
+
+Edge 16-124
+Edge cost22893
+
+Edge 17-513
+Edge cost22905
+
+Edge 17-514
+Edge cost22917
+
+Edge 17-515
+Edge cost22929
+
+Edge 17-516
+Edge cost22941
+
+Edge 17-517
+Edge cost22953
+
+Edge 17-518
+Edge cost22965
+
+Edge 17-519
+Edge cost22977
+
+Edge 17-611
+Edge cost22989
+
+Edge 17-612
+Edge cost23001
+
+Edge 17-79
+Edge cost23013
+
+Edge 17-710
+Edge cost23025
+
+Edge 17-88
+Edge cost23037
+
+Edge 17-89
+Edge cost23049
+
+Edge 17-97
+Edge cost23061
+
+Edge 17-98
+Edge cost23073
+
+Edge 17-107
+Edge cost23085
+
+Edge 17-116
+Edge cost23097
+
+Edge 17-126
+Edge cost23109
+
+Edge 18-614
+Edge cost23121
+
+Edge 18-615
+Edge cost23133
+
+Edge 18-616
+Edge cost23145
+
+Edge 18-617
+Edge cost23157
+
+Edge 18-618
+Edge cost23169
+
+Edge 18-619
+Edge cost23181
+
+Edge 18-712
+Edge cost23193
+
+Edge 18-713
+Edge cost23205
+
+Edge 18-810
+Edge cost23217
+
+Edge 18-811
+Edge cost23229
+
+Edge 18-99
+Edge cost23241
+
+Edge 18-910
+Edge cost23253
+
+Edge 18-108
+Edge cost23265
+
+Edge 18-109
+Edge cost23277
+
+Edge 18-118
+Edge cost23289
+
+Edge 18-127
+Edge cost23301
+
+Edge 19-715
+Edge cost23313
+
+Edge 19-716
+Edge cost23325
+
+Edge 19-717
+Edge cost23337
+
+Edge 19-718
+Edge cost23349
+
+Edge 19-719
+Edge cost23361
+
+Edge 19-813
+Edge cost23373
+
+Edge 19-814
+Edge cost23385
+
+Edge 19-911
+Edge cost23397
+
+Edge 19-912
+Edge cost23409
+
+Edge 19-1010
+Edge cost23421
+
+Edge 19-1011
+Edge cost23433
+
+Edge 19-119
+Edge cost23445
+
+Edge 19-1110
+Edge cost23457
+
+Edge 19-129
+Edge cost23469
+
+Edge 10-112
+Edge cost23481
+
+Edge 11-113
+Edge cost23493
+
+Edge 12-114
+Edge cost23505
+
+Edge 13-115
+Edge cost23517
+
+Edge 14-116
+Edge cost23529
+
+Edge 15-117
+Edge cost23541
+
+Edge 16-117
+Edge cost23553
+
+Edge 17-118
+Edge cost23565
+
+Edge 18-118
+Edge cost23577
+
+Edge 19-118
+Edge cost23589
+
+Edge 19-119
+Edge cost23601
+
+Edge 110-118
+Edge cost23613
+
+Edge 110-119
+Edge cost23625
+
+Edge 110-20
+Edge cost23637
+
+Edge 110-21
+Edge cost23649
+
+Edge 110-219
+Edge cost23661
+
+Edge 110-30
+Edge cost23673
+
+Edge 111-118
+Edge cost23685
+
+Edge 111-119
+Edge cost23697
+
+Edge 111-22
+Edge cost23709
+
+Edge 111-23
+Edge cost23721
+
+Edge 111-219
+Edge cost23733
+
+Edge 111-31
+Edge cost23745
+
+Edge 111-32
+Edge cost23757
+
+Edge 111-41
+Edge cost23769
+
+Edge 111-50
+Edge cost23781
+
+Edge 111-60
+Edge cost23793
+
+Edge 112-117
+Edge cost23805
+
+Edge 112-118
+Edge cost23817
+
+Edge 112-24
+Edge cost23829
+
+Edge 112-25
+Edge cost23841
+
+Edge 112-219
+Edge cost23853
+
+Edge 112-33
+Edge cost23865
+
+Edge 112-34
+Edge cost23877
+
+Edge 112-42
+Edge cost23889
+
+Edge 112-43
+Edge cost23901
+
+Edge 112-52
+Edge cost23913
+
+Edge 112-61
+Edge cost23925
+
+Edge 112-71
+Edge cost23937
+
+Edge 112-80
+Edge cost23949
+
+Edge 112-90
+Edge cost23961
+
+Edge 112-100
+Edge cost23973
+
+Edge 112-110
+Edge cost23985
+
+Edge 112-120
+Edge cost23997
+
+Edge 113-114
+Edge cost24009
+
+Edge 113-115
+Edge cost24021
+
+Edge 113-116
+Edge cost24033
+
+Edge 113-117
+Edge cost24045
+
+Edge 113-27
+Edge cost24057
+
+Edge 113-28
+Edge cost24069
+
+Edge 113-218
+Edge cost24081
+
+Edge 113-219
+Edge cost24093
+
+Edge 113-35
+Edge cost24105
+
+Edge 113-36
+Edge cost24117
+
+Edge 113-44
+Edge cost24129
+
+Edge 113-45
+Edge cost24141
+
+Edge 113-53
+Edge cost24153
+
+Edge 113-54
+Edge cost24165
+
+Edge 113-63
+Edge cost24177
+
+Edge 113-72
+Edge cost24189
+
+Edge 113-82
+Edge cost24201
+
+Edge 113-91
+Edge cost24213
+
+Edge 113-101
+Edge cost24225
+
+Edge 113-111
+Edge cost24237
+
+Edge 113-121
+Edge cost24249
+
+Edge 114-210
+Edge cost24261
+
+Edge 114-211
+Edge cost24273
+
+Edge 114-212
+Edge cost24285
+
+Edge 114-213
+Edge cost24297
+
+Edge 114-214
+Edge cost24309
+
+Edge 114-215
+Edge cost24321
+
+Edge 114-216
+Edge cost24333
+
+Edge 114-217
+Edge cost24345
+
+Edge 114-218
+Edge cost24357
+
+Edge 114-38
+Edge cost24369
+
+Edge 114-39
+Edge cost24381
+
+Edge 114-319
+Edge cost24393
+
+Edge 114-46
+Edge cost24405
+
+Edge 114-47
+Edge cost24417
+
+Edge 114-55
+Edge cost24429
+
+Edge 114-56
+Edge cost24441
+
+Edge 114-64
+Edge cost24453
+
+Edge 114-65
+Edge cost24465
+
+Edge 114-74
+Edge cost24477
+
+Edge 114-83
+Edge cost24489
+
+Edge 114-93
+Edge cost24501
+
+Edge 114-102
+Edge cost24513
+
+Edge 114-112
+Edge cost24525
+
+Edge 114-122
+Edge cost24537
+
+Edge 115-311
+Edge cost24549
+
+Edge 115-312
+Edge cost24561
+
+Edge 115-313
+Edge cost24573
+
+Edge 115-314
+Edge cost24585
+
+Edge 115-315
+Edge cost24597
+
+Edge 115-316
+Edge cost24609
+
+Edge 115-317
+Edge cost24621
+
+Edge 115-318
+Edge cost24633
+
+Edge 115-319
+Edge cost24645
+
+Edge 115-49
+Edge cost24657
+
+Edge 115-410
+Edge cost24669
+
+Edge 115-57
+Edge cost24681
+
+Edge 115-58
+Edge cost24693
+
+Edge 115-66
+Edge cost24705
+
+Edge 115-67
+Edge cost24717
+
+Edge 115-75
+Edge cost24729
+
+Edge 115-76
+Edge cost24741
+
+Edge 115-85
+Edge cost24753
+
+Edge 115-94
+Edge cost24765
+
+Edge 115-104
+Edge cost24777
+
+Edge 115-113
+Edge cost24789
+
+Edge 115-123
+Edge cost24801
+
+Edge 116-412
+Edge cost24813
+
+Edge 116-413
+Edge cost24825
+
+Edge 116-414
+Edge cost24837
+
+Edge 116-415
+Edge cost24849
+
+Edge 116-416
+Edge cost24861
+
+Edge 116-417
+Edge cost24873
+
+Edge 116-418
+Edge cost24885
+
+Edge 116-419
+Edge cost24897
+
+Edge 116-510
+Edge cost24909
+
+Edge 116-511
+Edge cost24921
+
+Edge 116-68
+Edge cost24933
+
+Edge 116-69
+Edge cost24945
+
+Edge 116-77
+Edge cost24957
+
+Edge 116-78
+Edge cost24969
+
+Edge 116-86
+Edge cost24981
+
+Edge 116-87
+Edge cost24993
+
+Edge 116-96
+Edge cost25005
+
+Edge 116-105
+Edge cost25017
+
+Edge 116-115
+Edge cost25029
+
+Edge 116-124
+Edge cost25041
+
+Edge 117-513
+Edge cost25053
+
+Edge 117-514
+Edge cost25065
+
+Edge 117-515
+Edge cost25077
+
+Edge 117-516
+Edge cost25089
+
+Edge 117-517
+Edge cost25101
+
+Edge 117-518
+Edge cost25113
+
+Edge 117-519
+Edge cost25125
+
+Edge 117-611
+Edge cost25137
+
+Edge 117-612
+Edge cost25149
+
+Edge 117-79
+Edge cost25161
+
+Edge 117-710
+Edge cost25173
+
+Edge 117-88
+Edge cost25185
+
+Edge 117-89
+Edge cost25197
+
+Edge 117-97
+Edge cost25209
+
+Edge 117-98
+Edge cost25221
+
+Edge 117-107
+Edge cost25233
+
+Edge 117-116
+Edge cost25245
+
+Edge 117-126
+Edge cost25257
+
+Edge 118-614
+Edge cost25269
+
+Edge 118-615
+Edge cost25281
+
+Edge 118-616
+Edge cost25293
+
+Edge 118-617
+Edge cost25305
+
+Edge 118-618
+Edge cost25317
+
+Edge 118-619
+Edge cost25329
+
+Edge 118-712
+Edge cost25341
+
+Edge 118-713
+Edge cost25353
+
+Edge 118-810
+Edge cost25365
+
+Edge 118-811
+Edge cost25377
+
+Edge 118-99
+Edge cost25389
+
+Edge 118-910
+Edge cost25401
+
+Edge 118-108
+Edge cost25413
+
+Edge 118-109
+Edge cost25425
+
+Edge 118-118
+Edge cost25437
+
+Edge 118-127
+Edge cost25449
+
+Edge 119-715
+Edge cost25461
+
+Edge 119-716
+Edge cost25473
+
+Edge 119-717
+Edge cost25485
+
+Edge 119-718
+Edge cost25497
+
+Edge 119-719
+Edge cost25509
+
+Edge 119-813
+Edge cost25521
+
+Edge 119-814
+Edge cost25533
+
+Edge 119-911
+Edge cost25545
+
+Edge 119-912
+Edge cost25557
+
+Edge 119-1010
+Edge cost25569
+
+Edge 119-1011
+Edge cost25581
+
+Edge 119-119
+Edge cost25593
+
+Edge 119-1110
+Edge cost25605
+
+Edge 119-129
+Edge cost25617
+
+Edge 0-13
+Edge cost25630
+
+Edge 0-113
+Edge cost25643
+
+Edge 1-14
+Edge cost25656
+
+Edge 1-114
+Edge cost25669
+
+Edge 2-15
+Edge cost25682
+
+Edge 2-115
+Edge cost25695
+
+Edge 3-16
+Edge cost25708
+
+Edge 3-116
+Edge cost25721
+
+Edge 4-17
+Edge cost25734
+
+Edge 4-117
+Edge cost25747
+
+Edge 5-17
+Edge cost25760
+
+Edge 5-18
+Edge cost25773
+
+Edge 5-118
+Edge cost25786
+
+Edge 6-18
+Edge cost25799
+
+Edge 6-118
+Edge cost25812
+
+Edge 6-119
+Edge cost25825
+
+Edge 7-18
+Edge cost25838
+
+Edge 7-19
+Edge cost25851
+
+Edge 7-119
+Edge cost25864
+
+Edge 8-19
+Edge cost25877
+
+Edge 8-119
+Edge cost25890
+
+Edge 9-19
+Edge cost25903
+
+Edge 10-19
+Edge cost25916
+
+Edge 10-10
+Edge cost25929
+
+Edge 11-18
+Edge cost25942
+
+Edge 11-19
+Edge cost25955
+
+Edge 11-12
+Edge cost25968
+
+Edge 11-21
+Edge cost25981
+
+Edge 11-30
+Edge cost25994
+
+Edge 11-40
+Edge cost26007
+
+Edge 12-17
+Edge cost26020
+
+Edge 12-18
+Edge cost26033
+
+Edge 12-19
+Edge cost26046
+
+Edge 12-14
+Edge cost26059
+
+Edge 12-15
+Edge cost26072
+
+Edge 12-119
+Edge cost26085
+
+Edge 12-23
+Edge cost26098
+
+Edge 12-32
+Edge cost26111
+
+Edge 12-41
+Edge cost26124
+
+Edge 12-50
+Edge cost26137
+
+Edge 12-51
+Edge cost26150
+
+Edge 12-60
+Edge cost26163
+
+Edge 12-70
+Edge cost26176
+
+Edge 13-14
+Edge cost26189
+
+Edge 13-15
+Edge cost26202
+
+Edge 13-16
+Edge cost26215
+
+Edge 13-17
+Edge cost26228
+
+Edge 13-18
+Edge cost26241
+
+Edge 13-16
+Edge cost26254
+
+Edge 13-17
+Edge cost26267
+
+Edge 13-18
+Edge cost26280
+
+Edge 13-118
+Edge cost26293
+
+Edge 13-119
+Edge cost26306
+
+Edge 13-25
+Edge cost26319
+
+Edge 13-26
+Edge cost26332
+
+Edge 13-34
+Edge cost26345
+
+Edge 13-43
+Edge cost26358
+
+Edge 13-52
+Edge cost26371
+
+Edge 13-61
+Edge cost26384
+
+Edge 13-62
+Edge cost26397
+
+Edge 13-71
+Edge cost26410
+
+Edge 13-80
+Edge cost26423
+
+Edge 13-81
+Edge cost26436
+
+Edge 13-90
+Edge cost26449
+
+Edge 13-100
+Edge cost26462
+
+Edge 13-110
+Edge cost26475
+
+Edge 13-120
+Edge cost26488
+
+Edge 14-19
+Edge cost26501
+
+Edge 14-110
+Edge cost26514
+
+Edge 14-111
+Edge cost26527
+
+Edge 14-112
+Edge cost26540
+
+Edge 14-113
+Edge cost26553
+
+Edge 14-114
+Edge cost26566
+
+Edge 14-115
+Edge cost26579
+
+Edge 14-116
+Edge cost26592
+
+Edge 14-117
+Edge cost26605
+
+Edge 14-118
+Edge cost26618
+
+Edge 14-119
+Edge cost26631
+
+Edge 14-27
+Edge cost26644
+
+Edge 14-28
+Edge cost26657
+
+Edge 14-29
+Edge cost26670
+
+Edge 14-219
+Edge cost26683
+
+Edge 14-36
+Edge cost26696
+
+Edge 14-37
+Edge cost26709
+
+Edge 14-45
+Edge cost26722
+
+Edge 14-54
+Edge cost26735
+
+Edge 14-63
+Edge cost26748
+
+Edge 14-72
+Edge cost26761
+
+Edge 14-73
+Edge cost26774
+
+Edge 14-82
+Edge cost26787
+
+Edge 14-91
+Edge cost26800
+
+Edge 14-92
+Edge cost26813
+
+Edge 14-101
+Edge cost26826
+
+Edge 14-111
+Edge cost26839
+
+Edge 14-121
+Edge cost26852
+
+Edge 15-210
+Edge cost26865
+
+Edge 15-211
+Edge cost26878
+
+Edge 15-212
+Edge cost26891
+
+Edge 15-213
+Edge cost26904
+
+Edge 15-214
+Edge cost26917
+
+Edge 15-215
+Edge cost26930
+
+Edge 15-216
+Edge cost26943
+
+Edge 15-217
+Edge cost26956
+
+Edge 15-218
+Edge cost26969
+
+Edge 15-219
+Edge cost26982
+
+Edge 15-38
+Edge cost26995
+
+Edge 15-39
+Edge cost27008
+
+Edge 15-310
+Edge cost27021
+
+Edge 15-47
+Edge cost27034
+
+Edge 15-48
+Edge cost27047
+
+Edge 15-56
+Edge cost27060
+
+Edge 15-65
+Edge cost27073
+
+Edge 15-74
+Edge cost27086
+
+Edge 15-83
+Edge cost27099
+
+Edge 15-84
+Edge cost27112
+
+Edge 15-93
+Edge cost27125
+
+Edge 15-102
+Edge cost27138
+
+Edge 15-103
+Edge cost27151
+
+Edge 15-112
+Edge cost27164
+
+Edge 15-122
+Edge cost27177
+
+Edge 16-311
+Edge cost27190
+
+Edge 16-312
+Edge cost27203
+
+Edge 16-313
+Edge cost27216
+
+Edge 16-314
+Edge cost27229
+
+Edge 16-315
+Edge cost27242
+
+Edge 16-316
+Edge cost27255
+
+Edge 16-317
+Edge cost27268
+
+Edge 16-318
+Edge cost27281
+
+Edge 16-319
+Edge cost27294
+
+Edge 16-49
+Edge cost27307
+
+Edge 16-410
+Edge cost27320
+
+Edge 16-411
+Edge cost27333
+
+Edge 16-58
+Edge cost27346
+
+Edge 16-59
+Edge cost27359
+
+Edge 16-67
+Edge cost27372
+
+Edge 16-76
+Edge cost27385
+
+Edge 16-85
+Edge cost27398
+
+Edge 16-94
+Edge cost27411
+
+Edge 16-95
+Edge cost27424
+
+Edge 16-104
+Edge cost27437
+
+Edge 16-113
+Edge cost27450
+
+Edge 16-114
+Edge cost27463
+
+Edge 16-123
+Edge cost27476
+
+Edge 17-412
+Edge cost27489
+
+Edge 17-413
+Edge cost27502
+
+Edge 17-414
+Edge cost27515
+
+Edge 17-415
+Edge cost27528
+
+Edge 17-416
+Edge cost27541
+
+Edge 17-417
+Edge cost27554
+
+Edge 17-418
+Edge cost27567
+
+Edge 17-419
+Edge cost27580
+
+Edge 17-510
+Edge cost27593
+
+Edge 17-511
+Edge cost27606
+
+Edge 17-512
+Edge cost27619
+
+Edge 17-69
+Edge cost27632
+
+Edge 17-610
+Edge cost27645
+
+Edge 17-78
+Edge cost27658
+
+Edge 17-87
+Edge cost27671
+
+Edge 17-96
+Edge cost27684
+
+Edge 17-105
+Edge cost27697
+
+Edge 17-106
+Edge cost27710
+
+Edge 17-115
+Edge cost27723
+
+Edge 17-124
+Edge cost27736
+
+Edge 17-125
+Edge cost27749
+
+Edge 18-513
+Edge cost27762
+
+Edge 18-514
+Edge cost27775
+
+Edge 18-515
+Edge cost27788
+
+Edge 18-516
+Edge cost27801
+
+Edge 18-517
+Edge cost27814
+
+Edge 18-518
+Edge cost27827
+
+Edge 18-519
+Edge cost27840
+
+Edge 18-611
+Edge cost27853
+
+Edge 18-612
+Edge cost27866
+
+Edge 18-613
+Edge cost27879
+
+Edge 18-710
+Edge cost27892
+
+Edge 18-711
+Edge cost27905
+
+Edge 18-89
+Edge cost27918
+
+Edge 18-98
+Edge cost27931
+
+Edge 18-107
+Edge cost27944
+
+Edge 18-116
+Edge cost27957
+
+Edge 18-117
+Edge cost27970
+
+Edge 18-126
+Edge cost27983
+
+Edge 19-614
+Edge cost27996
+
+Edge 19-615
+Edge cost28009
+
+Edge 19-616
+Edge cost28022
+
+Edge 19-617
+Edge cost28035
+
+Edge 19-618
+Edge cost28048
+
+Edge 19-619
+Edge cost28061
+
+Edge 19-712
+Edge cost28074
+
+Edge 19-713
+Edge cost28087
+
+Edge 19-714
+Edge cost28100
+
+Edge 19-811
+Edge cost28113
+
+Edge 19-812
+Edge cost28126
+
+Edge 19-910
+Edge cost28139
+
+Edge 19-109
+Edge cost28152
+
+Edge 19-118
+Edge cost28165
+
+Edge 19-127
+Edge cost28178
+
+Edge 19-128
+Edge cost28191
+
+Edge 10-113
+Edge cost28204
+
+Edge 11-114
+Edge cost28217
+
+Edge 12-115
+Edge cost28230
+
+Edge 13-116
+Edge cost28243
+
+Edge 14-117
+Edge cost28256
+
+Edge 15-118
+Edge cost28269
+
+Edge 16-118
+Edge cost28282
+
+Edge 16-119
+Edge cost28295
+
+Edge 17-119
+Edge cost28308
+
+Edge 18-119
+Edge cost28321
+
+Edge 111-21
+Edge cost28334
+
+Edge 111-30
+Edge cost28347
+
+Edge 111-40
+Edge cost28360
+
+Edge 112-119
+Edge cost28373
+
+Edge 112-23
+Edge cost28386
+
+Edge 112-32
+Edge cost28399
+
+Edge 112-41
+Edge cost28412
+
+Edge 112-50
+Edge cost28425
+
+Edge 112-51
+Edge cost28438
+
+Edge 112-60
+Edge cost28451
+
+Edge 112-70
+Edge cost28464
+
+Edge 113-118
+Edge cost28477
+
+Edge 113-119
+Edge cost28490
+
+Edge 113-25
+Edge cost28503
+
+Edge 113-26
+Edge cost28516
+
+Edge 113-34
+Edge cost28529
+
+Edge 113-43
+Edge cost28542
+
+Edge 113-52
+Edge cost28555
+
+Edge 113-61
+Edge cost28568
+
+Edge 113-62
+Edge cost28581
+
+Edge 113-71
+Edge cost28594
+
+Edge 113-80
+Edge cost28607
+
+Edge 113-81
+Edge cost28620
+
+Edge 113-90
+Edge cost28633
+
+Edge 113-100
+Edge cost28646
+
+Edge 113-110
+Edge cost28659
+
+Edge 113-120
+Edge cost28672
+
+Edge 114-115
+Edge cost28685
+
+Edge 114-116
+Edge cost28698
+
+Edge 114-117
+Edge cost28711
+
+Edge 114-118
+Edge cost28724
+
+Edge 114-119
+Edge cost28737
+
+Edge 114-27
+Edge cost28750
+
+Edge 114-28
+Edge cost28763
+
+Edge 114-29
+Edge cost28776
+
+Edge 114-219
+Edge cost28789
+
+Edge 114-36
+Edge cost28802
+
+Edge 114-37
+Edge cost28815
+
+Edge 114-45
+Edge cost28828
+
+Edge 114-54
+Edge cost28841
+
+Edge 114-63
+Edge cost28854
+
+Edge 114-72
+Edge cost28867
+
+Edge 114-73
+Edge cost28880
+
+Edge 114-82
+Edge cost28893
+
+Edge 114-91
+Edge cost28906
+
+Edge 114-92
+Edge cost28919
+
+Edge 114-101
+Edge cost28932
+
+Edge 114-111
+Edge cost28945
+
+Edge 114-121
+Edge cost28958
+
+Edge 115-210
+Edge cost28971
+
+Edge 115-211
+Edge cost28984
+
+Edge 115-212
+Edge cost28997
+
+Edge 115-213
+Edge cost29010
+
+Edge 115-214
+Edge cost29023
+
+Edge 115-215
+Edge cost29036
+
+Edge 115-216
+Edge cost29049
+
+Edge 115-217
+Edge cost29062
+
+Edge 115-218
+Edge cost29075
+
+Edge 115-219
+Edge cost29088
+
+Edge 115-38
+Edge cost29101
+
+Edge 115-39
+Edge cost29114
+
+Edge 115-310
+Edge cost29127
+
+Edge 115-47
+Edge cost29140
+
+Edge 115-48
+Edge cost29153
+
+Edge 115-56
+Edge cost29166
+
+Edge 115-65
+Edge cost29179
+
+Edge 115-74
+Edge cost29192
+
+Edge 115-83
+Edge cost29205
+
+Edge 115-84
+Edge cost29218
+
+Edge 115-93
+Edge cost29231
+
+Edge 115-102
+Edge cost29244
+
+Edge 115-103
+Edge cost29257
+
+Edge 115-112
+Edge cost29270
+
+Edge 115-122
+Edge cost29283
+
+Edge 116-311
+Edge cost29296
+
+Edge 116-312
+Edge cost29309
+
+Edge 116-313
+Edge cost29322
+
+Edge 116-314
+Edge cost29335
+
+Edge 116-315
+Edge cost29348
+
+Edge 116-316
+Edge cost29361
+
+Edge 116-317
+Edge cost29374
+
+Edge 116-318
+Edge cost29387
+
+Edge 116-319
+Edge cost29400
+
+Edge 116-49
+Edge cost29413
+
+Edge 116-410
+Edge cost29426
+
+Edge 116-411
+Edge cost29439
+
+Edge 116-58
+Edge cost29452
+
+Edge 116-59
+Edge cost29465
+
+Edge 116-67
+Edge cost29478
+
+Edge 116-76
+Edge cost29491
+
+Edge 116-85
+Edge cost29504
+
+Edge 116-94
+Edge cost29517
+
+Edge 116-95
+Edge cost29530
+
+Edge 116-104
+Edge cost29543
+
+Edge 116-113
+Edge cost29556
+
+Edge 116-114
+Edge cost29569
+
+Edge 116-123
+Edge cost29582
+
+Edge 117-412
+Edge cost29595
+
+Edge 117-413
+Edge cost29608
+
+Edge 117-414
+Edge cost29621
+
+Edge 117-415
+Edge cost29634
+
+Edge 117-416
+Edge cost29647
+
+Edge 117-417
+Edge cost29660
+
+Edge 117-418
+Edge cost29673
+
+Edge 117-419
+Edge cost29686
+
+Edge 117-510
+Edge cost29699
+
+Edge 117-511
+Edge cost29712
+
+Edge 117-512
+Edge cost29725
+
+Edge 117-69
+Edge cost29738
+
+Edge 117-610
+Edge cost29751
+
+Edge 117-78
+Edge cost29764
+
+Edge 117-87
+Edge cost29777
+
+Edge 117-96
+Edge cost29790
+
+Edge 117-105
+Edge cost29803
+
+Edge 117-106
+Edge cost29816
+
+Edge 117-115
+Edge cost29829
+
+Edge 117-124
+Edge cost29842
+
+Edge 117-125
+Edge cost29855
+
+Edge 118-513
+Edge cost29868
+
+Edge 118-514
+Edge cost29881
+
+Edge 118-515
+Edge cost29894
+
+Edge 118-516
+Edge cost29907
+
+Edge 118-517
+Edge cost29920
+
+Edge 118-518
+Edge cost29933
+
+Edge 118-519
+Edge cost29946
+
+Edge 118-611
+Edge cost29959
+
+Edge 118-612
+Edge cost29972
+
+Edge 118-613
+Edge cost29985
+
+Edge 118-710
+Edge cost29998
+
+Edge 118-711
+Edge cost30011
+
+Edge 118-89
+Edge cost30024
+
+Edge 118-98
+Edge cost30037
+
+Edge 118-107
+Edge cost30050
+
+Edge 118-116
+Edge cost30063
+
+Edge 118-117
+Edge cost30076
+
+Edge 118-126
+Edge cost30089
+
+Edge 119-614
+Edge cost30102
+
+Edge 119-615
+Edge cost30115
+
+Edge 119-616
+Edge cost30128
+
+Edge 119-617
+Edge cost30141
+
+Edge 119-618
+Edge cost30154
+
+Edge 119-619
+Edge cost30167
+
+Edge 119-712
+Edge cost30180
+
+Edge 119-713
+Edge cost30193
+
+Edge 119-714
+Edge cost30206
+
+Edge 119-811
+Edge cost30219
+
+Edge 119-812
+Edge cost30232
+
+Edge 119-910
+Edge cost30245
+
+Edge 119-109
+Edge cost30258
+
+Edge 119-118
+Edge cost30271
+
+Edge 119-127
+Edge cost30284
+
+Edge 119-128
+Edge cost30297
+
+Edge 0-14
+Edge cost30311
+
+Edge 0-114
+Edge cost30325
+
+Edge 1-15
+Edge cost30339
+
+Edge 1-115
+Edge cost30353
+
+Edge 2-16
+Edge cost30367
+
+Edge 2-116
+Edge cost30381
+
+Edge 3-17
+Edge cost30395
+
+Edge 3-117
+Edge cost30409
+
+Edge 4-18
+Edge cost30423
+
+Edge 4-118
+Edge cost30437
+
+Edge 5-19
+Edge cost30451
+
+Edge 5-119
+Edge cost30465
+
+Edge 6-19
+Edge cost30479
+
+Edge 11-10
+Edge cost30493
+
+Edge 11-11
+Edge cost30507
+
+Edge 11-20
+Edge cost30521
+
+Edge 12-12
+Edge cost30535
+
+Edge 12-13
+Edge cost30549
+
+Edge 12-21
+Edge cost30563
+
+Edge 12-22
+Edge cost30577
+
+Edge 12-31
+Edge cost30591
+
+Edge 12-40
+Edge cost30605
+
+Edge 13-19
+Edge cost30619
+
+Edge 13-15
+Edge cost30633
+
+Edge 13-23
+Edge cost30647
+
+Edge 13-24
+Edge cost30661
+
+Edge 13-32
+Edge cost30675
+
+Edge 13-33
+Edge cost30689
+
+Edge 13-42
+Edge cost30703
+
+Edge 13-51
+Edge cost30717
+
+Edge 13-60
+Edge cost30731
+
+Edge 13-70
+Edge cost30745
+
+Edge 14-15
+Edge cost30759
+
+Edge 14-16
+Edge cost30773
+
+Edge 14-17
+Edge cost30787
+
+Edge 14-18
+Edge cost30801
+
+Edge 14-19
+Edge cost30815
+
+Edge 14-17
+Edge cost30829
+
+Edge 14-18
+Edge cost30843
+
+Edge 14-26
+Edge cost30857
+
+Edge 14-34
+Edge cost30871
+
+Edge 14-35
+Edge cost30885
+
+Edge 14-43
+Edge cost30899
+
+Edge 14-44
+Edge cost30913
+
+Edge 14-53
+Edge cost30927
+
+Edge 14-62
+Edge cost30941
+
+Edge 14-71
+Edge cost30955
+
+Edge 14-81
+Edge cost30969
+
+Edge 14-90
+Edge cost30983
+
+Edge 14-100
+Edge cost30997
+
+Edge 14-110
+Edge cost31011
+
+Edge 14-120
+Edge cost31025
+
+Edge 15-110
+Edge cost31039
+
+Edge 15-111
+Edge cost31053
+
+Edge 15-112
+Edge cost31067
+
+Edge 15-113
+Edge cost31081
+
+Edge 15-114
+Edge cost31095
+
+Edge 15-115
+Edge cost31109
+
+Edge 15-116
+Edge cost31123
+
+Edge 15-117
+Edge cost31137
+
+Edge 15-118
+Edge cost31151
+
+Edge 15-119
+Edge cost31165
+
+Edge 15-28
+Edge cost31179
+
+Edge 15-29
+Edge cost31193
+
+Edge 15-37
+Edge cost31207
+
+Edge 15-45
+Edge cost31221
+
+Edge 15-46
+Edge cost31235
+
+Edge 15-54
+Edge cost31249
+
+Edge 15-55
+Edge cost31263
+
+Edge 15-64
+Edge cost31277
+
+Edge 15-73
+Edge cost31291
+
+Edge 15-82
+Edge cost31305
+
+Edge 15-92
+Edge cost31319
+
+Edge 15-101
+Edge cost31333
+
+Edge 15-111
+Edge cost31347
+
+Edge 15-121
+Edge cost31361
+
+Edge 16-211
+Edge cost31375
+
+Edge 16-212
+Edge cost31389
+
+Edge 16-213
+Edge cost31403
+
+Edge 16-214
+Edge cost31417
+
+Edge 16-215
+Edge cost31431
+
+Edge 16-216
+Edge cost31445
+
+Edge 16-217
+Edge cost31459
+
+Edge 16-218
+Edge cost31473
+
+Edge 16-219
+Edge cost31487
+
+Edge 16-39
+Edge cost31501
+
+Edge 16-310
+Edge cost31515
+
+Edge 16-48
+Edge cost31529
+
+Edge 16-56
+Edge cost31543
+
+Edge 16-57
+Edge cost31557
+
+Edge 16-65
+Edge cost31571
+
+Edge 16-66
+Edge cost31585
+
+Edge 16-75
+Edge cost31599
+
+Edge 16-84
+Edge cost31613
+
+Edge 16-93
+Edge cost31627
+
+Edge 16-103
+Edge cost31641
+
+Edge 16-112
+Edge cost31655
+
+Edge 16-122
+Edge cost31669
+
+Edge 17-312
+Edge cost31683
+
+Edge 17-313
+Edge cost31697
+
+Edge 17-314
+Edge cost31711
+
+Edge 17-315
+Edge cost31725
+
+Edge 17-316
+Edge cost31739
+
+Edge 17-317
+Edge cost31753
+
+Edge 17-318
+Edge cost31767
+
+Edge 17-319
+Edge cost31781
+
+Edge 17-410
+Edge cost31795
+
+Edge 17-411
+Edge cost31809
+
+Edge 17-59
+Edge cost31823
+
+Edge 17-67
+Edge cost31837
+
+Edge 17-68
+Edge cost31851
+
+Edge 17-76
+Edge cost31865
+
+Edge 17-77
+Edge cost31879
+
+Edge 17-86
+Edge cost31893
+
+Edge 17-95
+Edge cost31907
+
+Edge 17-104
+Edge cost31921
+
+Edge 17-114
+Edge cost31935
+
+Edge 17-123
+Edge cost31949
+
+Edge 18-413
+Edge cost31963
+
+Edge 18-414
+Edge cost31977
+
+Edge 18-415
+Edge cost31991
+
+Edge 18-416
+Edge cost32005
+
+Edge 18-417
+Edge cost32019
+
+Edge 18-418
+Edge cost32033
+
+Edge 18-419
+Edge cost32047
+
+Edge 18-511
+Edge cost32061
+
+Edge 18-512
+Edge cost32075
+
+Edge 18-610
+Edge cost32089
+
+Edge 18-78
+Edge cost32103
+
+Edge 18-79
+Edge cost32117
+
+Edge 18-87
+Edge cost32131
+
+Edge 18-88
+Edge cost32145
+
+Edge 18-97
+Edge cost32159
+
+Edge 18-106
+Edge cost32173
+
+Edge 18-115
+Edge cost32187
+
+Edge 18-125
+Edge cost32201
+
+Edge 19-514
+Edge cost32215
+
+Edge 19-515
+Edge cost32229
+
+Edge 19-516
+Edge cost32243
+
+Edge 19-517
+Edge cost32257
+
+Edge 19-518
+Edge cost32271
+
+Edge 19-519
+Edge cost32285
+
+Edge 19-612
+Edge cost32299
+
+Edge 19-613
+Edge cost32313
+
+Edge 19-711
+Edge cost32327
+
+Edge 19-89
+Edge cost32341
+
+Edge 19-810
+Edge cost32355
+
+Edge 19-98
+Edge cost32369
+
+Edge 19-99
+Edge cost32383
+
+Edge 19-108
+Edge cost32397
+
+Edge 19-117
+Edge cost32411
+
+Edge 19-126
+Edge cost32425
+
+Edge 10-114
+Edge cost32439
+
+Edge 11-115
+Edge cost32453
+
+Edge 12-116
+Edge cost32467
+
+Edge 13-117
+Edge cost32481
+
+Edge 14-118
+Edge cost32495
+
+Edge 15-119
+Edge cost32509
+
+Edge 111-20
+Edge cost32523
+
+Edge 112-21
+Edge cost32537
+
+Edge 112-22
+Edge cost32551
+
+Edge 112-31
+Edge cost32565
+
+Edge 112-40
+Edge cost32579
+
+Edge 113-23
+Edge cost32593
+
+Edge 113-24
+Edge cost32607
+
+Edge 113-32
+Edge cost32621
+
+Edge 113-33
+Edge cost32635
+
+Edge 113-42
+Edge cost32649
+
+Edge 113-51
+Edge cost32663
+
+Edge 113-60
+Edge cost32677
+
+Edge 113-70
+Edge cost32691
+
+Edge 114-26
+Edge cost32705
+
+Edge 114-34
+Edge cost32719
+
+Edge 114-35
+Edge cost32733
+
+Edge 114-43
+Edge cost32747
+
+Edge 114-44
+Edge cost32761
+
+Edge 114-53
+Edge cost32775
+
+Edge 114-62
+Edge cost32789
+
+Edge 114-71
+Edge cost32803
+
+Edge 114-81
+Edge cost32817
+
+Edge 114-90
+Edge cost32831
+
+Edge 114-100
+Edge cost32845
+
+Edge 114-110
+Edge cost32859
+
+Edge 114-120
+Edge cost32873
+
+Edge 115-116
+Edge cost32887
+
+Edge 115-117
+Edge cost32901
+
+Edge 115-118
+Edge cost32915
+
+Edge 115-119
+Edge cost32929
+
+Edge 115-28
+Edge cost32943
+
+Edge 115-29
+Edge cost32957
+
+Edge 115-37
+Edge cost32971
+
+Edge 115-45
+Edge cost32985
+
+Edge 115-46
+Edge cost32999
+
+Edge 115-54
+Edge cost33013
+
+Edge 115-55
+Edge cost33027
+
+Edge 115-64
+Edge cost33041
+
+Edge 115-73
+Edge cost33055
+
+Edge 115-82
+Edge cost33069
+
+Edge 115-92
+Edge cost33083
+
+Edge 115-101
+Edge cost33097
+
+Edge 115-111
+Edge cost33111
+
+Edge 115-121
+Edge cost33125
+
+Edge 116-211
+Edge cost33139
+
+Edge 116-212
+Edge cost33153
+
+Edge 116-213
+Edge cost33167
+
+Edge 116-214
+Edge cost33181
+
+Edge 116-215
+Edge cost33195
+
+Edge 116-216
+Edge cost33209
+
+Edge 116-217
+Edge cost33223
+
+Edge 116-218
+Edge cost33237
+
+Edge 116-219
+Edge cost33251
+
+Edge 116-39
+Edge cost33265
+
+Edge 116-310
+Edge cost33279
+
+Edge 116-48
+Edge cost33293
+
+Edge 116-56
+Edge cost33307
+
+Edge 116-57
+Edge cost33321
+
+Edge 116-65
+Edge cost33335
+
+Edge 116-66
+Edge cost33349
+
+Edge 116-75
+Edge cost33363
+
+Edge 116-84
+Edge cost33377
+
+Edge 116-93
+Edge cost33391
+
+Edge 116-103
+Edge cost33405
+
+Edge 116-112
+Edge cost33419
+
+Edge 116-122
+Edge cost33433
+
+Edge 117-312
+Edge cost33447
+
+Edge 117-313
+Edge cost33461
+
+Edge 117-314
+Edge cost33475
+
+Edge 117-315
+Edge cost33489
+
+Edge 117-316
+Edge cost33503
+
+Edge 117-317
+Edge cost33517
+
+Edge 117-318
+Edge cost33531
+
+Edge 117-319
+Edge cost33545
+
+Edge 117-410
+Edge cost33559
+
+Edge 117-411
+Edge cost33573
+
+Edge 117-59
+Edge cost33587
+
+Edge 117-67
+Edge cost33601
+
+Edge 117-68
+Edge cost33615
+
+Edge 117-76
+Edge cost33629
+
+Edge 117-77
+Edge cost33643
+
+Edge 117-86
+Edge cost33657
+
+Edge 117-95
+Edge cost33671
+
+Edge 117-104
+Edge cost33685
+
+Edge 117-114
+Edge cost33699
+
+Edge 117-123
+Edge cost33713
+
+Edge 118-413
+Edge cost33727
+
+Edge 118-414
+Edge cost33741
+
+Edge 118-415
+Edge cost33755
+
+Edge 118-416
+Edge cost33769
+
+Edge 118-417
+Edge cost33783
+
+Edge 118-418
+Edge cost33797
+
+Edge 118-419
+Edge cost33811
+
+Edge 118-511
+Edge cost33825
+
+Edge 118-512
+Edge cost33839
+
+Edge 118-610
+Edge cost33853
+
+Edge 118-78
+Edge cost33867
+
+Edge 118-79
+Edge cost33881
+
+Edge 118-87
+Edge cost33895
+
+Edge 118-88
+Edge cost33909
+
+Edge 118-97
+Edge cost33923
+
+Edge 118-106
+Edge cost33937
+
+Edge 118-115
+Edge cost33951
+
+Edge 118-125
+Edge cost33965
+
+Edge 119-514
+Edge cost33979
+
+Edge 119-515
+Edge cost33993
+
+Edge 119-516
+Edge cost34007
+
+Edge 119-517
+Edge cost34021
+
+Edge 119-518
+Edge cost34035
+
+Edge 119-519
+Edge cost34049
+
+Edge 119-612
+Edge cost34063
+
+Edge 119-613
+Edge cost34077
+
+Edge 119-711
+Edge cost34091
+
+Edge 119-89
+Edge cost34105
+
+Edge 119-810
+Edge cost34119
+
+Edge 119-98
+Edge cost34133
+
+Edge 119-99
+Edge cost34147
+
+Edge 119-108
+Edge cost34161
+
+Edge 119-117
+Edge cost34175
+
+Edge 119-126
+Edge cost34189
+
+Edge 0-15
+Edge cost34204
+
+Edge 0-115
+Edge cost34219
+
+Edge 1-16
+Edge cost34234
+
+Edge 1-116
+Edge cost34249
+
+Edge 2-17
+Edge cost34264
+
+Edge 2-117
+Edge cost34279
+
+Edge 3-18
+Edge cost34294
+
+Edge 3-118
+Edge cost34309
+
+Edge 4-19
+Edge cost34324
+
+Edge 4-119
+Edge cost34339
+
+Edge 12-11
+Edge cost34354
+
+Edge 12-20
+Edge cost34369
+
+Edge 12-30
+Edge cost34384
+
+Edge 13-13
+Edge cost34399
+
+Edge 13-14
+Edge cost34414
+
+Edge 13-22
+Edge cost34429
+
+Edge 13-31
+Edge cost34444
+
+Edge 13-40
+Edge cost34459
+
+Edge 13-41
+Edge cost34474
+
+Edge 13-50
+Edge cost34489
+
+Edge 14-15
+Edge cost34504
+
+Edge 14-16
+Edge cost34519
+
+Edge 14-24
+Edge cost34534
+
+Edge 14-25
+Edge cost34549
+
+Edge 14-33
+Edge cost34564
+
+Edge 14-42
+Edge cost34579
+
+Edge 14-51
+Edge cost34594
+
+Edge 14-52
+Edge cost34609
+
+Edge 14-61
+Edge cost34624
+
+Edge 14-70
+Edge cost34639
+
+Edge 14-80
+Edge cost34654
+
+Edge 15-16
+Edge cost34669
+
+Edge 15-17
+Edge cost34684
+
+Edge 15-18
+Edge cost34699
+
+Edge 15-19
+Edge cost34714
+
+Edge 15-18
+Edge cost34729
+
+Edge 15-19
+Edge cost34744
+
+Edge 15-26
+Edge cost34759
+
+Edge 15-27
+Edge cost34774
+
+Edge 15-35
+Edge cost34789
+
+Edge 15-36
+Edge cost34804
+
+Edge 15-44
+Edge cost34819
+
+Edge 15-53
+Edge cost34834
+
+Edge 15-62
+Edge cost34849
+
+Edge 15-63
+Edge cost34864
+
+Edge 15-72
+Edge cost34879
+
+Edge 15-81
+Edge cost34894
+
+Edge 15-91
+Edge cost34909
+
+Edge 15-100
+Edge cost34924
+
+Edge 15-110
+Edge cost34939
+
+Edge 15-120
+Edge cost34954
+
+Edge 16-111
+Edge cost34969
+
+Edge 16-112
+Edge cost34984
+
+Edge 16-113
+Edge cost34999
+
+Edge 16-114
+Edge cost35014
+
+Edge 16-115
+Edge cost35029
+
+Edge 16-116
+Edge cost35044
+
+Edge 16-117
+Edge cost35059
+
+Edge 16-118
+Edge cost35074
+
+Edge 16-119
+Edge cost35089
+
+Edge 16-29
+Edge cost35104
+
+Edge 16-210
+Edge cost35119
+
+Edge 16-37
+Edge cost35134
+
+Edge 16-38
+Edge cost35149
+
+Edge 16-46
+Edge cost35164
+
+Edge 16-47
+Edge cost35179
+
+Edge 16-55
+Edge cost35194
+
+Edge 16-64
+Edge cost35209
+
+Edge 16-73
+Edge cost35224
+
+Edge 16-74
+Edge cost35239
+
+Edge 16-83
+Edge cost35254
+
+Edge 16-92
+Edge cost35269
+
+Edge 16-102
+Edge cost35284
+
+Edge 16-111
+Edge cost35299
+
+Edge 16-121
+Edge cost35314
+
+Edge 17-212
+Edge cost35329
+
+Edge 17-213
+Edge cost35344
+
+Edge 17-214
+Edge cost35359
+
+Edge 17-215
+Edge cost35374
+
+Edge 17-216
+Edge cost35389
+
+Edge 17-217
+Edge cost35404
+
+Edge 17-218
+Edge cost35419
+
+Edge 17-219
+Edge cost35434
+
+Edge 17-310
+Edge cost35449
+
+Edge 17-311
+Edge cost35464
+
+Edge 17-48
+Edge cost35479
+
+Edge 17-49
+Edge cost35494
+
+Edge 17-57
+Edge cost35509
+
+Edge 17-58
+Edge cost35524
+
+Edge 17-66
+Edge cost35539
+
+Edge 17-75
+Edge cost35554
+
+Edge 17-84
+Edge cost35569
+
+Edge 17-85
+Edge cost35584
+
+Edge 17-94
+Edge cost35599
+
+Edge 17-103
+Edge cost35614
+
+Edge 17-113
+Edge cost35629
+
+Edge 17-122
+Edge cost35644
+
+Edge 18-313
+Edge cost35659
+
+Edge 18-314
+Edge cost35674
+
+Edge 18-315
+Edge cost35689
+
+Edge 18-316
+Edge cost35704
+
+Edge 18-317
+Edge cost35719
+
+Edge 18-318
+Edge cost35734
+
+Edge 18-319
+Edge cost35749
+
+Edge 18-411
+Edge cost35764
+
+Edge 18-412
+Edge cost35779
+
+Edge 18-59
+Edge cost35794
+
+Edge 18-510
+Edge cost35809
+
+Edge 18-68
+Edge cost35824
+
+Edge 18-69
+Edge cost35839
+
+Edge 18-77
+Edge cost35854
+
+Edge 18-86
+Edge cost35869
+
+Edge 18-95
+Edge cost35884
+
+Edge 18-96
+Edge cost35899
+
+Edge 18-105
+Edge cost35914
+
+Edge 18-114
+Edge cost35929
+
+Edge 18-124
+Edge cost35944
+
+Edge 19-414
+Edge cost35959
+
+Edge 19-415
+Edge cost35974
+
+Edge 19-416
+Edge cost35989
+
+Edge 19-417
+Edge cost36004
+
+Edge 19-418
+Edge cost36019
+
+Edge 19-419
+Edge cost36034
+
+Edge 19-512
+Edge cost36049
+
+Edge 19-513
+Edge cost36064
+
+Edge 19-610
+Edge cost36079
+
+Edge 19-611
+Edge cost36094
+
+Edge 19-79
+Edge cost36109
+
+Edge 19-710
+Edge cost36124
+
+Edge 19-88
+Edge cost36139
+
+Edge 19-97
+Edge cost36154
+
+Edge 19-106
+Edge cost36169
+
+Edge 19-107
+Edge cost36184
+
+Edge 19-116
+Edge cost36199
+
+Edge 19-125
+Edge cost36214
+
+Edge 10-115
+Edge cost36229
+
+Edge 11-116
+Edge cost36244
+
+Edge 12-117
+Edge cost36259
+
+Edge 13-118
+Edge cost36274
+
+Edge 14-119
+Edge cost36289
+
+Edge 112-20
+Edge cost36304
+
+Edge 112-30
+Edge cost36319
+
+Edge 113-22
+Edge cost36334
+
+Edge 113-31
+Edge cost36349
+
+Edge 113-40
+Edge cost36364
+
+Edge 113-41
+Edge cost36379
+
+Edge 113-50
+Edge cost36394
+
+Edge 114-24
+Edge cost36409
+
+Edge 114-25
+Edge cost36424
+
+Edge 114-33
+Edge cost36439
+
+Edge 114-42
+Edge cost36454
+
+Edge 114-51
+Edge cost36469
+
+Edge 114-52
+Edge cost36484
+
+Edge 114-61
+Edge cost36499
+
+Edge 114-70
+Edge cost36514
+
+Edge 114-80
+Edge cost36529
+
+Edge 115-26
+Edge cost36544
+
+Edge 115-27
+Edge cost36559
+
+Edge 115-35
+Edge cost36574
+
+Edge 115-36
+Edge cost36589
+
+Edge 115-44
+Edge cost36604
+
+Edge 115-53
+Edge cost36619
+
+Edge 115-62
+Edge cost36634
+
+Edge 115-63
+Edge cost36649
+
+Edge 115-72
+Edge cost36664
+
+Edge 115-81
+Edge cost36679
+
+Edge 115-91
+Edge cost36694
+
+Edge 115-100
+Edge cost36709
+
+Edge 115-110
+Edge cost36724
+
+Edge 115-120
+Edge cost36739
+
+Edge 116-117
+Edge cost36754
+
+Edge 116-118
+Edge cost36769
+
+Edge 116-119
+Edge cost36784
+
+Edge 116-29
+Edge cost36799
+
+Edge 116-210
+Edge cost36814
+
+Edge 116-37
+Edge cost36829
+
+Edge 116-38
+Edge cost36844
+
+Edge 116-46
+Edge cost36859
+
+Edge 116-47
+Edge cost36874
+
+Edge 116-55
+Edge cost36889
+
+Edge 116-64
+Edge cost36904
+
+Edge 116-73
+Edge cost36919
+
+Edge 116-74
+Edge cost36934
+
+Edge 116-83
+Edge cost36949
+
+Edge 116-92
+Edge cost36964
+
+Edge 116-102
+Edge cost36979
+
+Edge 116-111
+Edge cost36994
+
+Edge 116-121
+Edge cost37009
+
+Edge 117-212
+Edge cost37024
+
+Edge 117-213
+Edge cost37039
+
+Edge 117-214
+Edge cost37054
+
+Edge 117-215
+Edge cost37069
+
+Edge 117-216
+Edge cost37084
+
+Edge 117-217
+Edge cost37099
+
+Edge 117-218
+Edge cost37114
+
+Edge 117-219
+Edge cost37129
+
+Edge 117-310
+Edge cost37144
+
+Edge 117-311
+Edge cost37159
+
+Edge 117-48
+Edge cost37174
+
+Edge 117-49
+Edge cost37189
+
+Edge 117-57
+Edge cost37204
+
+Edge 117-58
+Edge cost37219
+
+Edge 117-66
+Edge cost37234
+
+Edge 117-75
+Edge cost37249
+
+Edge 117-84
+Edge cost37264
+
+Edge 117-85
+Edge cost37279
+
+Edge 117-94
+Edge cost37294
+
+Edge 117-103
+Edge cost37309
+
+Edge 117-113
+Edge cost37324
+
+Edge 117-122
+Edge cost37339
+
+Edge 118-313
+Edge cost37354
+
+Edge 118-314
+Edge cost37369
+
+Edge 118-315
+Edge cost37384
+
+Edge 118-316
+Edge cost37399
+
+Edge 118-317
+Edge cost37414
+
+Edge 118-318
+Edge cost37429
+
+Edge 118-319
+Edge cost37444
+
+Edge 118-411
+Edge cost37459
+
+Edge 118-412
+Edge cost37474
+
+Edge 118-59
+Edge cost37489
+
+Edge 118-510
+Edge cost37504
+
+Edge 118-68
+Edge cost37519
+
+Edge 118-69
+Edge cost37534
+
+Edge 118-77
+Edge cost37549
+
+Edge 118-86
+Edge cost37564
+
+Edge 118-95
+Edge cost37579
+
+Edge 118-96
+Edge cost37594
+
+Edge 118-105
+Edge cost37609
+
+Edge 118-114
+Edge cost37624
+
+Edge 118-124
+Edge cost37639
+
+Edge 119-414
+Edge cost37654
+
+Edge 119-415
+Edge cost37669
+
+Edge 119-416
+Edge cost37684
+
+Edge 119-417
+Edge cost37699
+
+Edge 119-418
+Edge cost37714
+
+Edge 119-419
+Edge cost37729
+
+Edge 119-512
+Edge cost37744
+
+Edge 119-513
+Edge cost37759
+
+Edge 119-610
+Edge cost37774
+
+Edge 119-611
+Edge cost37789
+
+Edge 119-79
+Edge cost37804
+
+Edge 119-710
+Edge cost37819
+
+Edge 119-88
+Edge cost37834
+
+Edge 119-97
+Edge cost37849
+
+Edge 119-106
+Edge cost37864
+
+Edge 119-107
+Edge cost37879
+
+Edge 119-116
+Edge cost37894
+
+Edge 119-125
+Edge cost37909
+
+Edge 0-16
+Edge cost37925
+
+Edge 0-116
+Edge cost37941
+
+Edge 1-17
+Edge cost37957
+
+Edge 1-117
+Edge cost37973
+
+Edge 2-18
+Edge cost37989
+
+Edge 2-118
+Edge cost38005
+
+Edge 3-19
+Edge cost38021
+
+Edge 3-119
+Edge cost38037
+
+Edge 12-10
+Edge cost38053
+
+Edge 13-11
+Edge cost38069
+
+Edge 13-12
+Edge cost38085
+
+Edge 13-21
+Edge cost38101
+
+Edge 13-30
+Edge cost38117
+
+Edge 14-14
+Edge cost38133
+
+Edge 14-22
+Edge cost38149
+
+Edge 14-23
+Edge cost38165
+
+Edge 14-32
+Edge cost38181
+
+Edge 14-41
+Edge cost38197
+
+Edge 14-50
+Edge cost38213
+
+Edge 14-60
+Edge cost38229
+
+Edge 15-16
+Edge cost38245
+
+Edge 15-17
+Edge cost38261
+
+Edge 15-25
+Edge cost38277
+
+Edge 15-33
+Edge cost38293
+
+Edge 15-34
+Edge cost38309
+
+Edge 15-43
+Edge cost38325
+
+Edge 15-52
+Edge cost38341
+
+Edge 15-61
+Edge cost38357
+
+Edge 15-71
+Edge cost38373
+
+Edge 15-80
+Edge cost38389
+
+Edge 15-90
+Edge cost38405
+
+Edge 16-17
+Edge cost38421
+
+Edge 16-18
+Edge cost38437
+
+Edge 16-19
+Edge cost38453
+
+Edge 16-19
+Edge cost38469
+
+Edge 16-110
+Edge cost38485
+
+Edge 16-27
+Edge cost38501
+
+Edge 16-28
+Edge cost38517
+
+Edge 16-36
+Edge cost38533
+
+Edge 16-44
+Edge cost38549
+
+Edge 16-45
+Edge cost38565
+
+Edge 16-54
+Edge cost38581
+
+Edge 16-63
+Edge cost38597
+
+Edge 16-72
+Edge cost38613
+
+Edge 16-82
+Edge cost38629
+
+Edge 16-91
+Edge cost38645
+
+Edge 16-101
+Edge cost38661
+
+Edge 16-110
+Edge cost38677
+
+Edge 16-120
+Edge cost38693
+
+Edge 17-112
+Edge cost38709
+
+Edge 17-113
+Edge cost38725
+
+Edge 17-114
+Edge cost38741
+
+Edge 17-115
+Edge cost38757
+
+Edge 17-116
+Edge cost38773
+
+Edge 17-117
+Edge cost38789
+
+Edge 17-118
+Edge cost38805
+
+Edge 17-119
+Edge cost38821
+
+Edge 17-210
+Edge cost38837
+
+Edge 17-211
+Edge cost38853
+
+Edge 17-38
+Edge cost38869
+
+Edge 17-39
+Edge cost38885
+
+Edge 17-47
+Edge cost38901
+
+Edge 17-55
+Edge cost38917
+
+Edge 17-56
+Edge cost38933
+
+Edge 17-65
+Edge cost38949
+
+Edge 17-74
+Edge cost38965
+
+Edge 17-83
+Edge cost38981
+
+Edge 17-93
+Edge cost38997
+
+Edge 17-102
+Edge cost39013
+
+Edge 17-112
+Edge cost39029
+
+Edge 17-121
+Edge cost39045
+
+Edge 18-213
+Edge cost39061
+
+Edge 18-214
+Edge cost39077
+
+Edge 18-215
+Edge cost39093
+
+Edge 18-216
+Edge cost39109
+
+Edge 18-217
+Edge cost39125
+
+Edge 18-218
+Edge cost39141
+
+Edge 18-219
+Edge cost39157
+
+Edge 18-311
+Edge cost39173
+
+Edge 18-312
+Edge cost39189
+
+Edge 18-49
+Edge cost39205
+
+Edge 18-410
+Edge cost39221
+
+Edge 18-58
+Edge cost39237
+
+Edge 18-66
+Edge cost39253
+
+Edge 18-67
+Edge cost39269
+
+Edge 18-76
+Edge cost39285
+
+Edge 18-85
+Edge cost39301
+
+Edge 18-94
+Edge cost39317
+
+Edge 18-104
+Edge cost39333
+
+Edge 18-113
+Edge cost39349
+
+Edge 18-123
+Edge cost39365
+
+Edge 19-314
+Edge cost39381
+
+Edge 19-315
+Edge cost39397
+
+Edge 19-316
+Edge cost39413
+
+Edge 19-317
+Edge cost39429
+
+Edge 19-318
+Edge cost39445
+
+Edge 19-319
+Edge cost39461
+
+Edge 19-412
+Edge cost39477
+
+Edge 19-413
+Edge cost39493
+
+Edge 19-510
+Edge cost39509
+
+Edge 19-511
+Edge cost39525
+
+Edge 19-69
+Edge cost39541
+
+Edge 19-77
+Edge cost39557
+
+Edge 19-78
+Edge cost39573
+
+Edge 19-87
+Edge cost39589
+
+Edge 19-96
+Edge cost39605
+
+Edge 19-105
+Edge cost39621
+
+Edge 19-115
+Edge cost39637
+
+Edge 19-124
+Edge cost39653
+
+Edge 10-116
+Edge cost39669
+
+Edge 11-117
+Edge cost39685
+
+Edge 12-118
+Edge cost39701
+
+Edge 13-119
+Edge cost39717
+
+Edge 113-21
+Edge cost39733
+
+Edge 113-30
+Edge cost39749
+
+Edge 114-22
+Edge cost39765
+
+Edge 114-23
+Edge cost39781
+
+Edge 114-32
+Edge cost39797
+
+Edge 114-41
+Edge cost39813
+
+Edge 114-50
+Edge cost39829
+
+Edge 114-60
+Edge cost39845
+
+Edge 115-25
+Edge cost39861
+
+Edge 115-33
+Edge cost39877
+
+Edge 115-34
+Edge cost39893
+
+Edge 115-43
+Edge cost39909
+
+Edge 115-52
+Edge cost39925
+
+Edge 115-61
+Edge cost39941
+
+Edge 115-71
+Edge cost39957
+
+Edge 115-80
+Edge cost39973
+
+Edge 115-90
+Edge cost39989
+
+Edge 116-27
+Edge cost40005
+
+Edge 116-28
+Edge cost40021
+
+Edge 116-36
+Edge cost40037
+
+Edge 116-44
+Edge cost40053
+
+Edge 116-45
+Edge cost40069
+
+Edge 116-54
+Edge cost40085
+
+Edge 116-63
+Edge cost40101
+
+Edge 116-72
+Edge cost40117
+
+Edge 116-82
+Edge cost40133
+
+Edge 116-91
+Edge cost40149
+
+Edge 116-101
+Edge cost40165
+
+Edge 116-110
+Edge cost40181
+
+Edge 116-120
+Edge cost40197
+
+Edge 117-118
+Edge cost40213
+
+Edge 117-119
+Edge cost40229
+
+Edge 117-210
+Edge cost40245
+
+Edge 117-211
+Edge cost40261
+
+Edge 117-38
+Edge cost40277
+
+Edge 117-39
+Edge cost40293
+
+Edge 117-47
+Edge cost40309
+
+Edge 117-55
+Edge cost40325
+
+Edge 117-56
+Edge cost40341
+
+Edge 117-65
+Edge cost40357
+
+Edge 117-74
+Edge cost40373
+
+Edge 117-83
+Edge cost40389
+
+Edge 117-93
+Edge cost40405
+
+Edge 117-102
+Edge cost40421
+
+Edge 117-112
+Edge cost40437
+
+Edge 117-121
+Edge cost40453
+
+Edge 118-213
+Edge cost40469
+
+Edge 118-214
+Edge cost40485
+
+Edge 118-215
+Edge cost40501
+
+Edge 118-216
+Edge cost40517
+
+Edge 118-217
+Edge cost40533
+
+Edge 118-218
+Edge cost40549
+
+Edge 118-219
+Edge cost40565
+
+Edge 118-311
+Edge cost40581
+
+Edge 118-312
+Edge cost40597
+
+Edge 118-49
+Edge cost40613
+
+Edge 118-410
+Edge cost40629
+
+Edge 118-58
+Edge cost40645
+
+Edge 118-66
+Edge cost40661
+
+Edge 118-67
+Edge cost40677
+
+Edge 118-76
+Edge cost40693
+
+Edge 118-85
+Edge cost40709
+
+Edge 118-94
+Edge cost40725
+
+Edge 118-104
+Edge cost40741
+
+Edge 118-113
+Edge cost40757
+
+Edge 118-123
+Edge cost40773
+
+Edge 119-314
+Edge cost40789
+
+Edge 119-315
+Edge cost40805
+
+Edge 119-316
+Edge cost40821
+
+Edge 119-317
+Edge cost40837
+
+Edge 119-318
+Edge cost40853
+
+Edge 119-319
+Edge cost40869
+
+Edge 119-412
+Edge cost40885
+
+Edge 119-413
+Edge cost40901
+
+Edge 119-510
+Edge cost40917
+
+Edge 119-511
+Edge cost40933
+
+Edge 119-69
+Edge cost40949
+
+Edge 119-77
+Edge cost40965
+
+Edge 119-78
+Edge cost40981
+
+Edge 119-87
+Edge cost40997
+
+Edge 119-96
+Edge cost41013
+
+Edge 119-105
+Edge cost41029
+
+Edge 119-115
+Edge cost41045
+
+Edge 119-124
+Edge cost41061
+
+Edge 0-17
+Edge cost41078
+
+Edge 0-117
+Edge cost41095
+
+Edge 1-18
+Edge cost41112
+
+Edge 1-118
+Edge cost41129
+
+Edge 2-19
+Edge cost41146
+
+Edge 2-119
+Edge cost41163
+
+Edge 13-10
+Edge cost41180
+
+Edge 13-20
+Edge cost41197
+
+Edge 14-12
+Edge cost41214
+
+Edge 14-13
+Edge cost41231
+
+Edge 14-21
+Edge cost41248
+
+Edge 14-30
+Edge cost41265
+
+Edge 14-31
+Edge cost41282
+
+Edge 14-40
+Edge cost41299
+
+Edge 15-14
+Edge cost41316
+
+Edge 15-15
+Edge cost41333
+
+Edge 15-23
+Edge cost41350
+
+Edge 15-24
+Edge cost41367
+
+Edge 15-32
+Edge cost41384
+
+Edge 15-41
+Edge cost41401
+
+Edge 15-42
+Edge cost41418
+
+Edge 15-51
+Edge cost41435
+
+Edge 15-60
+Edge cost41452
+
+Edge 15-70
+Edge cost41469
+
+Edge 16-17
+Edge cost41486
+
+Edge 16-18
+Edge cost41503
+
+Edge 16-25
+Edge cost41520
+
+Edge 16-26
+Edge cost41537
+
+Edge 16-34
+Edge cost41554
+
+Edge 16-35
+Edge cost41571
+
+Edge 16-43
+Edge cost41588
+
+Edge 16-52
+Edge cost41605
+
+Edge 16-53
+Edge cost41622
+
+Edge 16-62
+Edge cost41639
+
+Edge 16-71
+Edge cost41656
+
+Edge 16-80
+Edge cost41673
+
+Edge 16-81
+Edge cost41690
+
+Edge 16-90
+Edge cost41707
+
+Edge 16-100
+Edge cost41724
+
+Edge 17-18
+Edge cost41741
+
+Edge 17-19
+Edge cost41758
+
+Edge 17-19
+Edge cost41775
+
+Edge 17-110
+Edge cost41792
+
+Edge 17-111
+Edge cost41809
+
+Edge 17-28
+Edge cost41826
+
+Edge 17-29
+Edge cost41843
+
+Edge 17-36
+Edge cost41860
+
+Edge 17-37
+Edge cost41877
+
+Edge 17-45
+Edge cost41894
+
+Edge 17-46
+Edge cost41911
+
+Edge 17-54
+Edge cost41928
+
+Edge 17-63
+Edge cost41945
+
+Edge 17-64
+Edge cost41962
+
+Edge 17-73
+Edge cost41979
+
+Edge 17-82
+Edge cost41996
+
+Edge 17-91
+Edge cost42013
+
+Edge 17-92
+Edge cost42030
+
+Edge 17-101
+Edge cost42047
+
+Edge 17-111
+Edge cost42064
+
+Edge 17-120
+Edge cost42081
+
+Edge 18-113
+Edge cost42098
+
+Edge 18-114
+Edge cost42115
+
+Edge 18-115
+Edge cost42132
+
+Edge 18-116
+Edge cost42149
+
+Edge 18-117
+Edge cost42166
+
+Edge 18-118
+Edge cost42183
+
+Edge 18-119
+Edge cost42200
+
+Edge 18-210
+Edge cost42217
+
+Edge 18-211
+Edge cost42234
+
+Edge 18-212
+Edge cost42251
+
+Edge 18-39
+Edge cost42268
+
+Edge 18-310
+Edge cost42285
+
+Edge 18-47
+Edge cost42302
+
+Edge 18-48
+Edge cost42319
+
+Edge 18-56
+Edge cost42336
+
+Edge 18-57
+Edge cost42353
+
+Edge 18-65
+Edge cost42370
+
+Edge 18-74
+Edge cost42387
+
+Edge 18-75
+Edge cost42404
+
+Edge 18-84
+Edge cost42421
+
+Edge 18-93
+Edge cost42438
+
+Edge 18-102
+Edge cost42455
+
+Edge 18-103
+Edge cost42472
+
+Edge 18-112
+Edge cost42489
+
+Edge 18-122
+Edge cost42506
+
+Edge 19-214
+Edge cost42523
+
+Edge 19-215
+Edge cost42540
+
+Edge 19-216
+Edge cost42557
+
+Edge 19-217
+Edge cost42574
+
+Edge 19-218
+Edge cost42591
+
+Edge 19-219
+Edge cost42608
+
+Edge 19-311
+Edge cost42625
+
+Edge 19-312
+Edge cost42642
+
+Edge 19-313
+Edge cost42659
+
+Edge 19-410
+Edge cost42676
+
+Edge 19-411
+Edge cost42693
+
+Edge 19-58
+Edge cost42710
+
+Edge 19-59
+Edge cost42727
+
+Edge 19-67
+Edge cost42744
+
+Edge 19-68
+Edge cost42761
+
+Edge 19-76
+Edge cost42778
+
+Edge 19-85
+Edge cost42795
+
+Edge 19-86
+Edge cost42812
+
+Edge 19-95
+Edge cost42829
+
+Edge 19-104
+Edge cost42846
+
+Edge 19-113
+Edge cost42863
+
+Edge 19-114
+Edge cost42880
+
+Edge 19-123
+Edge cost42897
+
+Edge 10-117
+Edge cost42914
+
+Edge 11-118
+Edge cost42931
+
+Edge 12-119
+Edge cost42948
+
+Edge 113-20
+Edge cost42965
+
+Edge 114-21
+Edge cost42982
+
+Edge 114-30
+Edge cost42999
+
+Edge 114-31
+Edge cost43016
+
+Edge 114-40
+Edge cost43033
+
+Edge 115-23
+Edge cost43050
+
+Edge 115-24
+Edge cost43067
+
+Edge 115-32
+Edge cost43084
+
+Edge 115-41
+Edge cost43101
+
+Edge 115-42
+Edge cost43118
+
+Edge 115-51
+Edge cost43135
+
+Edge 115-60
+Edge cost43152
+
+Edge 115-70
+Edge cost43169
+
+Edge 116-25
+Edge cost43186
+
+Edge 116-26
+Edge cost43203
+
+Edge 116-34
+Edge cost43220
+
+Edge 116-35
+Edge cost43237
+
+Edge 116-43
+Edge cost43254
+
+Edge 116-52
+Edge cost43271
+
+Edge 116-53
+Edge cost43288
+
+Edge 116-62
+Edge cost43305
+
+Edge 116-71
+Edge cost43322
+
+Edge 116-80
+Edge cost43339
+
+Edge 116-81
+Edge cost43356
+
+Edge 116-90
+Edge cost43373
+
+Edge 116-100
+Edge cost43390
+
+Edge 117-28
+Edge cost43407
+
+Edge 117-29
+Edge cost43424
+
+Edge 117-36
+Edge cost43441
+
+Edge 117-37
+Edge cost43458
+
+Edge 117-45
+Edge cost43475
+
+Edge 117-46
+Edge cost43492
+
+Edge 117-54
+Edge cost43509
+
+Edge 117-63
+Edge cost43526
+
+Edge 117-64
+Edge cost43543
+
+Edge 117-73
+Edge cost43560
+
+Edge 117-82
+Edge cost43577
+
+Edge 117-91
+Edge cost43594
+
+Edge 117-92
+Edge cost43611
+
+Edge 117-101
+Edge cost43628
+
+Edge 117-111
+Edge cost43645
+
+Edge 117-120
+Edge cost43662
+
+Edge 118-119
+Edge cost43679
+
+Edge 118-210
+Edge cost43696
+
+Edge 118-211
+Edge cost43713
+
+Edge 118-212
+Edge cost43730
+
+Edge 118-39
+Edge cost43747
+
+Edge 118-310
+Edge cost43764
+
+Edge 118-47
+Edge cost43781
+
+Edge 118-48
+Edge cost43798
+
+Edge 118-56
+Edge cost43815
+
+Edge 118-57
+Edge cost43832
+
+Edge 118-65
+Edge cost43849
+
+Edge 118-74
+Edge cost43866
+
+Edge 118-75
+Edge cost43883
+
+Edge 118-84
+Edge cost43900
+
+Edge 118-93
+Edge cost43917
+
+Edge 118-102
+Edge cost43934
+
+Edge 118-103
+Edge cost43951
+
+Edge 118-112
+Edge cost43968
+
+Edge 118-122
+Edge cost43985
+
+Edge 119-214
+Edge cost44002
+
+Edge 119-215
+Edge cost44019
+
+Edge 119-216
+Edge cost44036
+
+Edge 119-217
+Edge cost44053
+
+Edge 119-218
+Edge cost44070
+
+Edge 119-219
+Edge cost44087
+
+Edge 119-311
+Edge cost44104
+
+Edge 119-312
+Edge cost44121
+
+Edge 119-313
+Edge cost44138
+
+Edge 119-410
+Edge cost44155
+
+Edge 119-411
+Edge cost44172
+
+Edge 119-58
+Edge cost44189
+
+Edge 119-59
+Edge cost44206
+
+Edge 119-67
+Edge cost44223
+
+Edge 119-68
+Edge cost44240
+
+Edge 119-76
+Edge cost44257
+
+Edge 119-85
+Edge cost44274
+
+Edge 119-86
+Edge cost44291
+
+Edge 119-95
+Edge cost44308
+
+Edge 119-104
+Edge cost44325
+
+Edge 119-113
+Edge cost44342
+
+Edge 119-114
+Edge cost44359
+
+Edge 119-123
+Edge cost44376
+
+Edge 0-18
+Edge cost44394
+
+Edge 0-118
+Edge cost44412
+
+Edge 1-19
+Edge cost44430
+
+Edge 1-119
+Edge cost44448
+
+Edge 14-11
+Edge cost44466
+
+Edge 14-20
+Edge cost44484
+
+Edge 15-13
+Edge cost44502
+
+Edge 15-22
+Edge cost44520
+
+Edge 15-31
+Edge cost44538
+
+Edge 15-40
+Edge cost44556
+
+Edge 15-50
+Edge cost44574
+
+Edge 16-15
+Edge cost44592
+
+Edge 16-16
+Edge cost44610
+
+Edge 16-24
+Edge cost44628
+
+Edge 16-33
+Edge cost44646
+
+Edge 16-42
+Edge cost44664
+
+Edge 16-51
+Edge cost44682
+
+Edge 16-60
+Edge cost44700
+
+Edge 16-61
+Edge cost44718
+
+Edge 16-70
+Edge cost44736
+
+Edge 17-17
+Edge cost44754
+
+Edge 17-18
+Edge cost44772
+
+Edge 17-26
+Edge cost44790
+
+Edge 17-27
+Edge cost44808
+
+Edge 17-35
+Edge cost44826
+
+Edge 17-44
+Edge cost44844
+
+Edge 17-53
+Edge cost44862
+
+Edge 17-62
+Edge cost44880
+
+Edge 17-71
+Edge cost44898
+
+Edge 17-72
+Edge cost44916
+
+Edge 17-81
+Edge cost44934
+
+Edge 17-90
+Edge cost44952
+
+Edge 17-100
+Edge cost44970
+
+Edge 17-110
+Edge cost44988
+
+Edge 18-19
+Edge cost45006
+
+Edge 18-110
+Edge cost45024
+
+Edge 18-111
+Edge cost45042
+
+Edge 18-112
+Edge cost45060
+
+Edge 18-28
+Edge cost45078
+
+Edge 18-29
+Edge cost45096
+
+Edge 18-37
+Edge cost45114
+
+Edge 18-38
+Edge cost45132
+
+Edge 18-46
+Edge cost45150
+
+Edge 18-55
+Edge cost45168
+
+Edge 18-64
+Edge cost45186
+
+Edge 18-73
+Edge cost45204
+
+Edge 18-82
+Edge cost45222
+
+Edge 18-83
+Edge cost45240
+
+Edge 18-92
+Edge cost45258
+
+Edge 18-101
+Edge cost45276
+
+Edge 18-111
+Edge cost45294
+
+Edge 18-120
+Edge cost45312
+
+Edge 18-121
+Edge cost45330
+
+Edge 19-113
+Edge cost45348
+
+Edge 19-114
+Edge cost45366
+
+Edge 19-115
+Edge cost45384
+
+Edge 19-116
+Edge cost45402
+
+Edge 19-117
+Edge cost45420
+
+Edge 19-118
+Edge cost45438
+
+Edge 19-119
+Edge cost45456
+
+Edge 19-211
+Edge cost45474
+
+Edge 19-212
+Edge cost45492
+
+Edge 19-213
+Edge cost45510
+
+Edge 19-39
+Edge cost45528
+
+Edge 19-310
+Edge cost45546
+
+Edge 19-48
+Edge cost45564
+
+Edge 19-49
+Edge cost45582
+
+Edge 19-57
+Edge cost45600
+
+Edge 19-66
+Edge cost45618
+
+Edge 19-75
+Edge cost45636
+
+Edge 19-84
+Edge cost45654
+
+Edge 19-93
+Edge cost45672
+
+Edge 19-94
+Edge cost45690
+
+Edge 19-103
+Edge cost45708
+
+Edge 19-112
+Edge cost45726
+
+Edge 19-122
+Edge cost45744
+
+Edge 10-118
+Edge cost45762
+
+Edge 11-119
+Edge cost45780
+
+Edge 114-20
+Edge cost45798
+
+Edge 115-22
+Edge cost45816
+
+Edge 115-31
+Edge cost45834
+
+Edge 115-40
+Edge cost45852
+
+Edge 115-50
+Edge cost45870
+
+Edge 116-24
+Edge cost45888
+
+Edge 116-33
+Edge cost45906
+
+Edge 116-42
+Edge cost45924
+
+Edge 116-51
+Edge cost45942
+
+Edge 116-60
+Edge cost45960
+
+Edge 116-61
+Edge cost45978
+
+Edge 116-70
+Edge cost45996
+
+Edge 117-26
+Edge cost46014
+
+Edge 117-27
+Edge cost46032
+
+Edge 117-35
+Edge cost46050
+
+Edge 117-44
+Edge cost46068
+
+Edge 117-53
+Edge cost46086
+
+Edge 117-62
+Edge cost46104
+
+Edge 117-71
+Edge cost46122
+
+Edge 117-72
+Edge cost46140
+
+Edge 117-81
+Edge cost46158
+
+Edge 117-90
+Edge cost46176
+
+Edge 117-100
+Edge cost46194
+
+Edge 117-110
+Edge cost46212
+
+Edge 118-28
+Edge cost46230
+
+Edge 118-29
+Edge cost46248
+
+Edge 118-37
+Edge cost46266
+
+Edge 118-38
+Edge cost46284
+
+Edge 118-46
+Edge cost46302
+
+Edge 118-55
+Edge cost46320
+
+Edge 118-64
+Edge cost46338
+
+Edge 118-73
+Edge cost46356
+
+Edge 118-82
+Edge cost46374
+
+Edge 118-83
+Edge cost46392
+
+Edge 118-92
+Edge cost46410
+
+Edge 118-101
+Edge cost46428
+
+Edge 118-111
+Edge cost46446
+
+Edge 118-120
+Edge cost46464
+
+Edge 118-121
+Edge cost46482
+
+Edge 119-211
+Edge cost46500
+
+Edge 119-212
+Edge cost46518
+
+Edge 119-213
+Edge cost46536
+
+Edge 119-39
+Edge cost46554
+
+Edge 119-310
+Edge cost46572
+
+Edge 119-48
+Edge cost46590
+
+Edge 119-49
+Edge cost46608
+
+Edge 119-57
+Edge cost46626
+
+Edge 119-66
+Edge cost46644
+
+Edge 119-75
+Edge cost46662
+
+Edge 119-84
+Edge cost46680
+
+Edge 119-93
+Edge cost46698
+
+Edge 119-94
+Edge cost46716
+
+Edge 119-103
+Edge cost46734
+
+Edge 119-112
+Edge cost46752
+
+Edge 119-122
+Edge cost46770
+
+Edge 0-19
+Edge cost46789
+
+Edge 0-119
+Edge cost46808
+
+Edge 14-10
+Edge cost46827
+
+Edge 15-11
+Edge cost46846
+
+Edge 15-12
+Edge cost46865
+
+Edge 15-20
+Edge cost46884
+
+Edge 15-21
+Edge cost46903
+
+Edge 15-30
+Edge cost46922
+
+Edge 16-13
+Edge cost46941
+
+Edge 16-14
+Edge cost46960
+
+Edge 16-22
+Edge cost46979
+
+Edge 16-23
+Edge cost46998
+
+Edge 16-31
+Edge cost47017
+
+Edge 16-32
+Edge cost47036
+
+Edge 16-41
+Edge cost47055
+
+Edge 16-50
+Edge cost47074
+
+Edge 17-16
+Edge cost47093
+
+Edge 17-24
+Edge cost47112
+
+Edge 17-25
+Edge cost47131
+
+Edge 17-33
+Edge cost47150
+
+Edge 17-34
+Edge cost47169
+
+Edge 17-42
+Edge cost47188
+
+Edge 17-43
+Edge cost47207
+
+Edge 17-52
+Edge cost47226
+
+Edge 17-61
+Edge cost47245
+
+Edge 17-70
+Edge cost47264
+
+Edge 17-80
+Edge cost47283
+
+Edge 18-18
+Edge cost47302
+
+Edge 18-19
+Edge cost47321
+
+Edge 18-27
+Edge cost47340
+
+Edge 18-35
+Edge cost47359
+
+Edge 18-36
+Edge cost47378
+
+Edge 18-44
+Edge cost47397
+
+Edge 18-45
+Edge cost47416
+
+Edge 18-53
+Edge cost47435
+
+Edge 18-54
+Edge cost47454
+
+Edge 18-63
+Edge cost47473
+
+Edge 18-72
+Edge cost47492
+
+Edge 18-81
+Edge cost47511
+
+Edge 18-91
+Edge cost47530
+
+Edge 18-100
+Edge cost47549
+
+Edge 18-110
+Edge cost47568
+
+Edge 19-111
+Edge cost47587
+
+Edge 19-112
+Edge cost47606
+
+Edge 19-29
+Edge cost47625
+
+Edge 19-210
+Edge cost47644
+
+Edge 19-38
+Edge cost47663
+
+Edge 19-46
+Edge cost47682
+
+Edge 19-47
+Edge cost47701
+
+Edge 19-55
+Edge cost47720
+
+Edge 19-56
+Edge cost47739
+
+Edge 19-64
+Edge cost47758
+
+Edge 19-65
+Edge cost47777
+
+Edge 19-74
+Edge cost47796
+
+Edge 19-83
+Edge cost47815
+
+Edge 19-92
+Edge cost47834
+
+Edge 19-102
+Edge cost47853
+
+Edge 19-111
+Edge cost47872
+
+Edge 19-121
+Edge cost47891
+
+Edge 10-119
+Edge cost47910
+
+Edge 115-20
+Edge cost47929
+
+Edge 115-21
+Edge cost47948
+
+Edge 115-30
+Edge cost47967
+
+Edge 116-22
+Edge cost47986
+
+Edge 116-23
+Edge cost48005
+
+Edge 116-31
+Edge cost48024
+
+Edge 116-32
+Edge cost48043
+
+Edge 116-41
+Edge cost48062
+
+Edge 116-50
+Edge cost48081
+
+Edge 117-24
+Edge cost48100
+
+Edge 117-25
+Edge cost48119
+
+Edge 117-33
+Edge cost48138
+
+Edge 117-34
+Edge cost48157
+
+Edge 117-42
+Edge cost48176
+
+Edge 117-43
+Edge cost48195
+
+Edge 117-52
+Edge cost48214
+
+Edge 117-61
+Edge cost48233
+
+Edge 117-70
+Edge cost48252
+
+Edge 117-80
+Edge cost48271
+
+Edge 118-27
+Edge cost48290
+
+Edge 118-35
+Edge cost48309
+
+Edge 118-36
+Edge cost48328
+
+Edge 118-44
+Edge cost48347
+
+Edge 118-45
+Edge cost48366
+
+Edge 118-53
+Edge cost48385
+
+Edge 118-54
+Edge cost48404
+
+Edge 118-63
+Edge cost48423
+
+Edge 118-72
+Edge cost48442
+
+Edge 118-81
+Edge cost48461
+
+Edge 118-91
+Edge cost48480
+
+Edge 118-100
+Edge cost48499
+
+Edge 118-110
+Edge cost48518
+
+Edge 119-29
+Edge cost48537
+
+Edge 119-210
+Edge cost48556
+
+Edge 119-38
+Edge cost48575
+
+Edge 119-46
+Edge cost48594
+
+Edge 119-47
+Edge cost48613
+
+Edge 119-55
+Edge cost48632
+
+Edge 119-56
+Edge cost48651
+
+Edge 119-64
+Edge cost48670
+
+Edge 119-65
+Edge cost48689
+
+Edge 119-74
+Edge cost48708
+
+Edge 119-83
+Edge cost48727
+
+Edge 119-92
+Edge cost48746
+
+Edge 119-102
+Edge cost48765
+
+Edge 119-111
+Edge cost48784
+
+Edge 119-121
+Edge cost48803
+
+Edge 15-10
+Edge cost48823
+
+Edge 16-12
+Edge cost48843
+
+Edge 16-21
+Edge cost48863
+
+Edge 16-30
+Edge cost48883
+
+Edge 16-40
+Edge cost48903
+
+Edge 17-14
+Edge cost48923
+
+Edge 17-15
+Edge cost48943
+
+Edge 17-23
+Edge cost48963
+
+Edge 17-32
+Edge cost48983
+
+Edge 17-41
+Edge cost49003
+
+Edge 17-50
+Edge cost49023
+
+Edge 17-51
+Edge cost49043
+
+Edge 17-60
+Edge cost49063
+
+Edge 18-16
+Edge cost49083
+
+Edge 18-17
+Edge cost49103
+
+Edge 18-25
+Edge cost49123
+
+Edge 18-26
+Edge cost49143
+
+Edge 18-34
+Edge cost49163
+
+Edge 18-43
+Edge cost49183
+
+Edge 18-52
+Edge cost49203
+
+Edge 18-61
+Edge cost49223
+
+Edge 18-62
+Edge cost49243
+
+Edge 18-71
+Edge cost49263
+
+Edge 18-80
+Edge cost49283
+
+Edge 18-90
+Edge cost49303
+
+Edge 19-19
+Edge cost49323
+
+Edge 19-110
+Edge cost49343
+
+Edge 19-27
+Edge cost49363
+
+Edge 19-28
+Edge cost49383
+
+Edge 19-36
+Edge cost49403
+
+Edge 19-37
+Edge cost49423
+
+Edge 19-45
+Edge cost49443
+
+Edge 19-54
+Edge cost49463
+
+Edge 19-63
+Edge cost49483
+
+Edge 19-72
+Edge cost49503
+
+Edge 19-73
+Edge cost49523
+
+Edge 19-82
+Edge cost49543
+
+Edge 19-91
+Edge cost49563
+
+Edge 19-101
+Edge cost49583
+
+Edge 19-110
+Edge cost49603
+
+Edge 19-120
+Edge cost49623
+
+Edge 116-21
+Edge cost49643
+
+Edge 116-30
+Edge cost49663
+
+Edge 116-40
+Edge cost49683
+
+Edge 117-23
+Edge cost49703
+
+Edge 117-32
+Edge cost49723
+
+Edge 117-41
+Edge cost49743
+
+Edge 117-50
+Edge cost49763
+
+Edge 117-51
+Edge cost49783
+
+Edge 117-60
+Edge cost49803
+
+Edge 118-25
+Edge cost49823
+
+Edge 118-26
+Edge cost49843
+
+Edge 118-34
+Edge cost49863
+
+Edge 118-43
+Edge cost49883
+
+Edge 118-52
+Edge cost49903
+
+Edge 118-61
+Edge cost49923
+
+Edge 118-62
+Edge cost49943
+
+Edge 118-71
+Edge cost49963
+
+Edge 118-80
+Edge cost49983
+
+Edge 118-90
+Edge cost50003
+
+Edge 119-27
+Edge cost50023
+
+Edge 119-28
+Edge cost50043
+
+Edge 119-36
+Edge cost50063
+
+Edge 119-37
+Edge cost50083
+
+Edge 119-45
+Edge cost50103
+
+Edge 119-54
+Edge cost50123
+
+Edge 119-63
+Edge cost50143
+
+Edge 119-72
+Edge cost50163
+
+Edge 119-73
+Edge cost50183
+
+Edge 119-82
+Edge cost50203
+
+Edge 119-91
+Edge cost50223
+
+Edge 119-101
+Edge cost50243
+
+Edge 119-110
+Edge cost50263
+
+Edge 119-120
+Edge cost50283
+
+Edge 16-10
+Edge cost50304
+
+Edge 16-11
+Edge cost50325
+
+Edge 16-20
+Edge cost50346
+
+Edge 17-12
+Edge cost50367
+
+Edge 17-13
+Edge cost50388
+
+Edge 17-21
+Edge cost50409
+
+Edge 17-22
+Edge cost50430
+
+Edge 17-31
+Edge cost50451
+
+Edge 17-40
+Edge cost50472
+
+Edge 18-15
+Edge cost50493
+
+Edge 18-23
+Edge cost50514
+
+Edge 18-24
+Edge cost50535
+
+Edge 18-32
+Edge cost50556
+
+Edge 18-33
+Edge cost50577
+
+Edge 18-42
+Edge cost50598
+
+Edge 18-51
+Edge cost50619
+
+Edge 18-60
+Edge cost50640
+
+Edge 18-70
+Edge cost50661
+
+Edge 19-17
+Edge cost50682
+
+Edge 19-18
+Edge cost50703
+
+Edge 19-26
+Edge cost50724
+
+Edge 19-34
+Edge cost50745
+
+Edge 19-35
+Edge cost50766
+
+Edge 19-43
+Edge cost50787
+
+Edge 19-44
+Edge cost50808
+
+Edge 19-53
+Edge cost50829
+
+Edge 19-62
+Edge cost50850
+
+Edge 19-71
+Edge cost50871
+
+Edge 19-80
+Edge cost50892
+
+Edge 19-81
+Edge cost50913
+
+Edge 19-90
+Edge cost50934
+
+Edge 19-100
+Edge cost50955
+
+Edge 116-20
+Edge cost50976
+
+Edge 117-21
+Edge cost50997
+
+Edge 117-22
+Edge cost51018
+
+Edge 117-31
+Edge cost51039
+
+Edge 117-40
+Edge cost51060
+
+Edge 118-23
+Edge cost51081
+
+Edge 118-24
+Edge cost51102
+
+Edge 118-32
+Edge cost51123
+
+Edge 118-33
+Edge cost51144
+
+Edge 118-42
+Edge cost51165
+
+Edge 118-51
+Edge cost51186
+
+Edge 118-60
+Edge cost51207
+
+Edge 118-70
+Edge cost51228
+
+Edge 119-26
+Edge cost51249
+
+Edge 119-34
+Edge cost51270
+
+Edge 119-35
+Edge cost51291
+
+Edge 119-43
+Edge cost51312
+
+Edge 119-44
+Edge cost51333
+
+Edge 119-53
+Edge cost51354
+
+Edge 119-62
+Edge cost51375
+
+Edge 119-71
+Edge cost51396
+
+Edge 119-80
+Edge cost51417
+
+Edge 119-81
+Edge cost51438
+
+Edge 119-90
+Edge cost51459
+
+Edge 119-100
+Edge cost51480
+
+Edge 17-11
+Edge cost51502
+
+Edge 17-20
+Edge cost51524
+
+Edge 17-30
+Edge cost51546
+
+Edge 18-13
+Edge cost51568
+
+Edge 18-14
+Edge cost51590
+
+Edge 18-22
+Edge cost51612
+
+Edge 18-31
+Edge cost51634
+
+Edge 18-40
+Edge cost51656
+
+Edge 18-41
+Edge cost51678
+
+Edge 18-50
+Edge cost51700
+
+Edge 19-15
+Edge cost51722
+
+Edge 19-16
+Edge cost51744
+
+Edge 19-24
+Edge cost51766
+
+Edge 19-25
+Edge cost51788
+
+Edge 19-33
+Edge cost51810
+
+Edge 19-42
+Edge cost51832
+
+Edge 19-51
+Edge cost51854
+
+Edge 19-52
+Edge cost51876
+
+Edge 19-61
+Edge cost51898
+
+Edge 19-70
+Edge cost51920
+
+Edge 117-20
+Edge cost51942
+
+Edge 117-30
+Edge cost51964
+
+Edge 118-22
+Edge cost51986
+
+Edge 118-31
+Edge cost52008
+
+Edge 118-40
+Edge cost52030
+
+Edge 118-41
+Edge cost52052
+
+Edge 118-50
+Edge cost52074
+
+Edge 119-24
+Edge cost52096
+
+Edge 119-25
+Edge cost52118
+
+Edge 119-33
+Edge cost52140
+
+Edge 119-42
+Edge cost52162
+
+Edge 119-51
+Edge cost52184
+
+Edge 119-52
+Edge cost52206
+
+Edge 119-61
+Edge cost52228
+
+Edge 119-70
+Edge cost52250
+
+Edge 17-10
+Edge cost52273
+
+Edge 18-12
+Edge cost52296
+
+Edge 18-21
+Edge cost52319
+
+Edge 18-30
+Edge cost52342
+
+Edge 19-14
+Edge cost52365
+
+Edge 19-23
+Edge cost52388
+
+Edge 19-32
+Edge cost52411
+
+Edge 19-41
+Edge cost52434
+
+Edge 19-50
+Edge cost52457
+
+Edge 19-60
+Edge cost52480
+
+Edge 118-21
+Edge cost52503
+
+Edge 118-30
+Edge cost52526
+
+Edge 119-23
+Edge cost52549
+
+Edge 119-32
+Edge cost52572
+
+Edge 119-41
+Edge cost52595
+
+Edge 119-50
+Edge cost52618
+
+Edge 119-60
+Edge cost52641
+
+Edge 18-10
+Edge cost52665
+
+Edge 18-11
+Edge cost52689
+
+Edge 18-20
+Edge cost52713
+
+Edge 19-12
+Edge cost52737
+
+Edge 19-13
+Edge cost52761
+
+Edge 19-21
+Edge cost52785
+
+Edge 19-22
+Edge cost52809
+
+Edge 19-30
+Edge cost52833
+
+Edge 19-31
+Edge cost52857
+
+Edge 19-40
+Edge cost52881
+
+Edge 118-20
+Edge cost52905
+
+Edge 119-21
+Edge cost52929
+
+Edge 119-22
+Edge cost52953
+
+Edge 119-30
+Edge cost52977
+
+Edge 119-31
+Edge cost53001
+
+Edge 119-40
+Edge cost53025
+
+Edge 19-11
+Edge cost53050
+
+Edge 19-20
+Edge cost53075
+
+Edge 119-20
+Edge cost53100
+
+Edge 19-10
+Edge cost53126
+
+Minimum Spanning tree Cost53126
+Duration for MST without path compression in milliseconds: 165

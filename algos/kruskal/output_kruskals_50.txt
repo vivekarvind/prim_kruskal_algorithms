@@ -1,0 +1,151 @@
+KRUSKAL'S USING UNION FIND
+
+Edge 1-11
+Edge cost0
+
+Edge 2-22
+Edge cost0
+
+Edge 3-33
+Edge cost0
+
+Edge 4-44
+Edge cost0
+
+Edge 5-55
+Edge cost0
+
+Edge 6-66
+Edge cost0
+
+Edge 12-22
+Edge cost0
+
+Edge 13-33
+Edge cost0
+
+Edge 14-44
+Edge cost0
+
+Edge 15-55
+Edge cost0
+
+Edge 16-66
+Edge cost0
+
+Edge 23-33
+Edge cost0
+
+Edge 24-44
+Edge cost0
+
+Edge 25-55
+Edge cost0
+
+Edge 26-66
+Edge cost0
+
+Edge 34-44
+Edge cost0
+
+Edge 35-55
+Edge cost0
+
+Edge 36-66
+Edge cost0
+
+Edge 45-55
+Edge cost0
+
+Edge 46-66
+Edge cost0
+
+Edge 56-66
+Edge cost0
+
+Edge 0-1
+Edge cost1
+
+Edge 0-10
+Edge cost2
+
+Edge 1-2
+Edge cost3
+
+Edge 1-20
+Edge cost4
+
+Edge 1-21
+Edge cost5
+
+Edge 2-13
+Edge cost6
+
+Edge 2-31
+Edge cost7
+
+Edge 2-32
+Edge cost8
+
+Edge 3-24
+Edge cost9
+
+Edge 3-42
+Edge cost10
+
+Edge 3-43
+Edge cost11
+
+Edge 4-35
+Edge cost12
+
+Edge 4-53
+Edge cost13
+
+Edge 4-54
+Edge cost14
+
+Edge 5-46
+Edge cost15
+
+Edge 5-64
+Edge cost16
+
+Edge 5-65
+Edge cost17
+
+Edge 6-67
+Edge cost18
+
+Edge 1-30
+Edge cost20
+
+Edge 2-40
+Edge cost22
+
+Edge 2-41
+Edge cost24
+
+Edge 3-51
+Edge cost26
+
+Edge 3-52
+Edge cost28
+
+Edge 4-62
+Edge cost30
+
+Edge 4-63
+Edge cost32
+
+Edge 2-50
+Edge cost35
+
+Edge 3-61
+Edge cost38
+
+Edge 2-60
+Edge cost42
+
+Minimum Spanning tree Cost42
+Duration for MST without path compression in milliseconds: 19
